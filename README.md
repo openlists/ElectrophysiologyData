@@ -12,7 +12,9 @@ Generally, what is described here are large scale collection projects, as well a
 
 There are also a couple general purpose repositories to look for data:
 - [Zenodo](https://zenodo.org/) hosts datasets for individual studies. You can find available datasets by searching for 'eeg', 'meg', or similar, and selecting the 'Dataset' tag on the bottom left of the search page. 
-- The [Open Science Framework](https://osf.io/), amongst other things, hosts open-datasets for specific studies. It doesn't seem to be easily searchable for data in particular, but some interesting datasets are listed below. 
+- The [Open Science Framework](https://osf.io/), amongst other things, hosts open-datasets for specific studies. It doesn't seem to be easily searchable for data in particular, but some interesting datasets are listed below.
+- [Figshare](https://figshare.com) is a general repository for a broad range of materials, and includes datasets. You can search for a data type, or other specifier, and the select 'type' as 'Dataset' to see available datasets. 
+- [Dryad](https://datadryad.org) is a repository for scientific datasets, and includes some EEG/MEG/ECoG datasets. 
 
 #### Data Journals
 
@@ -49,6 +51,8 @@ Paper: doi.org/10.1038/sdata.2017.181
 Link: http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html
 
 Data Portal: http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html
+
+Paper: doi.org/10.1038/sdata.2017.40
 
 ### Physionet
 
@@ -125,7 +129,23 @@ Link: http://bnci-horizon-2020.eu/database/data-sets
 - Motor Imagery BCI Data (n=52)
   - Paper: doi.org/10.5524/100295
   - Data: http://gigadb.org/dataset/100295
-  
+- Simultaneous EEG & NIRS during cognitive tasks (n=26)
+  - Paper: doi.org/10.1038/sdata.2018.3
+  - Data: https://depositonce.tu-berlin.de//handle/11303/6271.2
+- EEG during grasp and lift (n=12)
+  - Paper: doi.org/10.1038/sdata.2014.47
+  - Data: https://doi.org/10.6084/m9.figshare.988376
+- EEG, MEG & fMRI data with perceptual task (n=19)
+  - Paper: doi.org/10.1038/sdata.2015.1
+  - Data: https://openneuro.org/datasets/ds000117/versions/00004
+- EEG data with TMS with visual perception task (n=16)
+  - Paper: doi.org/10.1038/sdata.2016.65
+  - Data: https://datadryad.org/resource/doi:10.5061/dryad.1nr07
+- EEG with Motion Capture during treadmill walking (n=8)
+  - Paper: doi.org/10.1038/sdata.2018.74
+  - Data: https://doi.org/10.6084/m9.figshare.c.3894013.v1
+
+
 ### Other lists of EEG Data
 
 SCCN List: https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html
