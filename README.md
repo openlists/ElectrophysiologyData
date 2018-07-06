@@ -40,29 +40,29 @@ The [ChildMind Institude](https://childmind.org) is a non-profit that, amongst o
 
 ##### Project: Healthy Brain Networks
 
-[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) - [Paper](http:dx.doi.org/10.1038/sdata.2017.181)
+[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) - [Paper](https://dx.doi.org/10.1038/sdata.2017.181)
 
 ##### Project: Multimodal Resource for Studying Information Processing in the Developing Brain (MIPDB)
 
-[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html) - [Paper](doi.org/10.1038/sdata.2017.40)
+[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html) - [Paper](https://doi.org/10.1038/sdata.2017.40)
 
 ### Physionet
 
 Physionet is an archive of physiology data, and includes some EEG data under the 'neuroelectric' tag. 
 
-[Home Page](https://physionet.org) - [Data Portal](https://physionet.org/physiobank/database/#neuro) - [Paper](doi.org/10.1161/01.CIR.101.23.e215)
+[Home Page](https://physionet.org) - [Data Portal](https://physionet.org/physiobank/database/#neuro) - [Paper](https://doi.org/10.1161/01.CIR.101.23.e215)
 
 ### Patient Repository for EEG Data + Computational Tools (PREDICT)
 
 PREDICT is a repository for EEG data, focused on patient data (collected in research settings). 
 
-[Home Page](http://predict.cs.unm.edu) - [Data Portal](http://predict.cs.unm.edu/downloads.php) - [Paper](doi.org/10.3389/fninf.2017.00067)
+[Home Page](http://predict.cs.unm.edu) - [Data Portal](http://predict.cs.unm.edu/downloads.php) - [Paper](https://doi.org/10.3389/fninf.2017.00067)
 
 ### Temple University Hospital (TUH) Corpus
 
 A large collection of EEG recorded in clinical settings (hospital data). 
 
-[Home Page](https://www.isip.piconepress.com/projects/tuh_eeg/) - [Data Portal](https://www.isip.piconepress.com/projects/tuh_eeg/html/request_access.php) - [Paper](doi.org/10.3389/fnins.2016.00196)
+[Home Page](https://www.isip.piconepress.com/projects/tuh_eeg/) - [Data Portal](https://www.isip.piconepress.com/projects/tuh_eeg/html/request_access.php) - [Paper](https://doi.org/10.3389/fnins.2016.00196)
 
 ### EEGbase
 
@@ -70,29 +70,29 @@ EEGbase is a database for electrophysiological data.
 
 Note: the website has a 'Add to Cart' & 'Complete Order' workflow, but the datasets are free.
 
-[Home Page](http://eegdatabase.kiv.zcu.cz/) - [Data Portal](http://eegdatabase.kiv.zcu.cz/L7ExSNbPC4sb6TPJDblCAjFENzhnNxd-qPG-ZJnFrBMnNke5sKkAFKtpliBHROBF3s3qpdiUIEwpYvha0jOAjZOeyglcMlt0e6guRuQwbtI/L7E59/jOA9b/BF3be) - [Paper](doi.org/10.14311/NNW.2012.22.016)
+[Home Page](http://eegdatabase.kiv.zcu.cz/) - [Data Portal](http://eegdatabase.kiv.zcu.cz/L7ExSNbPC4sb6TPJDblCAjFENzhnNxd-qPG-ZJnFrBMnNke5sKkAFKtpliBHROBF3s3qpdiUIEwpYvha0jOAjZOeyglcMlt0e6guRuQwbtI/L7E59/jOA9b/BF3be) - [Paper](https://doi.org/10.14311/NNW.2012.22.016)
 
 Available datasets include:
 - ERP Dataset, Visual P300 Paradigm (n=20)
-  - Paper: doi.org/10.1186/2047-217X-3-35
+  - Paper: https://doi.org/10.1186/2047-217X-3-35
   - Note that this data is also available on GigaDB
 - ERP OddBall Design, Number Guessing Game  (n=250)
-  - Paper: doi.org/10.1038/sdata.2016.121
+  - Paper: https://doi.org/10.1038/sdata.2016.121
 - ERP dataset on Developmental Coordination Disorder (n=32)
-  - Paper: doi.org/10.1093/gigascience/gix002
+  - Paper: https://doi.org/10.1093/gigascience/gix002
 - EEG activity using a driving simulator
-  - Paper: doi.org/10.5220/0006249504410450
+  - Paper: https://doi.org/10.5220/0006249504410450
 
 ### Neuroimaging Tools & Resource Collaboratory (NITRC)
 
 NITRC is a general purpose repository community board for neuroimaging tools, resources, and datasets. In general, is has more tools than datasets listed, and there is nothing specific to EEG about it, but it does contain some available EEG datasets. 
 
-[Home Page](https://www.nitrc.org/) - [Paper](doi.org/10.1016/j.neuroimage.2015.05.074)
+[Home Page](https://www.nitrc.org/) - [Paper](https://doi.org/10.1016/j.neuroimage.2015.05.074)
 
 Available datasets include:
 - Visual Oddball Task (n=18)
   - Data: https://www.nitrc.org/projects/vep_eeg_raw
-  - Paper: doi.org/10.1016/j.jneumeth.2017.10.011
+  - Paper: https://doi.org/10.1016/j.jneumeth.2017.10.011
 - Categorization Task (n=14)
   - https://www.nitrc.org/projects/eegdataanimal
 - Resting State fMRI/EEG (n=8)
@@ -107,22 +107,22 @@ Link: http://bnci-horizon-2020.eu/database/data-sets
 ### Miscellaneous Individual EEG Datasets
 
 - Motor Imagery BCI Data (n=52)
-  - Paper: doi.org/10.5524/100295
+  - Paper: https://doi.org/10.5524/100295
   - Data: http://gigadb.org/dataset/100295
 - Simultaneous EEG & NIRS during cognitive tasks (n=26)
-  - Paper: doi.org/10.1038/sdata.2018.3
+  - Paper: https://doi.org/10.1038/sdata.2018.3
   - Data: https://depositonce.tu-berlin.de//handle/11303/6271.2
 - EEG during grasp and lift (n=12)
-  - Paper: doi.org/10.1038/sdata.2014.47
+  - Paper: https://doi.org/10.1038/sdata.2014.47
   - Data: https://doi.org/10.6084/m9.figshare.988376
 - EEG, MEG & fMRI data with perceptual task (n=19)
-  - Paper: doi.org/10.1038/sdata.2015.1
+  - Paper: https://doi.org/10.1038/sdata.2015.1
   - Data: https://openneuro.org/datasets/ds000117/versions/00004
 - EEG data with TMS with visual perception task (n=16)
-  - Paper: doi.org/10.1038/sdata.2016.65
+  - Paper: https://doi.org/10.1038/sdata.2016.65
   - Data: https://datadryad.org/resource/doi:10.5061/dryad.1nr07
 - EEG with Motion Capture during treadmill walking (n=8)
-  - Paper: doi.org/10.1038/sdata.2018.74
+  - Paper: https://doi.org/10.1038/sdata.2018.74
   - Data: https://doi.org/10.6084/m9.figshare.c.3894013.v1
 
 
@@ -138,7 +138,7 @@ OMEGA is a repository of MEG data.
 
 Link: https://www.mcgill.ca/bic/resources/omega
 
-Paper: doi.org/10.1016/j.neuroimage.2015.04.028
+Paper: https://doi.org/10.1016/j.neuroimage.2015.04.028
 
 ### Human Connectome Project (HCP) - Young Adult
 
@@ -155,7 +155,7 @@ Link: https://camcan-archive.mrc-cbu.cam.ac.uk/
 ### Miscellaneous Individual MEG Datasets
 
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52)
-  - Paper: doi.org/10.1371/journal.pcbi.1005938
+  - Paper: https://doi.org/10.1371/journal.pcbi.1005938
   - Data: https://osf.io/m25n4/
 
 ## ECoG
@@ -182,9 +182,9 @@ Link: http://memory.psych.upenn.edu/RAM
 
 ### Stanford Collection of ECoG Data
 
-Link: purl.stanford.edu/zk881ps0522
+Link: https:purl.stanford.edu/zk881ps0522
 
-Paper: doi.org/10.1152/jn.00113.2017
+Paper: https://doi.org/10.1152/jn.00113.2017
 
 
 ## LFP 
@@ -197,5 +197,5 @@ Link: https://crcns.org
 
 Data Portal: https://crcns.org/data-sets/
 
-Paper: doi.org/10.1007/s12021-008-9009-y
+Paper: https://doi.org/10.1007/s12021-008-9009-y
 
