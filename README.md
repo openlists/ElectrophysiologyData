@@ -36,9 +36,13 @@ The [ChildMind Institude](https://childmind.org) is a non-profit that, amongst o
 
 ##### Project: Healthy Brain Networks
 
+A large project including rest and task EEG data across a large adult cohort (n~1000).
+
 [Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) - [Paper](https://dx.doi.org/10.1038/sdata.2017.181)
 
 ##### Project: Multimodal Resource for Studying Information Processing in the Developing Brain (MIPDB)
+
+A project including rest and task EEG data across a young cohort, ages 6-44 (n=126).
 
 [Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html) - [Paper](https://doi.org/10.1038/sdata.2017.40)
 
@@ -110,19 +114,19 @@ SCCN List: https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html
 
 ### Open MEG Archive (OMEGA)
 
-OMEGA is a repository of MEG data.
+OMEGA is a open-access repository for MEG data, in which individual researchers can deposit their data. 
 
 [Home Page](https://www.mcgill.ca/bic/resources/omega) - [Paper](https://doi.org/10.1016/j.neuroimage.2015.04.028)
 
-### Human Connectome Project (HCP) - Young Adult
+### Human Connectome Project (HCP)
 
 The Human-Connectome Project is a large, multi-site project, mostly focused on MRI, but includes a subset of MEG data.
 
 [Home Page](https://www.humanconnectome.org/study/hcp-young-adult)
 
-### Cambridge Center for Ageing Neuroscience
+### Cambridge Center for Ageing Neuroscience (CAMCAN)
 
-CAMCAN
+CAMCAN includes task & rest data from a large cohort, balanced in age from age 18-88 (n=652). 
 
 [Home Page](https://camcan-archive.mrc-cbu.cam.ac.uk/)
 
@@ -135,6 +139,8 @@ CAMCAN
 
 ### MNI Open iEEG Atlas
 
+The MNI Open iEEG atlas is a repository of iEEG data from a multi-center collection project (n=106). 
+
 [Home Page](https://mni-open-ieegatlas.research.mcgill.ca)
 
 ### iEEG.org
@@ -145,7 +151,7 @@ iEEG.org is an NIH supported repository of intracraniel EEG data.
 
 ### University of Pennsylvania Computational Memory Lab
 
-Electrophysiological data.
+Electrophysiological data
 
 [Home Page](http://memory.psych.upenn.edu/Electrophysiological_Data)
 
@@ -154,6 +160,8 @@ RAM project
 [Home Page](http://memory.psych.upenn.edu/RAM)
 
 ### Stanford Collection of ECoG Data
+
+A collection a 16 tasks across a group of ECoG patients (n=250). 
 
 [Home Page](https:purl.stanford.edu/zk881ps0522) - [Paper](https://doi.org/10.1152/jn.00113.2017)
 
