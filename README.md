@@ -86,7 +86,7 @@ NITRC is a general purpose repository community board for neuroimaging tools, re
 [Home Page](https://www.nitrc.org/) - [Paper](https://doi.org/10.1016/j.neuroimage.2015.05.074)
 
 Available datasets include:
-- Visual Oddball Task (n=18): [Data](https://www.nitrc.org/projects/vep_eeg_raw) - [Paper](https://doi.org/10.1016/j.jneumeth.2017.10.011)
+- Visual Oddball Task (n=18): [Data](https://www.nitrc.org/projects/vep_eeg_raw) - [Paper](https://doi.org/10.1016/j.dib.2017.11.032)
 - Categorization Task (n=14): [Data](https://www.nitrc.org/projects/eegdataanimal)
 - Resting State fMRI/EEG (n=8): [Data](https://www.nitrc.org/projects/cwleegfmri_data)
 
