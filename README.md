@@ -40,7 +40,7 @@ The [ChildMind Institude](https://childmind.org) is a non-profit that, amongst o
 
 ##### Project: Healthy Brain Networks
 
-[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) - [Paper](dx.doi.org/10.1038/sdata.2017.181)
+[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) - [Paper](http:dx.doi.org/10.1038/sdata.2017.181)
 
 ##### Project: Multimodal Resource for Studying Information Processing in the Developing Brain (MIPDB)
 
