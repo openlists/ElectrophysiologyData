@@ -34,13 +34,13 @@ Also: if you have any trouble actually getting data from any of these sources, l
 
 The [ChildMind Institude](https://childmind.org) is a non-profit that, amongst other things, is involved in large-scale research projects that release large datasets. 
 
-##### Project: Healthy Brain Networks
+#### Project: Healthy Brain Networks
 
 A large project including rest and task EEG data across a large adult cohort (n~1000).
 
 [Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) - [Paper](https://dx.doi.org/10.1038/sdata.2017.181)
 
-##### Project: Multimodal Resource for Studying Information Processing in the Developing Brain (MIPDB)
+#### Project: Multimodal Resource for Studying Information Processing in the Developing Brain (MIPDB)
 
 A project including rest and task EEG data across a young cohort, ages 6-44 (n=126).
 
