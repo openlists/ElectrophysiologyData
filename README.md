@@ -40,47 +40,29 @@ The [ChildMind Institude](https://childmind.org) is a non-profit that, amongst o
 
 ##### Project: Healthy Brain Networks
 
-Link: http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html
-
-Data Portal: http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads
-
-Paper: doi.org/10.1038/sdata.2017.181
+[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) - [Paper](dx.doi.org/10.1038/sdata.2017.181)
 
 ##### Project: Multimodal Resource for Studying Information Processing in the Developing Brain (MIPDB)
 
-Link: http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html
-
-Data Portal: http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html
-
-Paper: doi.org/10.1038/sdata.2017.40
+[Home Page](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html) - [Data Portal](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html) - [Paper](doi.org/10.1038/sdata.2017.40)
 
 ### Physionet
 
 Physionet is an archive of physiology data, and includes some EEG data under the 'neuroelectric' tag. 
 
-Link: https://physionet.org
-
-Data Portal: https://physionet.org/physiobank/database/#neuro
-
-Paper: doi.org/10.1161/01.CIR.101.23.e215
+[Home Page](https://physionet.org) - [Data Portal](https://physionet.org/physiobank/database/#neuro) - [Paper](doi.org/10.1161/01.CIR.101.23.e215)
 
 ### Patient Repository for EEG Data + Computational Tools (PREDICT)
 
 PREDICT is a repository for EEG data, focused on patient data (collected in research settings). 
 
-Link: http://predict.cs.unm.edu
-
-Data Portal: http://predict.cs.unm.edu/downloads.php
-
-Paper: doi.org/10.3389/fninf.2017.00067
+[Home Page](http://predict.cs.unm.edu) - [Data Portal](http://predict.cs.unm.edu/downloads.php) - [Paper](doi.org/10.3389/fninf.2017.00067)
 
 ### Temple University Hospital (TUH) Corpus
 
 A large collection of EEG recorded in clinical settings (hospital data). 
 
-Link: https://www.isip.piconepress.com/projects/tuh_eeg/
-
-Paper: doi.org/10.3389/fnins.2016.00196
+[Home Page](https://www.isip.piconepress.com/projects/tuh_eeg/) - [Data Portal](https://www.isip.piconepress.com/projects/tuh_eeg/html/request_access.php) - [Paper](doi.org/10.3389/fnins.2016.00196)
 
 ### EEGbase
 
@@ -88,9 +70,7 @@ EEGbase is a database for electrophysiological data.
 
 Note: the website has a 'Add to Cart' & 'Complete Order' workflow, but the datasets are free.
 
-Link: http://eegdatabase.kiv.zcu.cz/
-
-Paper: doi.org/10.14311/NNW.2012.22.016
+[Home Page](http://eegdatabase.kiv.zcu.cz/) - [Data Portal](http://eegdatabase.kiv.zcu.cz/L7ExSNbPC4sb6TPJDblCAjFENzhnNxd-qPG-ZJnFrBMnNke5sKkAFKtpliBHROBF3s3qpdiUIEwpYvha0jOAjZOeyglcMlt0e6guRuQwbtI/L7E59/jOA9b/BF3be) - [Paper](doi.org/10.14311/NNW.2012.22.016)
 
 Available datasets include:
 - ERP Dataset, Visual P300 Paradigm (n=20)
@@ -107,7 +87,7 @@ Available datasets include:
 
 NITRC is a general purpose repository community board for neuroimaging tools, resources, and datasets. In general, is has more tools than datasets listed, and there is nothing specific to EEG about it, but it does contain some available EEG datasets. 
 
-Link: https://www.nitrc.org/
+[Home Page](https://www.nitrc.org/) - [Paper](doi.org/10.1016/j.neuroimage.2015.05.074)
 
 Available datasets include:
 - Visual Oddball Task (n=18)
