@@ -4,27 +4,29 @@ This is a list of openly available electrophysiological data, focused mainly on 
 
 ## Overview
 
-This list is curated by the VoytekLab, but all data is by and from external sources. We have not necessarily explored all of these datasets and offer no endorsement of ease-of-access and data quality, etc. Everything listed here includes some openly-accesible data for research purposes, requiring, at most, registration for access. Be sure to check the license and/or usage agreements for any datasets you access. 
+This list is curated by the VoytekLab, but all data is by and from external sources. We have not necessarily explored all of these datasets and offer no endorsement of ease-of-access and data quality, etc. 
+
+Everything listed here includes some openly-accesible data for research purposes, requiring, at most, registration for access. Be sure to check the license and/or usage agreements for any datasets you access. 
 
 Generally, what is described here are large scale collection projects, as well as any kind of dedicated databases for such data, including links to particular individual datasets of interest - though it doesn't necessarily list all individual datasets in a given database. 
 
 #### General Repositories
 
-There are also a couple general purpose repositories to look for data:
+There are a few general purpose repositories that you can search for data:
 - [Zenodo](https://zenodo.org/) hosts datasets for individual studies. You can find available datasets by searching for 'eeg', 'meg', or similar, and selecting the 'Dataset' tag on the bottom left of the search page. 
 - The [Open Science Framework](https://osf.io/), amongst other things, hosts open-datasets for specific studies. It doesn't seem to be easily searchable for data in particular, but some interesting datasets are listed below.
-- [Figshare](https://figshare.com) is a general repository for a broad range of materials, and includes datasets. You can search for a data type, or other specifier, and the select 'type' as 'Dataset' to see available datasets. 
-- [Dryad](https://datadryad.org) is a repository for scientific datasets, and includes some EEG/MEG/ECoG datasets. 
+- [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for a data type, or other specifier, and the select 'type' as 'Dataset' to see available datasets. 
+- [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, that is searchable, and includes some EEG/MEG/ECoG datasets. 
 
 #### Data Journals
 
-There are now journals that specifically describe openly available datasets, such as [Scientific Data](https://www.nature.com/sdata/) and [Data in Brief](https://www.journals.elsevier.com/data-in-brief). Both of the above are general purpose journals focused on publishing brief reports about openly available datasets (but do not host the data themselves).
+There are journals that specifically describe openly available datasets, such as [Scientific Data](https://www.nature.com/sdata/) and [Data in Brief](https://www.journals.elsevier.com/data-in-brief). Both of these are general purpose journals focused on publishing brief reports about openly available datasets (but do not host the data themselves).
 
-There is also [GigaScience](http://www.gigasciencejournal.com), a general topic journal that publishes papers in which all associated data is uploaded to their database, [GigaDB](http://gigadb.org), sometimes including electrophysiology data.
+There is also [GigaScience](http://www.gigasciencejournal.com), a general topic journal that publishes papers in which all associated data is uploaded to their database, [GigaDB](http://gigadb.org), that is searchable for specific datasets / datatypes, and does include some electrophysiology data.
 
 ### Contribute
 
-If you know of a data source that is not listed here, let us know! Please open a Pull Request, or just open an issue and mention the dataset & link, and we'll add it in. 
+If you know of a data source that is not listed here, let us know! To do so, you can open a Pull Request with the dataset added in to this file, or just open an issue and mention the dataset & link, and we'll add it in. 
 
 Also: if you have any trouble actually getting data from any of these sources, let us know, and we'll remove the listing. 
 
