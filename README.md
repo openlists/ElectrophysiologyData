@@ -110,7 +110,7 @@ A collection of BCI related EEG datasets.
 - EEG data with a visual spatial attention task (n=45): [Data](https://osf.io/bwzfj) - [Paper](https://doi.org/10.1152/jn.00860.2015)
 - EEG data with a visual working memory task, ERP design (n=104): [Data](https://osf.io/a65xz/ ) - [Paper](https://doi.org/10.1093/cercor/bhx336)
 - EEG data with a visual working memory task, CDA design (n=76): [Data](https://osf.io/8xuk3) - [Paper](https://doi.org/10.1162/jocn_a_01233)
-- EEG data with a covert visual spatial attention task (n=50): [Data](osf.io/m64ue) - [Paper](https://doi.org/10.1177/0956797617699167)
+- EEG data with a covert visual spatial attention task (n=50): [Data](https://osf.io/m64ue) - [Paper](https://doi.org/10.1177/0956797617699167)
 
 ### Other lists of EEG Data
 
