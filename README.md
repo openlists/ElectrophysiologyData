@@ -107,9 +107,9 @@ A collection of BCI related EEG datasets.
 - EEG data with TMS with visual perception task (n=16): [Data](https://datadryad.org/resource/doi:10.5061/dryad.1nr07) - [Paper](https://doi.org/10.1038/sdata.2016.65)
 - EEG with Motion Capture during treadmill walking (n=8): [Data](https://doi.org/10.6084/m9.figshare.c.3894013.v1) - 
 [Paper](https://doi.org/10.1038/sdata.2018.74)
-- EEG data with a visual spatial attention task (n=45): [Data](https://osf.io/bwzfj) [Paper](https://doi.org/10.1152/jn.00860.2015)
-- Visual Attention Working Memory Task, ERP Design (n=104): [Data](https://doi.org/10.17605/OSF.IO/8XUK3) [Paper](https://doi.org/10.1093/cercor/bhx336)
-- Visual Working Memory Task, CDA Design (n=76): [Data](https://osf.io/8xuk3) [Paper](https://doi.org/10.1162/jocn_a_01233)
+- EEG data with a visual spatial attention task (n=45): [Data](https://osf.io/bwzfj) - [Paper](https://doi.org/10.1152/jn.00860.2015)
+- EEG data with a visual working memory task, ERP design (n=104): [Data](https://doi.org/10.17605/OSF.IO/8XUK3) - [Paper](https://doi.org/10.1093/cercor/bhx336)
+- EEG data with a visual working memory task, CDA design (n=76): [Data](https://osf.io/8xuk3) - [Paper](https://doi.org/10.1162/jocn_a_01233)
 
 ### Other lists of EEG Data
 
