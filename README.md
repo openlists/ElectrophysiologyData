@@ -2,6 +2,8 @@
 
 This is a list of openly available electrophysiological data, focused mainly on local field potential (LFP) type measurements from humans, specifically EEG, MEG, and ECoG/iEEG. This list is primarily maintained by [Tom Donoghue](https://github.com/TomDonoghue).
 
+A companion list of open tools is available [here](https://github.com/voytekresearch/OpenTools).
+
 ## Overview
 
 This list is curated by the VoytekLab, but all data is by and from external sources. We have not necessarily explored all of these datasets and offer no endorsement of ease-of-access and data quality, etc. 
