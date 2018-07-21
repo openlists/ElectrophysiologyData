@@ -173,6 +173,12 @@ A collection a 16 tasks across a group of ECoG patients (n=250).
 
 [Home Page](https:purl.stanford.edu/zk881ps0522) - [Paper](https://doi.org/10.1152/jn.00113.2017)
 
+### NeuroTycho
+
+NeuroTycho is as collection of mostly monkey ECoG data. 
+
+[Home Page](http://neurotycho.org)
+
 ## LFP 
 
 ### Collaborative Research in Computational Neuroscience (CRCNS)
