@@ -61,6 +61,9 @@ Physionet is an archive of physiology data, and includes some EEG data under the
 
 [Home Page](https://physionet.org) - [Data Portal](https://physionet.org/physiobank/database/#neuro) - [Paper](https://doi.org/10.1161/01.CIR.101.23.e215)
 
+Available datasets include:
+- EEG Motor Movement / Imagery (n=109) [Data](https://www.physionet.org/pn4/eegmmidb/)
+
 ### Patient Repository for EEG Data + Computational Tools (PREDICT)
 
 PREDICT is a repository for EEG data, focused on patient data (collected in research settings). 
@@ -126,6 +129,7 @@ MASS is a collection of whole night sleep recordings from approximately 200 part
 - EEG data with a visual working memory task, ERP design (n=104): [Data](https://osf.io/a65xz/ ) - [Paper](https://doi.org/10.1093/cercor/bhx336)
 - EEG data with a visual working memory task, CDA design (n=76): [Data](https://osf.io/8xuk3) - [Paper](https://doi.org/10.1162/jocn_a_01233)
 - EEG data with a covert visual spatial attention task (n=50): [Data](https://osf.io/m64ue) - [Paper](https://doi.org/10.1177/0956797617699167)
+- OpenMIIR: EEG data during music perception and imagination (n=10): [Home Page](http://www.owenlab.uwo.ca/research/the_openmiir_dataset.html) - [Data](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR-RawEEG_v1/)
 
 ### Other lists of EEG Data
 
@@ -155,6 +159,7 @@ CAMCAN includes task & rest data from a large cohort, balanced in age from age 1
 
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52): [Data](https://osf.io/m25n4/) - 
 [Paper](https://doi.org/10.1371/journal.pcbi.1005938)
+- Multi-subject, multimodal face processing: face processing dataset including fMRI, MEG, EEG (n=16): [Data](https://openneuro.org/datasets/ds000117/versions/1.0.0) - [Paper](https://doi.org/10.1038/sdata.2015.1)
 
 ## ECoG
 
