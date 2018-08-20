@@ -12,13 +12,18 @@ Everything listed here includes some openly-accesible data for research purposes
 
 Generally, what is described here are large scale collection projects, as well as any kind of dedicated databases for such data, including links to particular individual datasets of interest - though it doesn't necessarily list all individual datasets in a given database. 
 
-#### General Repositories
+#### General Purpose Data Repositories
 
 There are a few general purpose repositories that you can search for data:
 - [Zenodo](https://zenodo.org/) hosts datasets for individual studies. You can find available datasets by searching for 'eeg', 'meg', or similar, and selecting the 'Dataset' tag on the bottom left of the search page. 
-- The [Open Science Framework](https://osf.io/), amongst other things, hosts open-datasets for specific studies. It doesn't seem to be easily searchable for data in particular, but some interesting datasets are listed below.
+- [Open Science Framework](https://osf.io/) is a platform for supporting open science, and includes, amongst other things, data hosting of open-datasets for specific studies. It doesn't seem to be easily searchable by data modality in particular, does does host relevant data, some of which are included in the listings below.
 - [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for a data type, or other specifier, and the select 'type' as 'Dataset' to see available datasets. 
-- [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, that is searchable, and includes some EEG/MEG/ECoG datasets. 
+- [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, that is searchable, and includes some EEG/MEG/ECoG datasets.
+- [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competition. These competitions typically release a dataset for us, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
+
+#### Neuroscience Specific Data Repositories
+
+- [OpenNeuro](https://openneuro.org/) is a free and open platform for analyzing and sharing neuroimaging data. It is currently more focused on MRI datasetes, but includes at least one EEG-fMRI dataset, and may expand to include more electrophysiology data. 
 
 #### Data Journals
 
@@ -99,6 +104,14 @@ Available datasets include:
 A collection of BCI related EEG datasets.
 
 [Home Page](http://bnci-horizon-2020.eu/database/data-sets)
+
+### Montreal Archive of Sleep Studies (MASS)
+
+MASS is a collection of whole night sleep recordings from approximately 200 participants, from hospital based sleep laboratories.
+
+[Home Page](https://massdb.herokuapp.com/en/) - 
+[Data Portal](https://massdb.herokuapp.com/en/get-access/) - 
+[Paper](https://doi.org/10.1111/jsr.12169 )
 
 ### Miscellaneous Individual EEG Datasets
 
