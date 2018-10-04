@@ -189,7 +189,7 @@ RAM project
 
 A collection a 16 tasks across a group of ECoG patients (n=250). 
 
-[Home Page](https:purl.stanford.edu/zk881ps0522) - [Paper](https://doi.org/10.1152/jn.00113.2017)
+[Home Page](https://purl.stanford.edu/zk881ps0522) - [Paper](https://doi.org/10.1152/jn.00113.2017)
 
 ### NeuroTycho
 
