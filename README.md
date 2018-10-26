@@ -204,3 +204,9 @@ NeuroTycho is as collection of mostly monkey ECoG data.
 A collection of data, mostly animal models, including extra-cellular recordings, and some animal model ECoG & iEEG. 
 
 [Home Page](https://crcns.org) - [Data Portal](https://crcns.org/data-sets/) - [Paper](https://doi.org/10.1007/s12021-008-9009-y)
+
+### Buzsáki Lab Webshare
+
+This contains electrophysiological datasets collected from rodents in the Buzsáki lab.
+
+[Home Page](https://buzsakilab.nyumc.org/datasets/) - [Buzsáki lab website](http://buzsakilab.com/wp/)
