@@ -130,6 +130,7 @@ MASS is a collection of whole night sleep recordings from approximately 200 part
 - EEG data with a visual working memory task, CDA design (n=76): [Data](https://osf.io/8xuk3) - [Paper](https://doi.org/10.1162/jocn_a_01233)
 - EEG data with a covert visual spatial attention task (n=50): [Data](https://osf.io/m64ue) - [Paper](https://doi.org/10.1177/0956797617699167)
 - OpenMIIR: EEG data during music perception and imagination (n=10): [Home Page](http://www.owenlab.uwo.ca/research/the_openmiir_dataset.html) - [Data](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR-RawEEG_v1/)
+- EEG data from subjects napping after a working memory task (n=22) [Data](https://osf.io/chav7/) - [Paper](https://doi.org/10.1016/j.compbiomed.2017.08.030)
 
 ### Other lists of EEG Data
 
