@@ -8,7 +8,7 @@ A companion list of open tools is available [here](https://github.com/voytekrese
 
 This list is curated by the VoytekLab, but all data is by and from external sources. We have not necessarily explored all of these datasets and offer no endorsement of ease-of-access and data quality, etc. 
 
-Everything listed here includes some openly-accesible data for research purposes, requiring, at most, registration for access. Be sure to check the license and/or usage agreements for any datasets you access. 
+Everything listed here includes some openly-accessible data for research purposes, requiring, at most, registration for access. Be sure to check the license and/or usage agreements for any datasets you access. 
 
 Generally, what is described here are large scale collection projects, as well as any kind of dedicated databases for such data, including links to particular individual datasets of interest - though it doesn't necessarily list all individual datasets in a given database. 
 
@@ -41,7 +41,7 @@ Also: if you have any trouble actually getting data from any of these sources, l
 
 ### ChildMind Institute
 
-The [ChildMind Institude](https://childmind.org) is a non-profit that, amongst other things, is involved in large-scale research projects that release large datasets. 
+The [ChildMind Institute](https://childmind.org) is a non-profit that, amongst other things, is involved in large-scale research projects that release large datasets. 
 
 #### Project: Healthy Brain Networks
 
@@ -172,7 +172,7 @@ The MNI Open iEEG atlas is a repository of iEEG data from a multi-center collect
 
 ### iEEG.org
 
-iEEG.org is an NIH supported repository of intracraniel EEG data. 
+iEEG.org is an NIH supported repository of intracranial EEG data. 
 
 [Home Page](https://www.ieeg.org)
 
