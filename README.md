@@ -1,4 +1,4 @@
-# Open Datasets in Human Electrophysiology
+# Open Datasets in Electrophysiology
 
 This is a list of openly available electrophysiological data, focused mainly on local field potential (LFP) type measurements from humans, specifically EEG, MEG, and ECoG/iEEG. This list is primarily maintained by [Tom Donoghue](https://github.com/TomDonoghue).
 
@@ -114,9 +114,19 @@ MASS is a collection of whole night sleep recordings from approximately 200 part
 
 [Home Page](https://massdb.herokuapp.com/en/) - 
 [Data Portal](https://massdb.herokuapp.com/en/get-access/) - 
-[Paper](https://doi.org/10.1111/jsr.12169 )
+[Paper](https://doi.org/10.1111/jsr.12169)
 
-### Miscellaneous Individual EEG Datasets
+### National Sleep Research Resource
+
+NSRR is a resource offering large collections of physiological signals, including polysomnography recordings with EEG from research studies and clinical collections. 
+
+[Home Page](https://sleepdata.org/) - 
+[Data Portal](https://sleepdata.org/datasets) - 
+[Paper](https://doi.org/10.5665/sleep.5774)
+
+### Individual EEG Datasets (Research Systems)
+
+The following are datasets collected with research EEG systems:
 
 - Motor Imagery BCI Data (n=52): [Data](http://gigadb.org/dataset/100295) - [Paper](https://doi.org/10.5524/100295)
 - Simultaneous EEG & NIRS during cognitive tasks (n=26): [Data](https://depositonce.tu-berlin.de//handle/11303/6271.2) - [Paper](https://doi.org/10.1038/sdata.2018.3)
@@ -131,6 +141,15 @@ MASS is a collection of whole night sleep recordings from approximately 200 part
 - EEG data with a covert visual spatial attention task (n=50): [Data](https://osf.io/m64ue) - [Paper](https://doi.org/10.1177/0956797617699167)
 - OpenMIIR: EEG data during music perception and imagination (n=10): [Home Page](http://www.owenlab.uwo.ca/research/the_openmiir_dataset.html) - [Data](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR-RawEEG_v1/)
 - EEG data from subjects napping after a working memory task (n=22) [Data](https://osf.io/chav7/) - [Paper](https://doi.org/10.1016/j.compbiomed.2017.08.030)
+- DEAP: Database for Emotion Analysis, EEG data + video recording, while watching videos (n=32) [Data](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/) - [Paper](https://doi.org/10.1109/T-AFFC.2011.15)
+- A collection of EEG tasks with speech studies (n=84, split across 5 tasks) [Data](https://doi.org/10.5061/dryad.070jc) -  [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
+
+### Individual EEG Datasets (Consumer Systems)
+
+The following are avaialable datasets collected with consumer EEG systems:
+
+- MNIST of Brain Data from MindBigData (n=1 with 1.2 million trials): [Data](http://mindbigdata.com/opendb/index.html)
+- ImageNet of the Brain from MindBigData (n=1 with 70,000 trials): [Data](http://mindbigdata.com/opendb/imagenet.html)
 
 ### Other lists of EEG Data
 
