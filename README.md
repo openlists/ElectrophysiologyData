@@ -1,16 +1,22 @@
 # Open Datasets in Electrophysiology
 
-This is a list of openly available electrophysiological data, focused mainly on local field potential (LFP) type measurements from humans, specifically EEG, MEG, and ECoG/iEEG. This list is primarily maintained by [Tom Donoghue](https://github.com/TomDonoghue).
+This is a list of openly available electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP data.
 
-A companion list of open tools is available [here](https://github.com/voytekresearch/OpenTools).
+Datasets and resources listed here should all be openly-accessible for research purposes, requiring, at most, registration for access. Be sure to check the license and/or usage agreements for any datasets you access. 
 
-## Overview
+To contribute a new link to a data source or resource, open an issue mentioning it, or a pull request with a link. 
 
-This list is curated by the VoytekLab, but all data is by and from external sources. We have not necessarily explored all of these datasets and offer no endorsement of ease-of-access and data quality, etc. 
+## Table of Contents
 
-Everything listed here includes some openly-accessible data for research purposes, requiring, at most, registration for access. Be sure to check the license and/or usage agreements for any datasets you access. 
+- [Repositories](#repositories)
+- [EEG](#eeg)
+- [MEG](#meg)
+- [ECoG](#ecog)
+- [LFP](#lfp)
 
-Generally, what is described here are large scale collection projects, as well as any kind of dedicated databases for such data, including links to particular individual datasets of interest - though it doesn't necessarily list all individual datasets in a given database. 
+## General Repositories
+
+There are several repositories, journals, and search engines that can be checked and searched for relevant datasets. 
 
 #### General Purpose Data Repositories
 
@@ -27,17 +33,23 @@ There are a few general purpose repositories that you can search for data:
 
 #### Data Journals
 
-There are journals that specifically describe openly available datasets, such as [Scientific Data](https://www.nature.com/sdata/) and [Data in Brief](https://www.journals.elsevier.com/data-in-brief). Both of these are general purpose journals focused on publishing brief reports about openly available datasets (but do not host the data themselves).
+There are journals that specifically describe openly available datasets, and/or mandate that data be openly released, including:
 
-There is also [GigaScience](http://www.gigasciencejournal.com), a general topic journal that publishes papers in which all associated data is uploaded to their database, [GigaDB](http://gigadb.org), that is searchable for specific datasets / datatypes, and does include some electrophysiology data.
+- [Scientific Data](https://www.nature.com/sdata/)
+    - A general purpose journal that publishes brief reports on openly available datasets
+- [Data in Brief](https://www.journals.elsevier.com/data-in-brief)
+    - A general purpose journal that publishes brief reports on openly available datasets
+- [GigaScience](http://www.gigasciencejournal.com)
+    - A general topic journal that publishes papers for which all associated data must be made available
+    - Data is uploaded to their [GigaDB](http://gigadb.org) database, that is searchable 
 
-### Contribute
+#### Data Search Engines
 
-If you know of a data source that is not listed here, let us know! To do so, you can open a Pull Request with the dataset added in to this file, or just open an issue and mention the dataset & link, and we'll add it in. 
-
-Also: if you have any trouble actually getting data from any of these sources, let us know, and we'll remove the listing. 
+Google has a new [dataset search](https://datasetsearch.research.google.com/) that can be used to search for datasets. 
 
 ## EEG
+
+Openly available electroencephalography (EEG) datasets and large-scale projects with EEG data.
 
 ### ChildMind Institute
 
@@ -153,9 +165,13 @@ The following are avaialable datasets collected with consumer EEG systems:
 
 ### Other lists of EEG Data
 
-SCCN List: https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html
+There are some other lists of available EEG data, including:
+- A publicly [curated list](https://github.com/meagmohit/EEG-Datasets) list of EEG data
+- The [SCCN list](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html) of public EEG data
 
 ## MEG
+
+Openly available magnetoencephalography (MEG) datasets and large-scale projects with MEG data.
 
 ### Open MEG Archive (OMEGA)
 
@@ -182,6 +198,8 @@ CAMCAN includes task & rest data from a large cohort, balanced in age from age 1
 - Multi-subject, multimodal face processing: face processing dataset including fMRI, MEG, EEG (n=16): [Data](https://openneuro.org/datasets/ds000117/versions/1.0.0) - [Paper](https://doi.org/10.1038/sdata.2015.1)
 
 ## ECoG
+
+Openly available electrocorticograpgy (ECoG) datasets and large-scale projects with ECoG data, including and sometimes also referred to as intracranial EEG (iEEG) or stereo-electroencephalography (sEEG). 
 
 ### MNI Open iEEG Atlas
 
@@ -218,6 +236,8 @@ NeuroTycho is as collection of mostly monkey ECoG data.
 [Home Page](http://neurotycho.org)
 
 ## LFP 
+
+Openly available local field potential (LFP) datasets and large-scale projects with LFP data.
 
 ### Collaborative Research in Computational Neuroscience (CRCNS)
 
