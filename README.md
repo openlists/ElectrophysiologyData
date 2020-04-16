@@ -9,12 +9,12 @@ To contribute a new link to a data source or resource, open an issue mentioning 
 ## Table of Contents
 
 - [Repositories](#repositories)
-- [EEG](#eeg)
-- [MEG](#meg)
-- [ECoG](#ecog)
-- [LFP](#lfp)
+- [EEG Data](#eeg-data)
+- [MEG Data](#meg-data)
+- [Human Intracranial Data](#human-intracranial-data)
+- [Animal LFP Data](#animal-lfp-data)
 
-## General Repositories
+## Repositories
 
 There are several repositories, journals, and search engines that can be checked and searched for relevant datasets.
 
@@ -25,11 +25,13 @@ There are a few general purpose repositories that you can search for data:
 - [Open Science Framework](https://osf.io/) is a platform for supporting open science, and includes, amongst other things, data hosting of open-datasets for specific studies. It doesn't seem to be easily searchable by data modality in particular, does does host relevant data, some of which are included in the listings below.
 - [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for a data type, or other specifier, and the select 'type' as 'Dataset' to see available datasets.
 - [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, that is searchable, and includes some EEG/MEG/ECoG datasets.
+- [G-Node Open Data](https://doi.gin.g-node.org) is a repository service for scientific datasets, by G-Node (the German Neuroinformatics Node), built on their [G-Node data infrastructure services](https://gin.g-node.org).
 - [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competition. These competitions typically release a dataset for us, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
 
 #### Neuroscience Specific Data Repositories
 
 - [OpenNeuro](https://openneuro.org/) is a free and open platform for analyzing and sharing neuroimaging data. It is currently more focused on MRI datasets, but includes at least one EEG-fMRI dataset, and may expand to include more electrophysiology data.
+- [Neurodata Without Borders](https://www.nwb.org), or NWB, is a data standard for neurophysiology, to promote a common standard for storing, sharing, and archiving data. Though not exactly a general repository, they do also maintain a list of publicly released [NWB datasets](https://www.nwb.org/example-datasets/).
 
 #### Data Journals
 
@@ -45,9 +47,9 @@ There are journals that specifically describe openly available datasets, and/or 
 
 #### Data Search Engines
 
-Google has a new [dataset search](https://datasetsearch.research.google.com/) that can be used to search for datasets.
+Google has a [dataset search](https://datasetsearch.research.google.com/) tool that can be used to search for datasets.
 
-## EEG
+## EEG Data
 
 Openly available electroencephalography (EEG) datasets and large-scale projects with EEG data.
 
@@ -80,7 +82,8 @@ Physionet is an archive of physiology data, and includes some EEG data under the
 [Paper](https://doi.org/10.1161/01.CIR.101.23.e215)
 
 Available datasets include:
-- EEG Motor Movement / Imagery (n=109) [Data](https://www.physionet.org/pn4/eegmmidb/)
+- EEG Motor Movement / Imagery (n=109): 
+[Data](https://www.physionet.org/pn4/eegmmidb/)
 
 ### Patient Repository for EEG Data + Computational Tools (PREDICT)
 
@@ -108,22 +111,31 @@ Note: you first need to register, and then the website has a 'Add to Cart' & 'Co
 [Paper](https://doi.org/10.14311/NNW.2012.22.016)
 
 Available datasets include:
-- ERP Dataset, Visual P300 Paradigm (n=20): [Paper](https://doi.org/10.1186/2047-217X-3-35)
+- ERP Dataset, Visual P300 Paradigm (n=20): 
+[Paper](https://doi.org/10.1186/2047-217X-3-35)
   - Note that this data is also available on GigaDB
-- ERP OddBall Design, Number Guessing Game  (n=250): [Paper](https://doi.org/10.1038/sdata.2016.121)
-- ERP dataset on Developmental Coordination Disorder (n=32): [Paper](https://doi.org/10.1093/gigascience/gix002)
-- EEG activity using a driving simulator (n=15): [Paper](https://doi.org/10.5220/0006249504410450)
+- ERP OddBall Design, Number Guessing Game  (n=250): 
+[Paper](https://doi.org/10.1038/sdata.2016.121)
+- ERP dataset on Developmental Coordination Disorder (n=32): 
+[Paper](https://doi.org/10.1093/gigascience/gix002)
+- EEG activity using a driving simulator (n=15): 
+[Paper](https://doi.org/10.5220/0006249504410450)
 
 ### Neuroimaging Tools & Resource Collaboratory (NITRC)
 
 NITRC is a general purpose repository community board for neuroimaging tools, resources, and datasets. In general, is has more tools than datasets listed, and there is nothing specific to EEG about it, but it does contain some available EEG datasets.
 
-[Home Page](https://www.nitrc.org/) - [Paper](https://doi.org/10.1016/j.neuroimage.2015.05.074)
+[Home Page](https://www.nitrc.org/) - 
+[Paper](https://doi.org/10.1016/j.neuroimage.2015.05.074)
 
 Available datasets include:
-- Visual Oddball Task (n=18): [Data](https://www.nitrc.org/projects/vep_eeg_raw) - [Paper](https://doi.org/10.1016/j.dib.2017.11.032)
-- Categorization Task (n=14): [Data](https://www.nitrc.org/projects/eegdataanimal)
-- Resting State fMRI/EEG (n=8): [Data](https://www.nitrc.org/projects/cwleegfmri_data)
+- Visual Oddball Task (n=18): 
+[Data](https://www.nitrc.org/projects/vep_eeg_raw) - 
+[Paper](https://doi.org/10.1016/j.dib.2017.11.032)
+- Categorization Task (n=14): 
+[Data](https://www.nitrc.org/projects/eegdataanimal)
+- Resting State fMRI/EEG (n=8): 
+[Data](https://www.nitrc.org/projects/cwleegfmri_data)
 
 ### BNCI Horizon 2020
 
@@ -151,28 +163,59 @@ NSRR is a resource offering large collections of physiological signals, includin
 
 The following are datasets collected with research EEG systems:
 
-- Motor Imagery BCI Data (n=52): [Data](http://gigadb.org/dataset/100295) - [Paper](https://doi.org/10.5524/100295)
-- Simultaneous EEG & NIRS during cognitive tasks (n=26): [Data](https://depositonce.tu-berlin.de//handle/11303/6271.2) - [Paper](https://doi.org/10.1038/sdata.2018.3)
-- EEG during grasp and lift (n=12): [Data](https://doi.org/10.6084/m9.figshare.988376) - [Paper](https://doi.org/10.1038/sdata.2014.47)
-- EEG, MEG & fMRI data with perceptual task (n=19): [Data](https://openneuro.org/datasets/ds000117/versions/00004) - [Paper](https://doi.org/10.1038/sdata.2015.1)
-- EEG data with TMS with visual perception task (n=16): [Data](https://datadryad.org/resource/doi:10.5061/dryad.1nr07) - [Paper](https://doi.org/10.1038/sdata.2016.65)
-- EEG with Motion Capture during treadmill walking (n=8): [Data](https://doi.org/10.6084/m9.figshare.c.3894013.v1) -
+- Motor Imagery BCI Data (n=52): 
+[Data](http://gigadb.org/dataset/100295) - 
+[Paper](https://doi.org/10.5524/100295)
+- Simultaneous EEG & NIRS during cognitive tasks (n=26): 
+[Data](https://depositonce.tu-berlin.de//handle/11303/6271.2) - 
+[Paper](https://doi.org/10.1038/sdata.2018.3)
+- EEG during grasp and lift (n=12): 
+[Data](https://doi.org/10.6084/m9.figshare.988376) - 
+[Paper](https://doi.org/10.1038/sdata.2014.47)
+- EEG, MEG & fMRI data with perceptual task (n=19): 
+[Data](https://openneuro.org/datasets/ds000117/versions/00004) - 
+[Paper](https://doi.org/10.1038/sdata.2015.1)
+- EEG data with TMS with visual perception task (n=16): 
+[Data](https://datadryad.org/resource/doi:10.5061/dryad.1nr07) - 
+[Paper](https://doi.org/10.1038/sdata.2016.65)
+- EEG with Motion Capture during treadmill walking (n=8): 
+[Data](https://doi.org/10.6084/m9.figshare.c.3894013.v1) - 
 [Paper](https://doi.org/10.1038/sdata.2018.74)
-- EEG data with a visual spatial attention task (n=45): [Data](https://osf.io/bwzfj) - [Paper](https://doi.org/10.1152/jn.00860.2015)
-- EEG data with a visual working memory task, ERP design (n=104): [Data](https://osf.io/a65xz/ ) - [Paper](https://doi.org/10.1093/cercor/bhx336)
-- EEG data with a visual working memory task, CDA design (n=76): [Data](https://osf.io/8xuk3) - [Paper](https://doi.org/10.1162/jocn_a_01233)
-- EEG data with a covert visual spatial attention task (n=50): [Data](https://osf.io/m64ue) - [Paper](https://doi.org/10.1177/0956797617699167)
-- OpenMIIR: EEG data during music perception and imagination (n=10): [Home Page](http://www.owenlab.uwo.ca/research/the_openmiir_dataset.html) - [Data](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR-RawEEG_v1/)
-- EEG data from subjects napping after a working memory task (n=22) [Data](https://osf.io/chav7/) - [Paper](https://doi.org/10.1016/j.compbiomed.2017.08.030)
-- DEAP: Database for Emotion Analysis, EEG data + video recording, while watching videos (n=32) [Data](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/) - [Paper](https://doi.org/10.1109/T-AFFC.2011.15)
-- A collection of EEG tasks with speech studies (n=84, split across 5 tasks) [Data](https://doi.org/10.5061/dryad.070jc) -  [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
+- EEG data with a visual spatial attention task (n=45): 
+[Data](https://osf.io/bwzfj) - 
+[Paper](https://doi.org/10.1152/jn.00860.2015)
+- EEG data with a visual working memory task, ERP design (n=104): 
+[Data](https://osf.io/a65xz/ ) - 
+[Paper](https://doi.org/10.1093/cercor/bhx336)
+- EEG data with a visual working memory task, CDA design (n=76): 
+[Data](https://osf.io/8xuk3) - 
+[Paper](https://doi.org/10.1162/jocn_a_01233)
+- EEG data with a covert visual spatial attention task (n=50): 
+[Data](https://osf.io/m64ue) - 
+[Paper](https://doi.org/10.1177/0956797617699167)
+- OpenMIIR: EEG data during music perception and imagination (n=10): 
+[Home Page](http://www.owenlab.uwo.ca/research/the_openmiir_dataset.html) - 
+[Data](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR-RawEEG_v1/)
+- EEG data from subjects napping after a working memory task (n=22): 
+[Data](https://osf.io/chav7/) - 
+[Paper](https://doi.org/10.1016/j.compbiomed.2017.08.030)
+- DEAP: Database for Emotion Analysis, EEG data + video recording, while watching videos (n=32): 
+[Data](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/) - 
+[Paper](https://doi.org/10.1109/T-AFFC.2011.15)
+- A collection of EEG tasks with speech studies (n=84, split across 5 tasks): 
+[Data](https://doi.org/10.5061/dryad.070jc) - 
+[Paper](https://doi.org/10.1016/j.cub.2018.01.080)
+- EEG recordings with concurrent EMG while doing everyday tasks (n=27):
+[Data](http://researchdata.gla.ac.uk/676/)
 
 ### Individual EEG Datasets (Consumer Systems)
 
 The following are available datasets collected with consumer EEG systems:
 
-- MNIST of Brain Data from MindBigData (n=1 with 1.2 million trials): [Data](http://mindbigdata.com/opendb/index.html)
-- ImageNet of the Brain from MindBigData (n=1 with 70,000 trials): [Data](http://mindbigdata.com/opendb/imagenet.html)
+- MNIST of Brain Data from MindBigData (n=1 with 1.2 million trials): 
+[Data](http://mindbigdata.com/opendb/index.html)
+- ImageNet of the Brain from MindBigData (n=1 with 70,000 trials): 
+[Data](http://mindbigdata.com/opendb/imagenet.html)
 
 ### Other lists of EEG Data
 
@@ -180,7 +223,7 @@ There are some other lists of available EEG data, including:
 - A publicly [curated list](https://github.com/meagmohit/EEG-Datasets) list of EEG data
 - The [SCCN list](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html) of public EEG data
 
-## MEG
+## MEG Data
 
 Openly available magnetoencephalography (MEG) datasets and large-scale projects with MEG data.
 
@@ -188,7 +231,8 @@ Openly available magnetoencephalography (MEG) datasets and large-scale projects 
 
 OMEGA is a open-access repository for MEG data, in which individual researchers can deposit their data.
 
-[Home Page](https://www.mcgill.ca/bic/resources/omega) - [Paper](https://doi.org/10.1016/j.neuroimage.2015.04.028)
+[Home Page](https://www.mcgill.ca/bic/resources/omega) - 
+[Paper](https://doi.org/10.1016/j.neuroimage.2015.04.028)
 
 ### Human Connectome Project (HCP)
 
@@ -204,14 +248,18 @@ CAMCAN includes task & rest data from a large cohort, balanced in age from age 1
 
 ### Miscellaneous Individual MEG Datasets
 
-- Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52): [Data](https://osf.io/m25n4/) -
+- Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52): 
+[Data](https://osf.io/m25n4/) -
 [Paper](https://doi.org/10.1371/journal.pcbi.1005938)
-- Multi-subject, multimodal face processing: face processing dataset including fMRI, MEG, EEG (n=16): [Data](https://openneuro.org/datasets/ds000117/versions/1.0.0) - [Paper](https://doi.org/10.1038/sdata.2015.1)
-- Decaf dataset, movie clip watching (n=30) - [Data](http://mhug.disi.unitn.it/wp-content/DECAF/DECAF.html)
+- Multi-subject, multimodal face processing: face processing dataset including fMRI, MEG, EEG (n=16): 
+[Data](https://openneuro.org/datasets/ds000117/versions/1.0.0) - 
+[Paper](https://doi.org/10.1038/sdata.2015.1)
+- Decaf dataset, movie clip watching (n=30):
+[Data](http://mhug.disi.unitn.it/wp-content/DECAF/DECAF.html)
 
-## ECoG
+## Human Intracranial Data
 
-Openly available electrocorticography (ECoG) datasets and large-scale projects with ECoG data, including and sometimes also referred to as intracranial EEG (iEEG) or stereo-electroencephalography (sEEG).
+This section contains intracranal data from humans participants (only ever collected in clinical contexts), including electrocorticography (ECoG) datasets which is sometimes also referred to as intracranial EEG (iEEG) or stereo-electroencephalography (sEEG), as well as any available human single unit data.
 
 ### MNI Open iEEG Atlas
 
@@ -227,11 +275,11 @@ iEEG.org is an NIH supported repository of intracranial EEG data.
 
 ### University of Pennsylvania Computational Memory Lab
 
-Electrophysiological data
+The cognitive electrophysiology data portal has a list of publications that have available electrophysiological data.
 
 [Home Page](https://memory.psych.upenn.edu/Electrophysiological_Data)
 
-RAM project
+The 'Restoring Active Memory' project is coordinate collection of ECoG data, with memory tasks (n=251).
 
 [Home Page](https://memory.psych.upenn.edu/RAM)
 
@@ -239,7 +287,23 @@ RAM project
 
 A collection a 16 tasks across a group of ECoG patients (n=250).
 
-[Home Page](https://purl.stanford.edu/zk881ps0522) - [Paper](https://doi.org/10.1152/jn.00113.2017)
+[Home Page](https://purl.stanford.edu/zk881ps0522) - 
+[Paper](https://doi.org/10.1152/jn.00113.2017)
+
+### Human Single Unit Data
+
+Available datasets with single unit data from humans:
+- Human single units with a declarative memory task (n=59):
+[Data](https://osf.io/hv7ja/) - 
+[Paper](https://doi.org/10.1038/s41597-020-0415-9) - 
+[Associated Code](https://github.com/rutishauserlab/recogmem-release-NWB)
+- Human single units with a verbal working memory task (n=9):
+[Data](https://gin.g-node.org/USZ_NCH/Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) -
+[Paper](https://doi.org/10.1126/sciadv.aav3687)
+
+## Animal LFP Data
+
+Openly available animal datasets with local field potential (LFP) data, include multi-electrode arrays, animal ECoG, single-units, or similar recordings. 
 
 ### NeuroTycho
 
@@ -247,18 +311,25 @@ NeuroTycho is as collection of mostly monkey ECoG data.
 
 [Home Page](http://neurotycho.org)
 
-## LFP
-
-Openly available local field potential (LFP) datasets and large-scale projects with LFP data.
-
 ### Collaborative Research in Computational Neuroscience (CRCNS)
 
 A collection of data, mostly animal models, including extra-cellular recordings, and some animal model ECoG & iEEG.
 
-[Home Page](https://crcns.org) - [Data Portal](https://crcns.org/data-sets/) - [Paper](https://doi.org/10.1007/s12021-008-9009-y)
+[Home Page](https://crcns.org) - 
+[Data Portal](https://crcns.org/data-sets/) - 
+[Paper](https://doi.org/10.1007/s12021-008-9009-y)
 
 ### Buzsáki Lab Webshare
 
 This contains electrophysiological datasets collected from rodents in the Buzsáki lab.
 
-[Home Page](https://buzsakilab.nyumc.org/datasets/) - [Buzsáki lab website](https://buzsakilab.com/wp/)
+[Home Page](https://buzsakilab.nyumc.org/datasets/) - 
+[Buzsáki lab website](https://buzsakilab.com/wp/)
+
+### Individual LFP Datasets
+
+The following are available individual LFP datasets:
+
+- LFP during during delayed reach-to-grasp task (macaque monkey, n=2):
+[Data](https://gin.g-node.org/INT/multielectrode_grasp) - 
+[Paper](https://doi.org/10.1038/sdata.2018.55)
