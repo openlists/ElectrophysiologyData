@@ -137,6 +137,13 @@ Available datasets include:
 - Resting State fMRI/EEG (n=8): 
 [Data](https://www.nitrc.org/projects/cwleegfmri_data)
 
+### ERP-CORE
+
+ERP-CORE (Compendium of Open Resources and Experiments) is a resource with experiment paradigms and scripts, example data & example processing scripts for ERPs, including the N170, mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN).
+
+[Home Page](https://osf.io/thsqg/) -
+[Paper](https://doi.org/10.31234/osf.io/4azqm)
+
 ### BNCI Horizon 2020
 
 A collection of BCI related EEG datasets.
