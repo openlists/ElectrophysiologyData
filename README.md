@@ -214,6 +214,21 @@ The following are datasets collected with research EEG systems:
 [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
 - EEG recordings with concurrent EMG while doing everyday tasks (n=27):
 [Data](http://researchdata.gla.ac.uk/676/)
+- Multi-modal (EEG, EMG, EOG) recordings during movement tasks (n=25):
+[Data](http://dx.doi.org/10.5524/100788) - 
+[Paper](https://doi.org/10.1093/gigascience/giaa098)
+- EEG BCI recordings during mental imagery, across many separate sessions & interaction paradigms (n=13):
+[Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1)
+[Paper](https://doi.org/10.1038/sdata.2018.211)
+- EEG resting state data, with MRI anatomical scans (n=12)
+[Data](https://doi.org/10.5061/dryad.v9f16) - 
+[Paper]( https://doi.org/10.1371/journal.pone.0146845)
+- Multi-day, multi band SSVEP dataset for BCI applications (n=30):
+[Data](https://doi.org/10.5524/100660) - 
+[Paper](https://doi.org/10.1093/gigascience/giz133)
+- Multi-day, dataset from sleep (naps) recorded after visual working memory task (n=22):
+[Data](https://osf.io/chav7/) - 
+[Paper](https://doi.org/10.1016/j.dib.2018.04.073)
 
 ### Individual EEG Datasets (Consumer Systems)
 
@@ -253,7 +268,7 @@ CAMCAN includes task & rest data from a large cohort, balanced in age from age 1
 
 [Home Page](https://camcan-archive.mrc-cbu.cam.ac.uk/)
 
-### Miscellaneous Individual MEG Datasets
+### Individual MEG Datasets
 
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52): 
 [Data](https://osf.io/m25n4/) -
@@ -296,6 +311,12 @@ A collection a 16 tasks across a group of ECoG patients (n=250).
 
 [Home Page](https://purl.stanford.edu/zk881ps0522) - 
 [Paper](https://doi.org/10.1152/jn.00113.2017)
+
+### Individual ECoG Datasets
+
+- Multicenter resting state and sleep ECoG data:
+[Data](https://doi.org/10.6084/m9.figshare.c.4681208.v1) - 
+[Paper](https://doi.org/10.1038/s41597-020-0532-5)
 
 ### Human Single Unit Data
 
