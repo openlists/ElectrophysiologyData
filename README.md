@@ -217,8 +217,8 @@ The following are datasets collected with research EEG systems:
 - Multi-modal (EEG, EMG, EOG) recordings during movement tasks (n=25):
 [Data](http://dx.doi.org/10.5524/100788) - 
 [Paper](https://doi.org/10.1093/gigascience/giaa098)
-- EEG BCI recordings during mental imagery, across many separate sessions & interaction paradigms (n=13):
-[Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1)
+- EEG BCI recordings during mental imagery, across sessions & interaction paradigms (n=13):
+[Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1) -
 [Paper](https://doi.org/10.1038/sdata.2018.211)
 - EEG resting state data, with MRI anatomical scans (n=12)
 [Data](https://doi.org/10.5061/dryad.v9f16) - 
@@ -273,7 +273,7 @@ CAMCAN includes task & rest data from a large cohort, balanced in age from age 1
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52): 
 [Data](https://osf.io/m25n4/) -
 [Paper](https://doi.org/10.1371/journal.pcbi.1005938)
-- Multi-subject, multimodal face processing: face processing dataset including fMRI, MEG, EEG (n=16): 
+- Multi-subject, multimodal face processing dataset including fMRI, MEG, EEG (n=16): 
 [Data](https://openneuro.org/datasets/ds000117/versions/1.0.0) - 
 [Paper](https://doi.org/10.1038/sdata.2015.1)
 - Decaf dataset, movie clip watching (n=30):
