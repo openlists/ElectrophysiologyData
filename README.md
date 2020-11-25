@@ -229,6 +229,9 @@ The following are datasets collected with research EEG systems:
 - Multi-day, dataset from sleep (naps) recorded after visual working memory task (n=22):
 [Data](https://osf.io/chav7/) - 
 [Paper](https://doi.org/10.1016/j.dib.2018.04.073)
+- EEG dataset from subjects viewing images (n=24):
+[Data](https://doi.org/10.12751/g-node.bcccab) - 
+[Paper](https://doi.org/10.1016/j.dib.2019.103857)
 
 ### Individual EEG Datasets (Consumer Systems)
 
