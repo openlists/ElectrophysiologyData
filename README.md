@@ -22,15 +22,15 @@ There are several repositories, journals, and search engines that can be checked
 
 There are a few general purpose repositories that you can search for data:
 - [Zenodo](https://zenodo.org/) hosts datasets for individual studies. You can find available datasets by searching for 'eeg', 'meg', or similar, and selecting the 'Dataset' tag on the bottom left of the search page.
-- [Open Science Framework](https://osf.io/) is a platform for supporting open science, and includes, amongst other things, data hosting of open-datasets for specific studies. It doesn't seem to be easily searchable by data modality in particular, does does host relevant data, some of which are included in the listings below.
-- [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for a data type, or other specifier, and the select 'type' as 'Dataset' to see available datasets.
-- [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, that is searchable, and includes some EEG/MEG/ECoG datasets.
-- [G-Node Open Data](https://doi.gin.g-node.org) is a repository service for scientific datasets, by G-Node (the German Neuroinformatics Node), built on their [G-Node data infrastructure services](https://gin.g-node.org).
+- [Open Science Framework](https://osf.io/) is a platform for supporting open science, and includes data hosting of open-datasets for specific studies. It doesn't seem to be easily searchable by data modality in particular, but does host relevant datasets, some of which are included in the listings below.
+- [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for resources, and select 'type' as 'Dataset' to see available datasets.
+- [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, including some EEG/MEG/ECoG datasets. There is a search function. 
+- [G-Node Open Data](https://doi.gin.g-node.org) is a repository service for scientific datasets, by G-Node (the German Neuroinformatics Node), built on the [G-Node data infrastructure services](https://gin.g-node.org).
 - [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competition. These competitions typically release a dataset for us, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
 
 #### Neuroscience Specific Data Repositories
 
-- [OpenNeuro](https://openneuro.org/) is a free and open platform for analyzing and sharing neuroimaging data. It is currently more focused on MRI datasets, but includes at least one EEG-fMRI dataset, and may expand to include more electrophysiology data.
+- [OpenNeuro](https://openneuro.org/) is a free and open platform for analyzing and sharing neuroimaging data. It was originally focused on MRI datasets, but now includes other modalities, including some electrophysiological data.
 - [Neurodata Without Borders](https://www.nwb.org), or NWB, is a data standard for neurophysiology, to promote a common standard for storing, sharing, and archiving data. Though not exactly a general repository, they do also maintain a list of publicly released [NWB datasets](https://www.nwb.org/example-datasets/).
 
 #### Data Journals
@@ -123,7 +123,7 @@ Available datasets include:
 
 ### Neuroimaging Tools & Resource Collaboratory (NITRC)
 
-NITRC is a general purpose repository community board for neuroimaging tools, resources, and datasets. In general, is has more tools than datasets listed, and there is nothing specific to EEG about it, but it does contain some available EEG datasets.
+NITRC is a general purpose repository community board for neuroimaging tools, resources, and datasets. It is generally more focused on tools than datasets, but it does contain some available EEG datasets.
 
 [Home Page](https://www.nitrc.org/) - 
 [Paper](https://doi.org/10.1016/j.neuroimage.2015.05.074)
@@ -141,7 +141,7 @@ Available datasets include:
 
 ERP-CORE (Compendium of Open Resources and Experiments) is a resource with experiment paradigms and scripts, example data & example processing scripts for ERPs, including the N170, mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN).
 
-[Home Page](https://osf.io/thsqg/) -
+[Data](https://osf.io/thsqg/) -
 [Paper](https://doi.org/10.31234/osf.io/4azqm)
 
 ### BNCI Horizon 2020
@@ -165,6 +165,13 @@ NSRR is a resource offering large collections of physiological signals, includin
 [Home Page](https://sleepdata.org/) -
 [Data Portal](https://sleepdata.org/datasets) -
 [Paper](https://doi.org/10.5665/sleep.5774)
+
+### The Cuban Human Brain Mapping Project
+
+The CHBMP is an open dataset from 282 young and middle age healthy participants, including resting state EEG, and during hyperventilation.
+
+[Data](https://www.synapse.org/#!Synapse:syn22324937) - 
+[Paper](https://doi.org/10.6084/m9.figshare.13277348)
 
 ### Individual EEG Datasets (Research Systems)
 
@@ -232,6 +239,24 @@ The following are datasets collected with research EEG systems:
 - EEG dataset from subjects viewing images (n=24):
 [Data](https://doi.org/10.12751/g-node.bcccab) - 
 [Paper](https://doi.org/10.1016/j.dib.2019.103857)
+- EEG data with resting state and visual working memory task (n=43):
+[Dataset1](https://openneuro.org/datasets/ds003420/versions/1.0.2) - 
+[Dataset2](https://openneuro.org/datasets/ds003421/versions/1.0.2) - 
+[Paper](https://doi.org/10.1038/s41597-021-00821-1)
+- EEG from participants playing an 8-bit style video game (n=17):
+[Data](https://openneuro.org/datasets/ds003517/versions/1.1.0) - 
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1053811916001932?via%3Dihub)
+- An EEG BCI dataset from multiple subjects across multiple paradigms and recording sessions (n=54):
+[Data](http://dx.doi.org/10.5524/100542) - 
+[Paper](https://doi.org/10.1093/gigascience/giz002)
+- A large EEG dataset with a simple gambling task (n=500)
+[Data](https://osf.io/65x4v/) - 
+[Paper](https://doi.org/10.1111/psyp.13722)
+- A large dataset of cross-sectional young and old participants (n=228)
+[Homepage](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html) - 
+[Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html)
+- A dataset comparing different EEG systems, including 3 sessions per participant (n=14)
+[Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
 
 ### Individual EEG Datasets (Consumer Systems)
 
@@ -320,6 +345,9 @@ A collection a 16 tasks across a group of ECoG patients (n=250).
 - Multicenter resting state and sleep ECoG data:
 [Data](https://doi.org/10.6084/m9.figshare.c.4681208.v1) - 
 [Paper](https://doi.org/10.1038/s41597-020-0532-5)
+- ECoG data from a study looking at sensorimotor alpha and beta activity (n=3):
+[Data](https://osf.io/z4hfm/) - 
+[Paper](https://doi.org/10.7554/eLife.48065)
 
 ### Human Single Unit Data
 
@@ -328,9 +356,12 @@ Available datasets with single unit data from humans:
 [Data](https://osf.io/hv7ja/) - 
 [Paper](https://doi.org/10.1038/s41597-020-0415-9) - 
 [Associated Code](https://github.com/rutishauserlab/recogmem-release-NWB)
-- Human single units with a verbal working memory task (n=9):
+- Human single units with a verbal working memory task, also including iEEG data (n=9):
 [Data](https://gin.g-node.org/USZ_NCH/Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) -
-[Paper](https://doi.org/10.1126/sciadv.aav3687)
+[Paper](https://www.nature.com/articles/s41597-020-0364-3)
+- Human single units from the amygdala, with visual presentation of neutral and aversize stimuli (n=9):
+[Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) - 
+[Paper](https://doi.org/10.1038/s41597-020-00790-x)
 
 ## Animal LFP Data
 
