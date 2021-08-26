@@ -270,6 +270,16 @@ The following are datasets collected with research EEG systems:
 [Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html)
 - A dataset comparing different EEG systems, including 3 sessions per participant (n=14)
 [Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
+- An EEG/BCI dataset for inner speech recognition (n=10)
+[Data](https://openneuro.org/datasets/ds003626/versions/1.0.1) -
+[Paper](https://www.biorxiv.org/content/10.1101/2021.04.19.440473v1)
+- An EEG/BCI sensorimotor dataset, with longitudinal data (n=62).
+[Data](https://doi.org/10.6084/m9.figshare.13123148) -
+[Paper](https://www.nature.com/articles/s41597-021-00883-1)
+- An EEG dataset of with rapid serial visual presentation (n=50)
+[Data](https://figshare.com/articles/dataset/THINGS-EEG/14721282) -
+[Paper](https://www.biorxiv.org/content/10.1101/2021.06.03.447008v1)
+
 
 ### Individual EEG Datasets (Consumer Systems)
 
@@ -361,6 +371,12 @@ A collection a 16 tasks across a group of ECoG patients (n=250).
 - ECoG data from a study looking at sensorimotor alpha and beta activity (n=3):
 [Data](https://osf.io/z4hfm/) -
 [Paper](https://doi.org/10.7554/eLife.48065)
+- A multimodal dataset of iEEG with fMRI, with audio-visual stimuli (n=51)
+[Data](https://openneuro.org/datasets/ds003688) -
+[Paper](https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
+- A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12)
+[Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
+[Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
 
 ### Human Single Unit Data
 
@@ -394,12 +410,16 @@ A collection of data, mostly animal models, including extra-cellular recordings,
 [Data Portal](https://crcns.org/data-sets/) -
 [Paper](https://doi.org/10.1007/s12021-008-9009-y)
 
-### Buzsáki Lab Webshare
+### Lab-Specific Data Collections
 
-This contains electrophysiological datasets collected from rodents in the Buzsáki lab.
+The following labs are collections of datasets from particular labs:
 
-[Home Page](https://buzsakilab.nyumc.org/datasets/) -
-[Buzsáki lab website](https://buzsakilab.com/wp/)
+- Buzsáki lab: electrophysiological datasets collected from rodents:
+[Datasets](https://buzsakilab.nyumc.org/datasets/) -
+[Lab website](https://buzsakilab.com/wp/)
+- Giocomo Lab: neural data recorded from rodents:
+[Datasets](https://giocomolab.weebly.com/data.html) -
+[Lab website](https://giocomolab.weebly.com/)
 
 ### Individual LFP Datasets
 
@@ -408,3 +428,6 @@ The following are available individual LFP datasets:
 - LFP during during delayed reach-to-grasp task (macaque monkey, n=2):
 [Data](https://gin.g-node.org/INT/multielectrode_grasp) -
 [Paper](https://doi.org/10.1038/sdata.2018.55)
+- Raw LFP recordings and spiking data during anesthesia (rats, n=20)
+[Data](https://gin.g-node.org/UlbertLab/High_Resolution_Cortical_Spikes) -
+[Paper](https://www.nature.com/articles/s41597-021-00970-3)
