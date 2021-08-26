@@ -44,7 +44,7 @@ There are a few general purpose repositories that you can search for data:
 - [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for resources, and select 'type' as 'Dataset' to see available datasets.
 - [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, including some EEG/MEG/ECoG datasets. There is a search function.
 - [G-Node Open Data](https://doi.gin.g-node.org) is a repository service for scientific datasets, by G-Node (the German Neuroinformatics Node), built on the [G-Node data infrastructure services](https://gin.g-node.org).
-- [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competition. These competitions typically release a dataset for us, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
+- [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competitions. These competitions typically include a dataset, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
 
 #### Data Journals
 
@@ -118,10 +118,10 @@ A large collection of EEG recorded in clinical settings (hospital data).
 
 EEGbase is a database for electrophysiological data.
 
-Note: you first need to register, and then the website has a 'Add to Cart' & 'Complete Order' workflow, but the datasets are free.
-
 [Home Page](https://eegdatabase.kiv.zcu.cz/) -
 [Paper](https://doi.org/10.14311/NNW.2012.22.016)
+
+Note: you need to register, and the website has a 'Add to Cart' & 'Complete Order' workflow, but the datasets are free.
 
 Available datasets include:
 - ERP Dataset, Visual P300 Paradigm (n=20):
@@ -189,7 +189,6 @@ The CHBMP is an open dataset from 282 young and middle age healthy participants,
 ### Individual EEG Datasets (Research Systems)
 
 The following are datasets collected with research EEG systems:
-
 - Motor Imagery BCI Data (n=52):
 [Data](http://gigadb.org/dataset/100295) -
 [Paper](https://doi.org/10.5524/100295)
@@ -240,7 +239,7 @@ The following are datasets collected with research EEG systems:
 - EEG BCI recordings during mental imagery, across sessions & interaction paradigms (n=13):
 [Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1) -
 [Paper](https://doi.org/10.1038/sdata.2018.211)
-- EEG resting state data, with MRI anatomical scans (n=12)
+- EEG resting state data, with MRI anatomical scans (n=12):
 [Data](https://doi.org/10.5061/dryad.v9f16) -
 [Paper]( https://doi.org/10.1371/journal.pone.0146845)
 - Multi-day, multi band SSVEP dataset for BCI applications (n=30):
@@ -259,32 +258,30 @@ The following are datasets collected with research EEG systems:
 - EEG from participants playing an 8-bit style video game (n=17):
 [Data](https://openneuro.org/datasets/ds003517/versions/1.1.0) -
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1053811916001932?via%3Dihub)
-- An EEG BCI dataset from multiple subjects across multiple paradigms and recording sessions (n=54):
+- An EEG/BCI dataset across multiple paradigms and recording sessions (n=54):
 [Data](http://dx.doi.org/10.5524/100542) -
 [Paper](https://doi.org/10.1093/gigascience/giz002)
-- A large EEG dataset with a simple gambling task (n=500)
+- A large EEG dataset with a simple gambling task (n=500):
 [Data](https://osf.io/65x4v/) -
 [Paper](https://doi.org/10.1111/psyp.13722)
-- A large dataset of cross-sectional young and old participants (n=228)
+- A large dataset of cross-sectional young and old participants (n=228):
 [Homepage](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html) -
 [Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html)
-- A dataset comparing different EEG systems, including 3 sessions per participant (n=14)
+- A dataset comparing different EEG systems, including 3 sessions per participant (n=14):
 [Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
-- An EEG/BCI dataset for inner speech recognition (n=10)
+- An EEG/BCI dataset for inner speech recognition (n=10):
 [Data](https://openneuro.org/datasets/ds003626/versions/1.0.1) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.04.19.440473v1)
-- An EEG/BCI sensorimotor dataset, with longitudinal data (n=62).
+- An EEG/BCI sensorimotor dataset, with longitudinal data (n=62):
 [Data](https://doi.org/10.6084/m9.figshare.13123148) -
 [Paper](https://www.nature.com/articles/s41597-021-00883-1)
-- An EEG dataset of with rapid serial visual presentation (n=50)
+- An EEG dataset of with rapid serial visual presentation (n=50):
 [Data](https://figshare.com/articles/dataset/THINGS-EEG/14721282) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.06.03.447008v1)
-
 
 ### Individual EEG Datasets (Consumer Systems)
 
 The following are available datasets collected with consumer EEG systems:
-
 - MNIST of Brain Data from MindBigData (n=1 with 1.2 million trials):
 [Data](http://mindbigdata.com/opendb/index.html)
 - ImageNet of the Brain from MindBigData (n=1 with 70,000 trials):
@@ -309,18 +306,19 @@ OMEGA is a open-access repository for MEG data, in which individual researchers 
 
 ### Human Connectome Project (HCP)
 
-The Human-Connectome Project is a large, multi-site project, mostly focused on MRI, but includes a subset of MEG data.
+The Human-Connectome Project is a large, multi-site project, mostly focused on MRI, that also includes a subset of MEG data.
 
 [Home Page](https://www.humanconnectome.org/study/hcp-young-adult)
 
 ### Cambridge Center for Ageing Neuroscience (CAMCAN)
 
-CAMCAN includes task & rest data from a large cohort, balanced in age from age 18-88 (n=652).
+CAMCAN includes task & rest MEG data from a large cohort, balanced in age from age 18-88 (n=652).
 
 [Home Page](https://camcan-archive.mrc-cbu.cam.ac.uk/)
 
 ### Individual MEG Datasets
 
+The following are openly available datasets with MEG data:
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52):
 [Data](https://osf.io/m25n4/) -
 [Paper](https://doi.org/10.1371/journal.pcbi.1005938)
@@ -332,7 +330,7 @@ CAMCAN includes task & rest data from a large cohort, balanced in age from age 1
 
 ## Human Intracranial Data
 
-This section contains intracranal data from humans participants (only ever collected in clinical contexts), including electrocorticography (ECoG) datasets which is sometimes also referred to as intracranial EEG (iEEG) or stereo-electroencephalography (sEEG), as well as any available human single unit data.
+This section contains intracranial EEG (iEEG) data from humans participants (collected in clinical contexts), including electrocorticography (ECoG) and stereo-EEG (sEEG) recordings, as well as any available human single unit data.
 
 ### MNI Open iEEG Atlas
 
@@ -365,7 +363,8 @@ A collection a 16 tasks across a group of ECoG patients (n=250).
 
 ### Individual ECoG Datasets
 
-- Multicenter resting state and sleep ECoG data:
+The following are openly available datasets with human intracranial data:
+- Multicenter resting state and sleep ECoG data (n=39):
 [Data](https://doi.org/10.6084/m9.figshare.c.4681208.v1) -
 [Paper](https://doi.org/10.1038/s41597-020-0532-5)
 - ECoG data from a study looking at sensorimotor alpha and beta activity (n=3):
@@ -388,13 +387,13 @@ Available datasets with single unit data from humans:
 - Human single units with a verbal working memory task, also including iEEG data (n=9):
 [Data](https://gin.g-node.org/USZ_NCH/Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) -
 [Paper](https://www.nature.com/articles/s41597-020-0364-3)
-- Human single units from the amygdala, with visual presentation of neutral and aversize stimuli (n=9):
+- Human single units from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) -
 [Paper](https://doi.org/10.1038/s41597-020-00790-x)
 
 ## Animal LFP Data
 
-Openly available animal datasets with local field potential (LFP) data, include multi-electrode arrays, animal ECoG, single-units, or similar recordings.
+Openly available animal datasets with local field potential (LFP) data, including multi-electrode arrays, animal ECoG, single-units, or similar recordings.
 
 ### NeuroTycho
 
@@ -404,7 +403,7 @@ NeuroTycho is as collection of mostly monkey ECoG data.
 
 ### Collaborative Research in Computational Neuroscience (CRCNS)
 
-A collection of data, mostly animal models, including extra-cellular recordings, and some animal model ECoG & iEEG.
+A collection of data, including extra-cellular recordings, and some ECoG & iEEG, from various species.
 
 [Home Page](https://crcns.org) -
 [Data Portal](https://crcns.org/data-sets/) -
@@ -428,6 +427,6 @@ The following are available individual LFP datasets:
 - LFP during during delayed reach-to-grasp task (macaque monkey, n=2):
 [Data](https://gin.g-node.org/INT/multielectrode_grasp) -
 [Paper](https://doi.org/10.1038/sdata.2018.55)
-- Raw LFP recordings and spiking data during anesthesia (rats, n=20)
+- Raw LFP recordings and spiking data during anesthesia (rats, n=20):
 [Data](https://gin.g-node.org/UlbertLab/High_Resolution_Cortical_Spikes) -
 [Paper](https://www.nature.com/articles/s41597-021-00970-3)
