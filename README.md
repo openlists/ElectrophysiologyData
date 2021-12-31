@@ -354,9 +354,9 @@ The 'Restoring Active Memory' project is coordinate collection of ECoG data, wit
 
 [Home Page](https://memory.psych.upenn.edu/RAM)
 
-### Stanford Collection of ECoG Data
+### Kai Miller's Collection of ECoG Data
 
-A collection a 16 tasks across a group of ECoG patients (n=250).
+A collection of ECoG recordings, including 204 sessions from across 16 different tasks (n=34).
 
 [Home Page](https://purl.stanford.edu/zk881ps0522) -
 [Paper](https://doi.org/10.1152/jn.00113.2017)
