@@ -33,8 +33,10 @@ There are several repositories, journals, and search engines that can be checked
 
 #### Neuroscience Specific Data Repositories
 
-- [OpenNeuro](https://openneuro.org/) is a free and open platform for analyzing and sharing neuroimaging data. It was originally focused on MRI datasets, but now includes other modalities, including some electrophysiological data. Data on OpenNeuro is generally organized in BIDS formats.
+- [OpenNeuro](https://openneuro.org/) is a platform for analyzing and sharing neuroimaging data. Originally focused on MRI datasets, it now includes other modalities, including some electrophysiological data. Data on OpenNeuro is generally organized in BIDS formats.
 - The [DANDI](https://gui.dandiarchive.org/#/) archive ('distributed archives for neurophysiological data integration') is a platform for sharing and processing neurophysioligical data. It includes a list of [public datasets](https://gui.dandiarchive.org/#/dandiset). Data on DANDI is generally organized in NWB format.
+- The [DABI](https://dabi.loni.usc.edu/home) repository ('data archive BRAIN initiative') is a platform for storing and processing invasive neurophysioligical data, in particular for the BRAIN initiative.
+- The [EBrains](https://ebrains.eu/) platform for the European Union's 'Human Brain Project' includes a data portal with available data, including some extra- and intra-cranial human recordings
 
 #### General Purpose Data Repositories
 
@@ -44,6 +46,8 @@ There are a few general purpose repositories that you can search for data:
 - [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for resources, and select 'type' as 'Dataset' to see available datasets.
 - [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, including some EEG/MEG/ECoG datasets. There is a search function.
 - [G-Node Open Data](https://doi.gin.g-node.org) is a repository service for scientific datasets, by G-Node (the German Neuroinformatics Node), built on the [G-Node data infrastructure services](https://gin.g-node.org).
+- [Harvard Dataverse](https://dataverse.harvard.edu/) is a general-purpose repository for research data, that includes some neuroscience data
+- [Science Data Bank](https://www.scidb.cn/en) is a general-purpose repository for research data, that includes some neuroscience data
 - [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competitions. These competitions typically include a dataset, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
 
 #### Data Journals
@@ -184,7 +188,7 @@ NSRR is a resource offering large collections of physiological signals, includin
 The CHBMP is an open dataset from 282 young and middle age healthy participants, including resting state EEG, and during hyperventilation.
 
 [Data](https://www.synapse.org/#!Synapse:syn22324937) -
-[Paper](https://doi.org/10.6084/m9.figshare.13277348)
+[Paper](https://doi.org/10.1038/s41597-021-00829-7)
 
 ### Individual EEG Datasets (Research Systems)
 
@@ -276,8 +280,26 @@ The following are datasets collected with research EEG systems:
 [Data](https://doi.org/10.6084/m9.figshare.13123148) -
 [Paper](https://www.nature.com/articles/s41597-021-00883-1)
 - An EEG dataset of with rapid serial visual presentation (n=50):
-[Data](https://figshare.com/articles/dataset/THINGS-EEG/14721282) -
-[Paper](https://www.biorxiv.org/content/10.1101/2021.06.03.447008v1)
+[Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) - 
+[Paper](https://doi.org/10.1038/s41597-021-01102-7)
+- A dataset of hdEEG during transcranial electrical stimulation (n=20):
+[Data](https://zenodo.org/record/4456079) - 
+[Paper](https://doi.org/10.1038/s41597-021-01046-y)
+- Mobile BCI dataset of scalp and ear EEG with ERP and SSVEP paradigms while standing and moving (n=24):
+[Data](https://doi.org/10.17605/OSF.IO/R7S9Bhttps) - 
+[Paper](https://doi.org/10.1038/s41597-021-01094-4)
+- Polysomnography dataset, including 3 EEG channels, for sleep apnea studies (n=212):
+[Data](https://doi.org/10.11922/sciencedb.00345) - 
+[Paper](https://doi.org/10.1038/s41597-021-00977-w)
+- EEG and EMG data during perturbed walking and standing (n=30):
+[Data](https://doi.org/10.1016/j.dib.2021.107635) - 
+[Paper](https://doi.org/10.1016/j.dib.2021.107635)
+- EEG data in subjects with claustrophia, and controls, resting state in different sized rooms (n=22):
+[Data](https://doi.org/10.1016/j.dib.2021.107733) - 
+[Paper](https://doi.org/10.1016/j.dib.2021.107733)
+- A dataset of arm motion in healthy and post-stroke subjects, with some EEG data (n=45 with EEG):
+[Data](https://doi.org/10.7910/DVN/FU3QZ9) - 
+[Paper](https://doi.org/10.1093/gigascience/giab043)
 
 ### Individual EEG Datasets (Consumer Systems)
 
@@ -319,6 +341,9 @@ CAMCAN includes task & rest MEG data from a large cohort, balanced in age from a
 ### Individual MEG Datasets
 
 The following are openly available datasets with MEG data:
+- 'Mother of unification studies' (MOUS) dataset, resting state and language task (n=204)
+[Data](https://data.donders.ru.nl/collections/di/dccn/DSC_3011020.09_236?0) - 
+[Paper](https://www.nature.com/articles/s41597-019-0020-y)
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52):
 [Data](https://osf.io/m25n4/) -
 [Paper](https://doi.org/10.1371/journal.pcbi.1005938)
@@ -327,6 +352,9 @@ The following are openly available datasets with MEG data:
 [Paper](https://doi.org/10.1038/sdata.2015.1)
 - Decaf dataset, movie clip watching (n=30):
 [Data](http://mhug.disi.unitn.it/wp-content/DECAF/DECAF.html)
+- MEG data during four mental imagery tasks, for BCI analyses (n=17):
+[Data](https://doi.org/10.6084/m9.figshare.c.5101544) - 
+[Paper](https://doi.org/10.1038/s41597-021-00899-7)
 
 ## Human Intracranial Data
 
@@ -334,9 +362,11 @@ This section contains intracranial EEG (iEEG) data from humans participants (col
 
 ### MNI Open iEEG Atlas
 
-The MNI Open iEEG atlas is a repository of iEEG data from a multi-center collection project (n=106).
+The MNI Open iEEG atlas is a multi-center repository of curated iEEG data, including resting state (n=106) and sleep (n=91) data. 
 
-[Home Page](https://mni-open-ieegatlas.research.mcgill.ca)
+[Home Page](https://mni-open-ieegatlas.research.mcgill.ca) - 
+[Paper (rest data)](https://doi.org/10.1093/brain/awy035) - 
+[Paper (sleep data)](https://doi.org/10.1002/ana.25651)
 
 ### iEEG.org
 
@@ -364,7 +394,7 @@ A collection of ECoG recordings, including 204 sessions from across 16 different
 ### Individual ECoG Datasets
 
 The following are openly available datasets with human intracranial data:
-- Multicenter resting state and sleep ECoG data (n=39):
+- Multicenter resting state and sleep ECoG data, annotated for artifacts (n=39):
 [Data](https://doi.org/10.6084/m9.figshare.c.4681208.v1) -
 [Paper](https://doi.org/10.1038/s41597-020-0532-5)
 - ECoG data from a study looking at sensorimotor alpha and beta activity (n=3):
@@ -376,6 +406,9 @@ The following are openly available datasets with human intracranial data:
 - A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12)
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
+- Intracranial data from subjects simultaneous EEG recordings and intracranaial electrical stimulation (n=7)
+[Data](https://doi.org/10.25493/NXN2-05W) - 
+[Paper](https://doi.org/10.1038/s41597-020-0467-x)
 
 ### Human Single Unit Data
 
