@@ -190,6 +190,14 @@ The CHBMP is an open dataset from 282 young and middle age healthy participants,
 [Data](https://www.synapse.org/#!Synapse:syn22324937) -
 [Paper](https://doi.org/10.1038/s41597-021-00829-7)
 
+### Leipzig Study for Mind-Body-Emotion Interactions (LEMON) Dataset
+
+A large multimodal dataset (n=228), with cross-sectional sampling of young and old participants, and including MRI, EEG, physiological, clinical and cognitive measures.
+
+[Homepage](https://doi.org/10.15387/fcp_indi.mpi_lemon) -
+[Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) - 
+[Paper](https://doi.org/10.1038/sdata.2018.308)
+
 ### Individual EEG Datasets (Research Systems)
 
 The following are datasets collected with research EEG systems:
@@ -268,9 +276,6 @@ The following are datasets collected with research EEG systems:
 - A large EEG dataset with a simple gambling task (n=500):
 [Data](https://osf.io/65x4v/) -
 [Paper](https://doi.org/10.1111/psyp.13722)
-- A large dataset of cross-sectional young and old participants (n=228):
-[Homepage](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html) -
-[Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html)
 - A dataset comparing different EEG systems, including 3 sessions per participant (n=14):
 [Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
 - An EEG/BCI dataset for inner speech recognition (n=10):
@@ -300,6 +305,9 @@ The following are datasets collected with research EEG systems:
 - A dataset of arm motion in healthy and post-stroke subjects, with some EEG data (n=45 with EEG):
 [Data](https://doi.org/10.7910/DVN/FU3QZ9) - 
 [Paper](https://doi.org/10.1093/gigascience/giab043)
+- A dataset of EEG and behavioural data with a visual working memory task in virtual reality (n=47):
+[Data](https://osf.io/s9xmu/) - 
+[Paper](https://doi.org/10.1016/j.dib.2022.107827)
 
 ### Individual EEG Datasets (Consumer Systems)
 
@@ -423,6 +431,9 @@ Available datasets with single unit data from humans:
 - Human single units from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) -
 [Paper](https://doi.org/10.1038/s41597-020-00790-x)
+- Single unit data from neuropixel probes in human cortex (n=3):
+[Data](https://doi.org/10.5061/dryad.d2547d840) -
+[Paper](https://doi.org/10.1101/2021.06.20.449152)
 
 ## Animal LFP Data
 
@@ -453,13 +464,16 @@ The following labs are collections of datasets from particular labs:
 [Datasets](https://giocomolab.weebly.com/data.html) -
 [Lab website](https://giocomolab.weebly.com/)
 
-### Individual LFP Datasets
+### Individual Datasets
 
-The following are available individual LFP datasets:
+The following are available individual LFP and related datasets:
 
 - LFP during during delayed reach-to-grasp task (macaque monkey, n=2):
 [Data](https://gin.g-node.org/INT/multielectrode_grasp) -
 [Paper](https://doi.org/10.1038/sdata.2018.55)
 - Raw LFP recordings and spiking data during anesthesia (rats, n=20):
 [Data](https://gin.g-node.org/UlbertLab/High_Resolution_Cortical_Spikes) -
-[Paper](https://www.nature.com/articles/s41597-021-00970-3)
+[Paper](https://doi.org/10.1038/s41597-021-00970-3)
+- Whole-cell intracellular recordings from somatosensory cortex (mouse, n=195):
+[Data](https://doi.org/10.5524/100535) -
+[Paper](https://doi.org/10.1093/gigascience/giy147)
