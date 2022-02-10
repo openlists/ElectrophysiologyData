@@ -417,6 +417,12 @@ The following are openly available datasets with human intracranial data:
 - Intracranial data from subjects simultaneous EEG recordings and intracranaial electrical stimulation (n=7)
 [Data](https://doi.org/10.25493/NXN2-05W) - 
 [Paper](https://doi.org/10.1038/s41597-020-0467-x)
+- Intracranial data with visual scene recognition of famous landmarks (n=50)
+[Data](https://dabi.loni.usc.edu/dsi/1U01NS098981) - 
+[Paper](https://doi.org/10.1038/s41597-022-01125-8)
+- Intracranial data during memory tasks with pupillometry (n=10)
+[Data](https://doi.org/10.25493/GKNT-T3X) - 
+[Paper](https://www.nature.com/articles/s41597-021-01099-z)
 
 ### Human Single Unit Data
 
