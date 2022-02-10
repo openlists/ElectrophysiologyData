@@ -34,8 +34,8 @@ There are several repositories, journals, and search engines that can be checked
 #### Neuroscience Specific Data Repositories
 
 - [OpenNeuro](https://openneuro.org/) is a platform for analyzing and sharing neuroimaging data. Originally focused on MRI datasets, it now includes other modalities, including some electrophysiological data. Data on OpenNeuro is generally organized in BIDS formats.
-- The [DANDI](https://gui.dandiarchive.org/#/) archive ('distributed archives for neurophysiological data integration') is a platform for sharing and processing neurophysioligical data. It includes a list of [public datasets](https://gui.dandiarchive.org/#/dandiset). Data on DANDI is generally organized in NWB format.
-- The [DABI](https://dabi.loni.usc.edu/home) repository ('data archive BRAIN initiative') is a platform for storing and processing invasive neurophysioligical data, in particular for the BRAIN initiative.
+- The [DANDI](https://gui.dandiarchive.org/#/) archive ('distributed archives for neurophysiological data integration') is a platform for sharing and processing neurophysiological data. It includes a list of [public datasets](https://gui.dandiarchive.org/#/dandiset). Data on DANDI is generally organized in NWB format.
+- The [DABI](https://dabi.loni.usc.edu/home) repository ('data archive BRAIN initiative') is a platform for storing and processing invasive neurophysiological data, in particular for the BRAIN initiative.
 - The [EBrains](https://ebrains.eu/) platform for the European Union's 'Human Brain Project' includes a data portal with available data, including some extra- and intra-cranial human recordings
 
 #### General Purpose Data Repositories
@@ -299,7 +299,7 @@ The following are datasets collected with research EEG systems:
 - EEG and EMG data during perturbed walking and standing (n=30):
 [Data](https://doi.org/10.1016/j.dib.2021.107635) - 
 [Paper](https://doi.org/10.1016/j.dib.2021.107635)
-- EEG data in subjects with claustrophia, and controls, resting state in different sized rooms (n=22):
+- EEG data in subjects with claustrophobia, and controls, resting state in different sized rooms (n=22):
 [Data](https://doi.org/10.1016/j.dib.2021.107733) - 
 [Paper](https://doi.org/10.1016/j.dib.2021.107733)
 - A dataset of arm motion in healthy and post-stroke subjects, with some EEG data (n=45 with EEG):
@@ -349,7 +349,7 @@ CAMCAN includes task & rest MEG data from a large cohort, balanced in age from a
 ### Individual MEG Datasets
 
 The following are openly available datasets with MEG data:
-- 'Mother of unification studies' (MOUS) dataset, resting state and language task (n=204)
+- 'Mother of unification studies' (MOUS) dataset, resting state and language task (n=204):
 [Data](https://data.donders.ru.nl/collections/di/dccn/DSC_3011020.09_236?0) - 
 [Paper](https://www.nature.com/articles/s41597-019-0020-y)
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52):
@@ -408,19 +408,19 @@ The following are openly available datasets with human intracranial data:
 - ECoG data from a study looking at sensorimotor alpha and beta activity (n=3):
 [Data](https://osf.io/z4hfm/) -
 [Paper](https://doi.org/10.7554/eLife.48065)
-- A multimodal dataset of iEEG with fMRI, with audio-visual stimuli (n=51)
+- A multimodal dataset of iEEG with fMRI, with audio-visual stimuli (n=51):
 [Data](https://openneuro.org/datasets/ds003688) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
-- A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12)
+- A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12):
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
-- Intracranial data from subjects simultaneous EEG recordings and intracranaial electrical stimulation (n=7)
+- Data from subjects with simultaneous EEG recordings and intracranial electrical stimulation (n=7):
 [Data](https://doi.org/10.25493/NXN2-05W) - 
 [Paper](https://doi.org/10.1038/s41597-020-0467-x)
-- Intracranial data with visual scene recognition of famous landmarks (n=50)
+- Intracranial data during visual scene recognition of famous landmarks (n=50):
 [Data](https://dabi.loni.usc.edu/dsi/1U01NS098981) - 
 [Paper](https://doi.org/10.1038/s41597-022-01125-8)
-- Intracranial data during memory tasks with pupillometry (n=10)
+- Intracranial data during memory tasks with pupillometry (n=10):
 [Data](https://doi.org/10.25493/GKNT-T3X) - 
 [Paper](https://www.nature.com/articles/s41597-021-01099-z)
 
