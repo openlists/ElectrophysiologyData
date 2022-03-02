@@ -74,7 +74,7 @@ Openly available electroencephalography (EEG) datasets and large-scale projects 
 
 The [ChildMind Institute](https://childmind.org) is a non-profit that, amongst other things, is involved in large-scale research projects that release large datasets.
 
-#### Project: Healthy Brain Networks
+#### HBN - Healthy Brain Networks
 
 A large project including rest and task EEG data across a large adult cohort (n=~1000).
 
@@ -82,7 +82,7 @@ A large project including rest and task EEG data across a large adult cohort (n=
 [Data Portal](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) -
 [Paper](https://dx.doi.org/10.1038/sdata.2017.181)
 
-#### Project: Multimodal Resource for Studying Information Processing in the Developing Brain (MIPDB)
+#### MIPDB - Multimodal Resource for Studying Information Processing in the Developing Brain
 
 A project including rest and task EEG data across a young cohort, ages 6-44 (n=126).
 
@@ -102,7 +102,7 @@ Available datasets include:
 - EEG Motor Movement / Imagery (n=109):
 [Data](https://www.physionet.org/pn4/eegmmidb/)
 
-### Patient Repository for EEG Data + Computational Tools (PREDICT)
+### PREDICT - Patient Repository for EEG Data + Computational Tools
 
 PREDICT is a repository for EEG data, focused on patient data (collected in research settings).
 
@@ -110,7 +110,7 @@ PREDICT is a repository for EEG data, focused on patient data (collected in rese
 [Data Portal](http://predict.cs.unm.edu/downloads.php) -
 [Paper](https://doi.org/10.3389/fninf.2017.00067)
 
-### Temple University Hospital (TUH) Corpus
+### TUH - Temple University Hospital Corpus
 
 A large collection of EEG recorded in clinical settings (hospital data).
 
@@ -138,7 +138,7 @@ Available datasets include:
 - EEG activity using a driving simulator (n=15):
 [Paper](https://doi.org/10.5220/0006249504410450)
 
-### Neuroimaging Tools & Resource Collaboratory (NITRC)
+### NITRC - Neuroimaging Tools & Resource Collaboratory
 
 NITRC is a general purpose repository community board for neuroimaging tools, resources, and datasets. It is generally more focused on tools than datasets, but it does contain some available EEG datasets.
 
@@ -156,7 +156,7 @@ Available datasets include:
 
 ### ERP-CORE
 
-ERP-CORE (Compendium of Open Resources and Experiments) is a resource with experiment paradigms and scripts, example data & example processing scripts for ERPs, including the N170, mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN).
+ERP-CORE (Compendium of Open Resources and Experiments) is a resource with experiment paradigms and scripts, example data & example processing scripts for ERPs, including the N170, mismatch negativity (MMN), N2pc, N400, P300, lateralized readiness potential (LRP), and error-related negativity (ERN).
 
 [Data](https://osf.io/thsqg/) -
 [Paper](https://doi.org/10.31234/osf.io/4azqm)
@@ -190,12 +190,12 @@ The CHBMP is an open dataset from 282 young and middle age healthy participants,
 [Data](https://www.synapse.org/#!Synapse:syn22324937) -
 [Paper](https://doi.org/10.1038/s41597-021-00829-7)
 
-### Leipzig Study for Mind-Body-Emotion Interactions (LEMON) Dataset
+### LEMON - Leipzig Study for Mind-Body-Emotion Interactions
 
 A large multimodal dataset (n=228), with cross-sectional sampling of young and old participants, and including MRI, EEG, physiological, clinical and cognitive measures.
 
 [Homepage](https://doi.org/10.15387/fcp_indi.mpi_lemon) -
-[Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) - 
+[Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) -
 [Paper](https://doi.org/10.1038/sdata.2018.308)
 
 ### Individual EEG Datasets (Research Systems)
@@ -285,28 +285,28 @@ The following are datasets collected with research EEG systems:
 [Data](https://doi.org/10.6084/m9.figshare.13123148) -
 [Paper](https://www.nature.com/articles/s41597-021-00883-1)
 - An EEG dataset of with rapid serial visual presentation (n=50):
-[Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) - 
+[Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) -
 [Paper](https://doi.org/10.1038/s41597-021-01102-7)
 - A dataset of hdEEG during transcranial electrical stimulation (n=20):
-[Data](https://zenodo.org/record/4456079) - 
+[Data](https://zenodo.org/record/4456079) -
 [Paper](https://doi.org/10.1038/s41597-021-01046-y)
 - Mobile BCI dataset of scalp and ear EEG with ERP and SSVEP paradigms while standing and moving (n=24):
-[Data](https://doi.org/10.17605/OSF.IO/R7S9Bhttps) - 
+[Data](https://doi.org/10.17605/OSF.IO/R7S9Bhttps) -
 [Paper](https://doi.org/10.1038/s41597-021-01094-4)
 - Polysomnography dataset, including 3 EEG channels, for sleep apnea studies (n=212):
-[Data](https://doi.org/10.11922/sciencedb.00345) - 
+[Data](https://doi.org/10.11922/sciencedb.00345) -
 [Paper](https://doi.org/10.1038/s41597-021-00977-w)
 - EEG and EMG data during perturbed walking and standing (n=30):
-[Data](https://doi.org/10.1016/j.dib.2021.107635) - 
+[Data](https://doi.org/10.1016/j.dib.2021.107635) -
 [Paper](https://doi.org/10.1016/j.dib.2021.107635)
 - EEG data in subjects with claustrophobia, and controls, resting state in different sized rooms (n=22):
-[Data](https://doi.org/10.1016/j.dib.2021.107733) - 
+[Data](https://doi.org/10.1016/j.dib.2021.107733) -
 [Paper](https://doi.org/10.1016/j.dib.2021.107733)
 - A dataset of arm motion in healthy and post-stroke subjects, with some EEG data (n=45 with EEG):
-[Data](https://doi.org/10.7910/DVN/FU3QZ9) - 
+[Data](https://doi.org/10.7910/DVN/FU3QZ9) -
 [Paper](https://doi.org/10.1093/gigascience/giab043)
-- A dataset of EEG and behavioural data with a visual working memory task in virtual reality (n=47):
-[Data](https://osf.io/s9xmu/) - 
+- A dataset of EEG and behavioral data with a visual working memory task in virtual reality (n=47):
+[Data](https://osf.io/s9xmu/) -
 [Paper](https://doi.org/10.1016/j.dib.2022.107827)
 
 ### Individual EEG Datasets (Consumer Systems)
@@ -327,20 +327,20 @@ There are some other lists of available EEG data, including:
 
 Openly available magnetoencephalography (MEG) datasets and large-scale projects with MEG data.
 
-### Open MEG Archive (OMEGA)
+### OMEGA - Open MEG Archive
 
 OMEGA is a open-access repository for MEG data, in which individual researchers can deposit their data.
 
 [Home Page](https://www.mcgill.ca/bic/resources/omega) -
 [Paper](https://doi.org/10.1016/j.neuroimage.2015.04.028)
 
-### Human Connectome Project (HCP)
+### HCP - Human Connectome Project
 
 The Human-Connectome Project is a large, multi-site project, mostly focused on MRI, that also includes a subset of MEG data.
 
 [Home Page](https://www.humanconnectome.org/study/hcp-young-adult)
 
-### Cambridge Center for Ageing Neuroscience (CAMCAN)
+### CAMCAN - Cambridge Center for Ageing Neuroscience
 
 CAMCAN includes task & rest MEG data from a large cohort, balanced in age from age 18-88 (n=652).
 
@@ -350,7 +350,7 @@ CAMCAN includes task & rest MEG data from a large cohort, balanced in age from a
 
 The following are openly available datasets with MEG data:
 - 'Mother of unification studies' (MOUS) dataset, resting state and language task (n=204):
-[Data](https://data.donders.ru.nl/collections/di/dccn/DSC_3011020.09_236?0) - 
+[Data](https://data.donders.ru.nl/collections/di/dccn/DSC_3011020.09_236?0) -
 [Paper](https://www.nature.com/articles/s41597-019-0020-y)
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52):
 [Data](https://osf.io/m25n4/) -
@@ -361,7 +361,7 @@ The following are openly available datasets with MEG data:
 - Decaf dataset, movie clip watching (n=30):
 [Data](http://mhug.disi.unitn.it/wp-content/DECAF/DECAF.html)
 - MEG data during four mental imagery tasks, for BCI analyses (n=17):
-[Data](https://doi.org/10.6084/m9.figshare.c.5101544) - 
+[Data](https://doi.org/10.6084/m9.figshare.c.5101544) -
 [Paper](https://doi.org/10.1038/s41597-021-00899-7)
 
 ## Human Intracranial Data
@@ -370,10 +370,10 @@ This section contains intracranial EEG (iEEG) data from humans participants (col
 
 ### MNI Open iEEG Atlas
 
-The MNI Open iEEG atlas is a multi-center repository of curated iEEG data, including resting state (n=106) and sleep (n=91) data. 
+The MNI Open iEEG atlas is a multi-center repository of curated iEEG data, including resting state (n=106) and sleep (n=91) data.
 
-[Home Page](https://mni-open-ieegatlas.research.mcgill.ca) - 
-[Paper (rest data)](https://doi.org/10.1093/brain/awy035) - 
+[Home Page](https://mni-open-ieegatlas.research.mcgill.ca) -
+[Paper (rest data)](https://doi.org/10.1093/brain/awy035) -
 [Paper (sleep data)](https://doi.org/10.1002/ana.25651)
 
 ### iEEG.org
@@ -415,13 +415,13 @@ The following are openly available datasets with human intracranial data:
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
 - Data from subjects with simultaneous EEG recordings and intracranial electrical stimulation (n=7):
-[Data](https://doi.org/10.25493/NXN2-05W) - 
+[Data](https://doi.org/10.25493/NXN2-05W) -
 [Paper](https://doi.org/10.1038/s41597-020-0467-x)
 - Intracranial data during visual scene recognition of famous landmarks (n=50):
-[Data](https://dabi.loni.usc.edu/dsi/1U01NS098981) - 
+[Data](https://dabi.loni.usc.edu/dsi/1U01NS098981) -
 [Paper](https://doi.org/10.1038/s41597-022-01125-8)
 - Intracranial data during memory tasks with pupillometry (n=10):
-[Data](https://doi.org/10.25493/GKNT-T3X) - 
+[Data](https://doi.org/10.25493/GKNT-T3X) -
 [Paper](https://www.nature.com/articles/s41597-021-01099-z)
 
 ### Human Single Unit Data
