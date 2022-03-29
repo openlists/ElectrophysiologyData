@@ -14,6 +14,7 @@ To contribute a new link to a data source or resource, open an issue mentioning 
 - [MEG Data](#meg-data)
 - [Human Intracranial Data](#human-intracranial-data)
 - [Animal LFP Data](#animal-lfp-data)
+- [Behavioral Data](#behavioral-data)
 
 ## Data Formats
 
@@ -167,7 +168,7 @@ A collection of BCI related EEG datasets.
 
 [Home Page](http://bnci-horizon-2020.eu/database/data-sets)
 
-### Montreal Archive of Sleep Studies (MASS)
+### MASS - Montreal Archive of Sleep Studies
 
 MASS is a collection of whole night sleep recordings from approximately 200 participants, from hospital based sleep laboratories.
 
@@ -175,7 +176,7 @@ MASS is a collection of whole night sleep recordings from approximately 200 part
 [Data Portal](https://massdb.herokuapp.com/en/get-access/) -
 [Paper](https://doi.org/10.1111/jsr.12169)
 
-### National Sleep Research Resource
+### NSRR - National Sleep Research Resource
 
 NSRR is a resource offering large collections of physiological signals, including polysomnography recordings with EEG from research studies and clinical collections.
 
@@ -197,6 +198,13 @@ A large multimodal dataset (n=228), with cross-sectional sampling of young and o
 [Homepage](https://doi.org/10.15387/fcp_indi.mpi_lemon) -
 [Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) -
 [Paper](https://doi.org/10.1038/sdata.2018.308)
+
+### Lab-Specific Data Collections
+
+The following labs are collections of datasets from particular labs:
+- Narayanan lab: predominantly EEG datasets collected from humans, including Parkinson's patients:
+[Datasets](https://narayanan.lab.uiowa.edu/article/datasets) -
+[Lab website](https://narayanan.lab.uiowa.edu/)
 
 ### Individual EEG Datasets (Research Systems)
 
@@ -423,6 +431,9 @@ The following are openly available datasets with human intracranial data:
 - Intracranial data during memory tasks with pupillometry (n=10):
 [Data](https://doi.org/10.25493/GKNT-T3X) -
 [Paper](https://www.nature.com/articles/s41597-021-01099-z)
+- Intracranial data investigating responses to single-pulse stimulation (n=52):
+[Data](https://dabi.loni.usc.edu/dsi/W4SNQ7HR49RL) - 
+[Paper](https://doi.org/10.1016/j.brs.2022.02.017)
 
 ### Human Single Unit Data
 
@@ -483,3 +494,13 @@ The following are available individual LFP and related datasets:
 - Whole-cell intracellular recordings from somatosensory cortex (mouse, n=195):
 [Data](https://doi.org/10.5524/100535) -
 [Paper](https://doi.org/10.1093/gigascience/giy147)
+- High channel count (1024) Utah array recordings in macaque V1 and V4 from resting state (n=2):
+[Data](https://doi.gin.g-node.org/10.12751/g-node.i20kyh/) -
+[Paper](https://doi.org/10.1038/s41597-022-01180-1)
+
+## Behavioral Data
+
+This list does not currently track behaviour-only data.
+
+See this [list of available behavioral data](https://nivlab.github.io/opendata/).
+
