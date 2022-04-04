@@ -316,6 +316,9 @@ The following are datasets collected with research EEG systems:
 - A dataset of EEG and behavioral data with a visual working memory task in virtual reality (n=47):
 [Data](https://osf.io/s9xmu/) -
 [Paper](https://doi.org/10.1016/j.dib.2022.107827)
+- The Nencki-Symfonia EEG/ERP dataset: high-density electroencephalography (EEG) dataset obtained at the Nencki Institute of Experimental Biology from a sample of 42 healthy young adults with three cognitive tasks: (1) an extended Multi-Source Interference Task (MSIT+) with control, Simon, Flanker, and multi-source interference trials; (2) a 3-stimuli oddball task with frequent standard, rare target, and rare distractor stimuli; (3) a control, simple reaction task (SRT); and additionally (4) a resting-state protocol (REST)
+[Data](http://doi.org/10.5524/100990) -
+[Paper](https://doi.org/10.1093/gigascience/giac015)
 
 ### Individual EEG Datasets (Consumer Systems)
 
