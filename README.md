@@ -199,6 +199,14 @@ A large multimodal dataset (n=228), with cross-sectional sampling of young and o
 [Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) -
 [Paper](https://doi.org/10.1038/sdata.2018.308)
 
+### PEERS - The PENN Electrophysiology of Encoding and Retrieval Study
+
+A large dataset of EEG data (n>300), covering 5 experiments in which subjects perform memory tasks, encoding and retrieving stimuli. 
+
+[Homepage](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) - 
+[Data](https://memory.psych.upenn.edu/Data_Archive) -
+[Paper](https://psyarxiv.com/bu5x8/)
+
 ### Lab-Specific Data Collections
 
 The following labs are collections of datasets from particular labs:
@@ -410,7 +418,7 @@ A collection of ECoG recordings, including 204 sessions from across 16 different
 [Home Page](https://purl.stanford.edu/zk881ps0522) -
 [Paper](https://doi.org/10.1152/jn.00113.2017)
 
-### Individual ECoG Datasets
+### Individual iEEG Datasets
 
 The following are openly available datasets with human intracranial data:
 - Multicenter resting state and sleep ECoG data, annotated for artifacts (n=39):
@@ -419,9 +427,9 @@ The following are openly available datasets with human intracranial data:
 - ECoG data from a study looking at sensorimotor alpha and beta activity (n=3):
 [Data](https://osf.io/z4hfm/) -
 [Paper](https://doi.org/10.7554/eLife.48065)
-- A multimodal dataset of iEEG with fMRI, with audio-visual stimuli (n=51):
-[Data](https://openneuro.org/datasets/ds003688) -
-[Paper](https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
+- Multimodal dataset of iEEG & fMRI data while watching a short movie (n=51 iEEG subjects):
+[Data](https://openneuro.org/datasets/ds003688) - 
+[Paper](https://doi.org/10.1038/s41597-022-01173-0)
 - A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12):
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
