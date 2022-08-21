@@ -572,6 +572,8 @@ The following are available individual LFP and related datasets:
 [Paper](https://doi.org/10.1038/s41597-022-01239-z)
 - Spiking activity from macaque primary motor and dorsal premotor cortex during delated reaching (n=1):
 [Data](https://dandiarchive.org/dandiset/000140/)
+- Data from high-density CMOS probes recorded from rats (n=3):
+[Data](https://search.kg.ebrains.eu/instances/73bb52d7-d217-4da1-98f8-d81e10063499)
 
 ## Behavioral Data
 
