@@ -53,6 +53,7 @@ There are a few general purpose repositories that you can search for data:
 - [Harvard Dataverse](https://dataverse.harvard.edu/) is a general-purpose repository for research data, that includes some neuroscience data
 - [Science Data Bank](https://www.scidb.cn/en) is a general-purpose repository for research data, that includes some neuroscience data
 - [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competitions. These competitions typically include a dataset, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
+- The [IEEE Data Port](https://ieee-dataport.org/) is a general purpose repository managed by IEEE (the institute of electrical and electronics engineers). Some datasets are freely available, however some require a DataPort subscription. For neuroscience related data, see the [biophysiological signal](https://ieee-dataport.org/topic-tags/biophysiological-signals) section. 
 
 #### Data Journals
 
@@ -123,9 +124,10 @@ A large collection of EEG recorded in clinical settings (hospital data).
 [Paper](https://doi.org/10.3389/fnins.2016.00196)
 
 The TUH includes multiple (described [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)), including:
+- The TUH EEG Corpus (TUEG), with over 30,000 hospital EEG recordings
 - The TUH Abnormal EEG Corpus (TUAB), with annotatations for if recordings are normal or abnormal
 - The TUH EEG Artifact Corpus (TUAR), with annotations of different artifacts
-- The TUH Epilepsy Corpus (TUEP), with a selected of subjects with and without epilepsy
+- The TUH Epilepsy Corpus (TUEP), with a subset of subjects with and without epilepsy
 - The TUH EEG Events Corpus (TUEV), with annotations of specific events (sharp waves, epileptiform discharges, etc)
 - The TUH EEG Seizure Corpus (TUSZ), with annotations for seizures
 - The TUH EEG Slowing Corpus (TUSL), with annotations for slowing events
@@ -366,6 +368,11 @@ The following are available EEG datasets collected in the context of clinical re
 - A dataset of EEG recordings from pediatric subjects with intractable seizures (n=22):
 [Data](https://physionet.org/content/chbmit/1.0.0/) - 
 [Paper](https://dspace.mit.edu/handle/1721.1/54669)
+- EEG recordings containing HFO markings for pediatric patients with epilepsy (n=30):
+[Data](https://openneuro.org/datasets/ds003555/versions/1.0.1)
+- EEG recordings from children pre- and post-surgery for epilepsy (n=11):
+[Data](https://gin.g-node.org/USZ_NCH/Scalp_EEG_HFO)
+[Paper](https://doi.org/10.1038/s41598-019-52700-w)
 
 ### Other lists of EEG Data
 
@@ -489,6 +496,12 @@ The following are openly available datasets that contain seizures and/or are ann
 - A dataset of iEEG recordings from epilepsy patients, organized in BIDS (n=12):
 [Data](https://doi.org/10.18112/openneuro.ds003844.v1.0.3) - 
 [Paper](https://doi.org/10.1007/s12021-022-09567-6)
+- Interictal iEEG during slow-wave sleep with HFO markings (n=20):
+[Data](https://openneuro.org/datasets/ds003498/versions/1.1.0) - 
+[Paper](https://doi.org/10.1038/s41598-017-13064-1)
+- Intraoperative pre- and post-resection ECoG from epilepsy patients (n=22):
+[Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) - 
+[Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
 
 ### Human Single Unit Data
 
@@ -498,7 +511,7 @@ Available datasets with single unit data from humans:
 [Paper](https://doi.org/10.1038/s41597-020-0415-9) -
 [Associated Code](https://github.com/rutishauserlab/recogmem-release-NWB)
 - Human single units with a verbal working memory task, also including iEEG data (n=9):
-[Data](https://gin.g-node.org/USZ_NCH/Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) -
+[Data](https://doi.gin.g-node.org/10.12751/g-node.d76994/) - 
 [Paper](https://www.nature.com/articles/s41597-020-0364-3)
 - Human single units from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) -
