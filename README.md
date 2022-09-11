@@ -420,9 +420,12 @@ The following are openly available datasets with MEG data:
 - MEG data during four mental imagery tasks, for BCI analyses (n=17):
 [Data](https://doi.org/10.6084/m9.figshare.c.5101544) -
 [Paper](https://doi.org/10.1038/s41597-021-00899-7)
-- MEG data during pharmacological manipulation including taigabine, ketamine, and LSD
+- MEG data during pharmacological manipulation including taigabine, ketamine, and LSD (n=68):
 [Data](https://doi.org/10.7910/DVN/9Q1SKM) - 
 [Paper](https://doi.org/10.1016/j.neuroimage.2018.06.068)
+- MEG-MASC, a dataset of English speakers listening to naturalistic stories (n=27):
+[Data](https://osf.io/ag3kj/) - 
+[Paper](https://arxiv.org/abs/2208.11488)
 
 ## Human Intracranial Data
 
