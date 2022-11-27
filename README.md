@@ -344,9 +344,15 @@ The following are datasets collected with research EEG systems:
 - A dataset of EEG and behavioral data with a visual working memory task in virtual reality (n=47):
 [Data](https://osf.io/s9xmu/) -
 [Paper](https://doi.org/10.1016/j.dib.2022.107827)
-- The Nencki-Symfonia EEG/ERP dataset: high-density electroencephalography (EEG) dataset obtained at the Nencki Institute of Experimental Biology from a sample of 42 healthy young adults with three cognitive tasks: (1) an extended Multi-Source Interference Task (MSIT+) with control, Simon, Flanker, and multi-source interference trials; (2) a 3-stimuli oddball task with frequent standard, rare target, and rare distractor stimuli; (3) a control, simple reaction task (SRT); and additionally (4) a resting-state protocol (REST)
+- The Nencki-Symfonia EEG/ERP dataset, high-density EEG with rest data and three tasks, including a Multi-Source Interference Task, an oddball task and a simple reaction task (n=42):
 [Data](http://doi.org/10.5524/100990) -
 [Paper](https://doi.org/10.1093/gigascience/giac015)
+- EEG from infants age 1-7 months, with longitudinal recordings (n=19)
+[Data](https://figshare.com/articles/dataset/infant_EEG_data/5598814/1) - 
+[Paper](https://doi.org/10.1371/journal.pone.0190276)
+- A dataset of EEG data during visual object recognition, with a large number of trials per participant (n=10):
+[Data](https://osf.io/3jk45/) - 
+[Paper](https://doi.org/10.1016/j.neuroimage.2022.119754)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
@@ -371,7 +377,7 @@ The following are available EEG datasets collected in the context of clinical re
 - EEG recordings containing HFO markings for pediatric patients with epilepsy (n=30):
 [Data](https://openneuro.org/datasets/ds003555/versions/1.0.1)
 - EEG recordings from children pre- and post-surgery for epilepsy (n=11):
-[Data](https://gin.g-node.org/USZ_NCH/Scalp_EEG_HFO)
+[Data](https://gin.g-node.org/USZ_NCH/Scalp_EEG_HFO) - 
 [Paper](https://doi.org/10.1038/s41598-019-52700-w)
 
 ### Other lists of EEG Data
