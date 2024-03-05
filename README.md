@@ -422,7 +422,7 @@ The following are openly available datasets with MEG data:
 [Data](https://openneuro.org/datasets/ds000117/versions/1.0.0) -
 [Paper](https://doi.org/10.1038/sdata.2015.1)
 - Decaf dataset, movie clip watching (n=30):
-[Data](http://mhug.disi.unitn.it/wp-content/DECAF/DECAF.html)
+[Data](https://decaf-dataset.github.io/)
 - MEG data during four mental imagery tasks, for BCI analyses (n=17):
 [Data](https://doi.org/10.6084/m9.figshare.c.5101544) -
 [Paper](https://doi.org/10.1038/s41597-021-00899-7)
