@@ -141,7 +141,7 @@ The TUH includes multiple (described [here](https://isip.piconepress.com/project
 
 The NSRR is a repository for sharing sleep data, including polysomnography which includes EEG electrodes.
 
-[Homepage](https://www.sleepdata.org/) -
+[Home Page](https://www.sleepdata.org/) -
 [Data](https://www.sleepdata.org/datasets)
 
 ### EEGbase
@@ -168,7 +168,7 @@ Available datasets include:
 
 The TDBrain dataset is a dataset of EEG data for 1200 subjects.
 
-[Homepage](https://brainclinics.com/resources/) -
+[Home Page](https://brainclinics.com/resources/) -
 [Paper](https://doi.org/10.1038/s41597-022-01409-z)
 
 ### NITRC - Neuroimaging Tools & Resource Collaboratory
@@ -227,7 +227,7 @@ The CHBMP is an open dataset from 282 young and middle age healthy participants,
 
 A large multimodal dataset (n=228), with cross-sectional sampling of young and old participants, and including MRI, EEG, physiological, clinical and cognitive measures.
 
-[Homepage](https://doi.org/10.15387/fcp_indi.mpi_lemon) -
+[Home Page](https://doi.org/10.15387/fcp_indi.mpi_lemon) -
 [Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) -
 [Paper](https://doi.org/10.1038/sdata.2018.308)
 
@@ -235,7 +235,7 @@ A large multimodal dataset (n=228), with cross-sectional sampling of young and o
 
 A large dataset of EEG data (n>300), covering 5 experiments in which subjects perform memory tasks, encoding and retrieving stimuli.
 
-[Homepage](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) -
+[Home Page](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) -
 [Data](https://memory.psych.upenn.edu/Data_Archive) -
 [Paper](https://psyarxiv.com/bu5x8/)
 
@@ -243,7 +243,7 @@ A large dataset of EEG data (n>300), covering 5 experiments in which subjects pe
 
 A multimodal dataset (MRI, fMRI, EEG), including healthy participants and clinical patients including with Alzheimer's, dementia, MS, and Parkinson's (n=780).
 
-[Homepage](https://www.synapse.org/Synapse:syn51549340/wiki/624187) -
+[Home Page](https://www.synapse.org/Synapse:syn51549340/wiki/624187) -
 [Data](https://doi.org/10.7303/syn51549340) -
 [Paper](https://doi.org/10.1038/s41597-023-02806-8)
 
@@ -251,7 +251,7 @@ A multimodal dataset (MRI, fMRI, EEG), including healthy participants and clinic
 
 MOABB is a project for benchmarking BCI algorithms, which includes tools for accessing a large number of BCI datasets.
 
-[Homepage](http://moabb.neurotechx.com/docs/index.html) -
+[Home Page](http://moabb.neurotechx.com/docs/index.html) -
 [Data](http://moabb.neurotechx.com/docs/dataset_summary.html) -
 [Paper](https://universite-paris-saclay.hal.science/hal-04537061)
 
