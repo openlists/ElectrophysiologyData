@@ -50,10 +50,15 @@ There are a few general purpose repositories that you can search for data:
 - [Figshare](https://figshare.com) is a general repository service for a broad range of materials, and includes datasets. You can search for resources, and select 'type' as 'Dataset' to see available datasets.
 - [Dryad](https://datadryad.org) is a repository service for scientific datasets, and includes data linked to specific papers, including some EEG/MEG/ECoG datasets. There is a search function.
 - [G-Node Open Data](https://doi.gin.g-node.org) is a repository service for scientific datasets, by G-Node (the German Neuroinformatics Node), built on the [G-Node data infrastructure services](https://gin.g-node.org).
-- [Harvard Dataverse](https://dataverse.harvard.edu/) is a general-purpose repository for research data, that includes some neuroscience data
 - [Science Data Bank](https://www.scidb.cn/en) is a general-purpose repository for research data, that includes some neuroscience data
 - [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competitions. These competitions typically include a dataset, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
 - The [IEEE Data Port](https://ieee-dataport.org/) is a general purpose repository managed by IEEE (the institute of electrical and electronics engineers). Some datasets are freely available, however some require a DataPort subscription. For neuroscience related data, see the [biophysiological signal](https://ieee-dataport.org/topic-tags/biophysiological-signals) section.
+
+#### Institutional Data Repositories
+
+The following institutes run data repositories that may contain relevant datasets:
+- [Harvard Dataverse](https://dataverse.harvard.edu/) research data repository
+- [Radboud University](https://data.ru.nl/) research data repository
 
 #### Data Journals
 
@@ -131,6 +136,13 @@ The TUH includes multiple (described [here](https://isip.piconepress.com/project
 - The TUH EEG Events Corpus (TUEV), with annotations of specific events (sharp waves, epileptiform discharges, etc)
 - The TUH EEG Seizure Corpus (TUSZ), with annotations for seizures
 - The TUH EEG Slowing Corpus (TUSL), with annotations for slowing events
+
+### National Sleep Research Resource
+
+The NSRR is a repository for sharing sleep data, including polysomnography which includes EEG electrodes.
+
+[Homepage](https://www.sleepdata.org/) -
+[Data](https://www.sleepdata.org/datasets)
 
 ### EEGbase
 
@@ -226,6 +238,22 @@ A large dataset of EEG data (n>300), covering 5 experiments in which subjects pe
 [Homepage](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) -
 [Data](https://memory.psych.upenn.edu/Data_Archive) -
 [Paper](https://psyarxiv.com/bu5x8/)
+
+### BrainLat: The Latin American Brain Health Institute Dataset
+
+A multimodal dataset (MRI, fMRI, EEG), including healthy participants and clinical patients including with Alzheimer's, dementia, MS, and Parkinson's (n=780).
+
+[Homepage](https://www.synapse.org/Synapse:syn51549340/wiki/624187) -
+[Data](https://doi.org/10.7303/syn51549340) -
+[Paper](https://doi.org/10.1038/s41597-023-02806-8)
+
+### MOABB: Mother of all BCI Benchmarks
+
+MOABB is a project for benchmarking BCI algorithms, which includes tools for accessing a large number of BCI datasets.
+
+[Homepage](http://moabb.neurotechx.com/docs/index.html) -
+[Data](http://moabb.neurotechx.com/docs/dataset_summary.html) -
+[Paper](https://universite-paris-saclay.hal.science/hal-04537061)
 
 ### Lab-Specific Data Collections
 
@@ -362,6 +390,21 @@ The following are datasets collected with research EEG systems:
 - The ANPHY-Sleep dataset of sleep EEG from healthy adults (n=29):
 [Data](https://osf.io/r26fh/) -
 [Paper](https://doi.org/10.1038/s41597-024-03722-1)
+- A dataset of EEG with simultaneous fMRI during naturalistic viewing (n=22):
+[Data](https://doi.org/10.15387/fcp_indi.retro.Nat_View) -
+[Paper](https://doi.org/10.1038/s41597-023-02458-8)
+- A dataset of EEG with simultaneous fMRI during sleep (n=33):
+[Data](https://openneuro.org/datasets/ds003768/versions/1.0.3) -
+[Paper](https://doi.org/10.1016/j.neuroimage.2022.119720)
+- A dataset of EEG recordings with TMS and TBS stimulation (n=24):
+[Data](https://doi.org/10.25452/figshare.plus.c.5910329) -
+[Paper](https://doi.org/10.1038/s41597-022-01820-6)
+- An EEG dataset with resting state and semantic judgment tasks (n=31):
+[Data](https://openneuro.org/datasets/ds003766) -
+[Paper](https://doi.org/10.1038/s41597-022-01538-5)
+- An EEG dataset while participants read Chinese (n=10):
+[Data](https://openneuro.org/datasets/ds004952) -
+[Paper](https://doi.org/10.1101/2024.02.08.579481)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
@@ -498,7 +541,7 @@ The 'Restoring Active Memory' project is coordinate collection of ECoG data, wit
 A collection of ECoG recordings, including 204 sessions from across 16 different tasks (n=34).
 
 [Home Page](https://purl.stanford.edu/zk881ps0522) -
-[Paper](https://doi.org/10.1152/jn.00113.2017)
+[Paper](https://doi.org/10.1038/s41562-019-0678-3)
 
 ### Individual iEEG Datasets - Research Recordings
 
@@ -527,6 +570,9 @@ The following are openly available datasets with human intracranial data:
 - Intracranial data investigating responses to single-pulse stimulation (n=52):
 [Data](https://dabi.loni.usc.edu/dsi/W4SNQ7HR49RL) -
 [Paper](https://doi.org/10.1016/j.brs.2022.02.017)
+- Intracranial recordings during finger movement (n=3):
+[Data](https://www.bbci.de/competition/iv/download/index.html) -
+[Paper](https://doi.org/10.1088/1741-2560/6/6/066001)
 
 ### Individual iEEG Datasets - Clinical Recordings
 
@@ -624,6 +670,12 @@ The following are available individual LFP and related datasets:
 [Data](https://dandiarchive.org/dandiset/000140/)
 - Data from high-density CMOS probes recorded from rats (n=3):
 [Data](https://search.kg.ebrains.eu/instances/73bb52d7-d217-4da1-98f8-d81e10063499)
+- Spiking and LFP data from monkeys across multiple regions (n=4):
+[Data](https://doi.org/10.5061/dryad.xd2547dkt) -
+[Paper](https://doi.org/10.7554/eLife.73155)
+- Single-neuron recordings from motor cortex during reaching (n=2):
+[Data](https://doi.org/10.5061/dryad.xsj3tx9cm) -
+[Paper](https://doi.org/10.5061/dryad.xsj3tx9cm)
 
 ## Behavioral Data
 
