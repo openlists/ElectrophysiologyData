@@ -2,7 +2,7 @@
 
 This is a list of openly available electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP data.
 
-Datasets and resources listed here should all be openly-accessible for research purposes, requiring, at most, registration for access. 
+Datasets and resources listed here should all be openly-accessible for research purposes, requiring, at most, registration for access.
 Be sure to check the license and/or usage agreements for any datasets you access.
 
 To contribute a new link to a data source or resource, open an issue mentioning it, or a pull request with a link.
@@ -19,7 +19,7 @@ To contribute a new link to a data source or resource, open an issue mentioning 
 
 ## Data Formats
 
-The datasets listed here are not guaranteed to be in any particular format. 
+The datasets listed here are not guaranteed to be in any particular format.
 Whenever possible, using standardized data formats can help make datasets more inter-operable.
 
 Standardized data formats for neurophysiological data include:
@@ -53,7 +53,7 @@ There are a few general purpose repositories that you can search for data:
 - [Harvard Dataverse](https://dataverse.harvard.edu/) is a general-purpose repository for research data, that includes some neuroscience data
 - [Science Data Bank](https://www.scidb.cn/en) is a general-purpose repository for research data, that includes some neuroscience data
 - [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competitions. These competitions typically include a dataset, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
-- The [IEEE Data Port](https://ieee-dataport.org/) is a general purpose repository managed by IEEE (the institute of electrical and electronics engineers). Some datasets are freely available, however some require a DataPort subscription. For neuroscience related data, see the [biophysiological signal](https://ieee-dataport.org/topic-tags/biophysiological-signals) section. 
+- The [IEEE Data Port](https://ieee-dataport.org/) is a general purpose repository managed by IEEE (the institute of electrical and electronics engineers). Some datasets are freely available, however some require a DataPort subscription. For neuroscience related data, see the [biophysiological signal](https://ieee-dataport.org/topic-tags/biophysiological-signals) section.
 
 #### Data Journals
 
@@ -156,7 +156,7 @@ Available datasets include:
 
 The TDBrain dataset is a dataset of EEG data for 1200 subjects.
 
-[Homepage](https://brainclinics.com/resources/) - 
+[Homepage](https://brainclinics.com/resources/) -
 [Paper](https://doi.org/10.1038/s41597-022-01409-z)
 
 ### NITRC - Neuroimaging Tools & Resource Collaboratory
@@ -221,9 +221,9 @@ A large multimodal dataset (n=228), with cross-sectional sampling of young and o
 
 ### PEERS - The PENN Electrophysiology of Encoding and Retrieval Study
 
-A large dataset of EEG data (n>300), covering 5 experiments in which subjects perform memory tasks, encoding and retrieving stimuli. 
+A large dataset of EEG data (n>300), covering 5 experiments in which subjects perform memory tasks, encoding and retrieving stimuli.
 
-[Homepage](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) - 
+[Homepage](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) -
 [Data](https://memory.psych.upenn.edu/Data_Archive) -
 [Paper](https://psyarxiv.com/bu5x8/)
 
@@ -347,12 +347,21 @@ The following are datasets collected with research EEG systems:
 - The Nencki-Symfonia EEG/ERP dataset, high-density EEG with rest data and three tasks, including a Multi-Source Interference Task, an oddball task and a simple reaction task (n=42):
 [Data](http://doi.org/10.5524/100990) -
 [Paper](https://doi.org/10.1093/gigascience/giac015)
-- EEG from infants age 1-7 months, with longitudinal recordings (n=19)
-[Data](https://figshare.com/articles/dataset/infant_EEG_data/5598814/1) - 
+- EEG from infants age 1-7 months, with longitudinal recordings (n=19):
+[Data](https://figshare.com/articles/dataset/infant_EEG_data/5598814/1) -
 [Paper](https://doi.org/10.1371/journal.pone.0190276)
 - A dataset of EEG data during visual object recognition, with a large number of trials per participant (n=10):
-[Data](https://osf.io/3jk45/) - 
+[Data](https://osf.io/3jk45/) -
 [Paper](https://doi.org/10.1016/j.neuroimage.2022.119754)
+- A dataset of resting-state EEG from before and after cognitive activity across the adult lifespan (n=608):
+[Data](https://openneuro.org/datasets/ds005385/) -
+[Paper](https://doi.org/10.1038/s41597-024-03797-w)
+- A dataset of longitudinal sleep EEG recordings in babies (n=103):
+[Data](https://openneuro.org/datasets/ds004577/) -
+[Paper](https://doi.org/10.1038/s41597-024-03606-4)
+- The ANPHY-Sleep dataset of sleep EEG from healthy adults (n=29):
+[Data](https://osf.io/r26fh/) -
+[Paper](https://doi.org/10.1038/s41597-024-03722-1)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
@@ -366,19 +375,25 @@ The following are available EEG datasets collected with consumer EEG systems:
 
 The following are available EEG datasets collected in the context of clinical recordings / disease states:
 - Resting state data from Parkinson's patients, with healthy controls (n=28):
-[Data](https://doi.org/10.18112/openneuro.ds002778.v1.0.5) - 
+[Data](https://doi.org/10.18112/openneuro.ds002778.v1.0.5) -
 [Paper](https://doi.org/10.1016/j.nicl.2013.07.013)
 - Data from neonatal EEG recordings with seizure annotations (n=79):
-[Data](https://doi.org/10.5281/zenodo.2547147) - 
+[Data](https://doi.org/10.5281/zenodo.2547147) -
 [Paper](https://doi.org/10.1038/sdata.2019.39)
 - A dataset of EEG recordings from pediatric subjects with intractable seizures (n=22):
-[Data](https://physionet.org/content/chbmit/1.0.0/) - 
+[Data](https://physionet.org/content/chbmit/1.0.0/) -
 [Paper](https://dspace.mit.edu/handle/1721.1/54669)
 - EEG recordings containing HFO markings for pediatric patients with epilepsy (n=30):
 [Data](https://openneuro.org/datasets/ds003555/versions/1.0.1)
 - EEG recordings from children pre- and post-surgery for epilepsy (n=11):
-[Data](https://gin.g-node.org/USZ_NCH/Scalp_EEG_HFO) - 
+[Data](https://gin.g-node.org/USZ_NCH/Scalp_EEG_HFO) -
 [Paper](https://doi.org/10.1038/s41598-019-52700-w)
+- A mulitmodal dataset, including EEG, of subjects with ADHD (n=169 with EEG):
+[Data](https://nda.nih.gov/study.html?id=1938) -
+[Paper](https://doi.org/10.1016/j.dcn.2023.101222)
+- A dataset of resting state EEG of cognitive decline and Alzheimer's (n=79) and controls (n=129):
+[Data](https://data.mendeley.com/datasets/wttpypkctg/2) -
+[Paper](https://doi.org/10.1371/journal.pone.0244180)
 
 ### Other lists of EEG Data
 
@@ -409,6 +424,13 @@ CAMCAN includes task & rest MEG data from a large cohort, balanced in age from a
 
 [Home Page](https://camcan-archive.mrc-cbu.cam.ac.uk/)
 
+### WAND - Welsh Advanced Neuroimaging Databse
+
+WAND is a multi-modal (MRI, MEG, TMS) dataset from healthy adults (n=170).
+
+[Home Page](https://git.cardiff.ac.uk/cubric/wand) -
+[Paper](https://doi.org/10.1038/s41597-024-04154-7)
+
 ### Individual MEG Datasets
 
 The following are openly available datasets with MEG data:
@@ -426,12 +448,22 @@ The following are openly available datasets with MEG data:
 - MEG data during four mental imagery tasks, for BCI analyses (n=17):
 [Data](https://doi.org/10.6084/m9.figshare.c.5101544) -
 [Paper](https://doi.org/10.1038/s41597-021-00899-7)
-- MEG data during pharmacological manipulation including taigabine, ketamine, and LSD (n=68):
-[Data](https://doi.org/10.7910/DVN/9Q1SKM) - 
-[Paper](https://doi.org/10.1016/j.neuroimage.2018.06.068)
 - MEG-MASC, a dataset of English speakers listening to naturalistic stories (n=27):
-[Data](https://osf.io/ag3kj/) - 
+[Data](https://osf.io/ag3kj/) -
 [Paper](https://arxiv.org/abs/2208.11488)
+- MEG data during pharmacological manipulation including taigabine, ketamine, and LSD (n=68):
+[Data](https://doi.org/10.7910/DVN/9Q1SKM) -
+[Paper](https://doi.org/10.1016/j.neuroimage.2018.06.068)
+
+### Individual MEG Datasets - Clinical Recordings
+
+The following are available MEG datasets collected in the context of clinical recordings / disease states:
+- The BioFIND dataset for studying dementia (n=324):
+[Data](https://portal.dementiasplatform.uk/Apply) -
+[Paper](https://doi.org/10.1016/j.neuroimage.2022.119344)
+- The Swedish National Facility MEG Parkinson's dataset (n=66 clinical & n=68 controls):
+[Data](https://doi.org/10.25493/DSY2-W2P) -
+[Paper](https://doi.org/10.1038/s41597-024-02987-w)
 
 ## Human Intracranial Data
 
@@ -478,7 +510,7 @@ The following are openly available datasets with human intracranial data:
 [Data](https://osf.io/z4hfm/) -
 [Paper](https://doi.org/10.7554/eLife.48065)
 - Multimodal dataset of iEEG & fMRI data while watching a short movie (n=51 iEEG subjects):
-[Data](https://openneuro.org/datasets/ds003688) - 
+[Data](https://openneuro.org/datasets/ds003688) -
 [Paper](https://doi.org/10.1038/s41597-022-01173-0)
 - A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12):
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
@@ -493,23 +525,23 @@ The following are openly available datasets with human intracranial data:
 [Data](https://doi.org/10.25493/GKNT-T3X) -
 [Paper](https://www.nature.com/articles/s41597-021-01099-z)
 - Intracranial data investigating responses to single-pulse stimulation (n=52):
-[Data](https://dabi.loni.usc.edu/dsi/W4SNQ7HR49RL) - 
+[Data](https://dabi.loni.usc.edu/dsi/W4SNQ7HR49RL) -
 [Paper](https://doi.org/10.1016/j.brs.2022.02.017)
 
 ### Individual iEEG Datasets - Clinical Recordings
 
 The following are openly available datasets that contain seizures and/or are annotated for epilepsy:
 - A multicenter collection of iEEG data, including seizures (n=30):
-[Data](https://openneuro.org/datasets/ds003029/versions/1.0.3) - 
+[Data](https://openneuro.org/datasets/ds003029/versions/1.0.3) -
 [Paper](https://doi.org/10.1038/s41593-021-00901-w)
 - A dataset of iEEG recordings from epilepsy patients, organized in BIDS (n=12):
-[Data](https://doi.org/10.18112/openneuro.ds003844.v1.0.3) - 
+[Data](https://doi.org/10.18112/openneuro.ds003844.v1.0.3) -
 [Paper](https://doi.org/10.1007/s12021-022-09567-6)
 - Interictal iEEG during slow-wave sleep with HFO markings (n=20):
-[Data](https://openneuro.org/datasets/ds003498/versions/1.1.0) - 
+[Data](https://openneuro.org/datasets/ds003498/versions/1.1.0) -
 [Paper](https://doi.org/10.1038/s41598-017-13064-1)
 - Intraoperative pre- and post-resection ECoG from epilepsy patients (n=22):
-[Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) - 
+[Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) -
 [Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
 
 ### Human Single Unit Data
@@ -520,7 +552,7 @@ Available datasets with single unit data from humans:
 [Paper](https://doi.org/10.1038/s41597-020-0415-9) -
 [Associated Code](https://github.com/rutishauserlab/recogmem-release-NWB)
 - Human single units with a verbal working memory task, also including iEEG data (n=9):
-[Data](https://doi.gin.g-node.org/10.12751/g-node.d76994/) - 
+[Data](https://doi.gin.g-node.org/10.12751/g-node.d76994/) -
 [Paper](https://www.nature.com/articles/s41597-020-0364-3)
 - Human single units from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) -
@@ -531,8 +563,8 @@ Available datasets with single unit data from humans:
 
 ## Animal Data
 
-Openly available animal datasets with electrophysiological recordings collected from animal models, 
-including local field potential (LFP) and/or single-unit activity collected from single-electrodes, 
+Openly available animal datasets with electrophysiological recordings collected from animal models,
+including local field potential (LFP) and/or single-unit activity collected from single-electrodes,
 multi-electrode arrays, animal ECoG, or similar recordings.
 
 ### NeuroTycho
@@ -577,7 +609,7 @@ The following are available individual LFP and related datasets:
 [Data](https://doi.gin.g-node.org/10.12751/g-node.i20kyh/) -
 [Paper](https://doi.org/10.1038/s41597-022-01180-1)
 - Electrophysiological dataset from macaque visual cortical area MST (n=3):
-[Data](https://doi.org/10.12751/g-node.d8yhh8) - 
+[Data](https://doi.org/10.12751/g-node.d8yhh8) -
 [Paper](https://doi.org/10.1038/s41597-022-01239-z)
 - Spiking activity from macaque primary motor and dorsal premotor cortex during delated reaching (n=1):
 [Data](https://dandiarchive.org/dandiset/000140/)
