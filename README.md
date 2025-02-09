@@ -216,6 +216,14 @@ NSRR is a resource offering large collections of physiological signals, includin
 [Data Portal](https://sleepdata.org/datasets) -
 [Paper](https://doi.org/10.5665/sleep.5774)
 
+### DREAM - A Dream EEG and Mentation Database
+
+An M/EEG dataset of sleep data with dream reports (n=561).
+
+[Home Page](https://bridges.monash.edu/projects/The_Dream_EEG_and_Mentation_DREAM_database/158987) -
+[Data Portal](https://bridges.monash.edu/articles/dataset/The_DREAM_database/22133105) -
+[Paper](https://doi.org/10.31234/osf.io/69e43)
+
 ### The Cuban Human Brain Mapping Project
 
 The CHBMP is an open dataset from 282 young and middle age healthy participants, including resting state EEG, and during hyperventilation.
