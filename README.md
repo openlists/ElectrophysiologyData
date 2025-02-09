@@ -125,7 +125,7 @@ A large collection of EEG recorded in clinical settings (hospital data).
 
 The TUH includes multiple (described [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)), including:
 - The TUH EEG Corpus (TUEG), with over 30,000 hospital EEG recordings
-- The TUH Abnormal EEG Corpus (TUAB), with annotatations for if recordings are normal or abnormal
+- The TUH Abnormal EEG Corpus (TUAB), with annotations for if recordings are normal or abnormal
 - The TUH EEG Artifact Corpus (TUAR), with annotations of different artifacts
 - The TUH Epilepsy Corpus (TUEP), with a subset of subjects with and without epilepsy
 - The TUH EEG Events Corpus (TUEV), with annotations of specific events (sharp waves, epileptiform discharges, etc)
@@ -388,7 +388,7 @@ The following are available EEG datasets collected in the context of clinical re
 - EEG recordings from children pre- and post-surgery for epilepsy (n=11):
 [Data](https://gin.g-node.org/USZ_NCH/Scalp_EEG_HFO) -
 [Paper](https://doi.org/10.1038/s41598-019-52700-w)
-- A mulitmodal dataset, including EEG, of subjects with ADHD (n=169 with EEG):
+- A multimodal dataset, including EEG, of subjects with ADHD (n=169 with EEG):
 [Data](https://nda.nih.gov/study.html?id=1938) -
 [Paper](https://doi.org/10.1016/j.dcn.2023.101222)
 - A dataset of resting state EEG of cognitive decline and Alzheimer's (n=79) and controls (n=129):
@@ -424,7 +424,7 @@ CAMCAN includes task & rest MEG data from a large cohort, balanced in age from a
 
 [Home Page](https://camcan-archive.mrc-cbu.cam.ac.uk/)
 
-### WAND - Welsh Advanced Neuroimaging Databse
+### WAND - Welsh Advanced Neuroimaging Database
 
 WAND is a multi-modal (MRI, MEG, TMS) dataset from healthy adults (n=170).
 
@@ -531,7 +531,7 @@ The following are openly available datasets with human intracranial data:
 ### Individual iEEG Datasets - Clinical Recordings
 
 The following are openly available datasets that contain seizures and/or are annotated for epilepsy:
-- A multicenter collection of iEEG data, including seizures (n=30):
+- A multi-center collection of iEEG data, including seizures (n=30):
 [Data](https://openneuro.org/datasets/ds003029/versions/1.0.3) -
 [Paper](https://doi.org/10.1038/s41593-021-00901-w)
 - A dataset of iEEG recordings from epilepsy patients, organized in BIDS (n=12):
@@ -540,7 +540,7 @@ The following are openly available datasets that contain seizures and/or are ann
 - Interictal iEEG during slow-wave sleep with HFO markings (n=20):
 [Data](https://openneuro.org/datasets/ds003498/versions/1.1.0) -
 [Paper](https://doi.org/10.1038/s41598-017-13064-1)
-- Intraoperative pre- and post-resection ECoG from epilepsy patients (n=22):
+- Intra-operative pre- and post-resection ECoG from epilepsy patients (n=22):
 [Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) -
 [Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
 
@@ -620,7 +620,7 @@ The following are available individual LFP and related datasets:
 - Electrophysiological dataset from macaque visual cortical area MST (n=3):
 [Data](https://doi.org/10.12751/g-node.d8yhh8) -
 [Paper](https://doi.org/10.1038/s41597-022-01239-z)
-- Spiking activity from macaque primary motor and dorsal premotor cortex during delated reaching (n=1):
+- Spiking activity from macaque primary motor and dorsal pre-motor cortex during delayed reaching (n=1):
 [Data](https://dandiarchive.org/dandiset/000140/)
 - Data from high-density CMOS probes recorded from rats (n=3):
 [Data](https://search.kg.ebrains.eu/instances/73bb52d7-d217-4da1-98f8-d81e10063499)
