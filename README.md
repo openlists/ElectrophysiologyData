@@ -544,22 +544,31 @@ The following are openly available datasets that contain seizures and/or are ann
 [Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) -
 [Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
 
-### Human Single Unit Data
+### Human Single Neuron Data
 
-Available datasets with single unit data from humans:
-- Human single units with a declarative memory task (n=59):
+Available datasets with single neuron data from humans:
+- Human single neuron data with a declarative memory task (n=59):
 [Data](https://osf.io/hv7ja/) -
 [Paper](https://doi.org/10.1038/s41597-020-0415-9) -
 [Associated Code](https://github.com/rutishauserlab/recogmem-release-NWB)
-- Human single units with a verbal working memory task, also including iEEG data (n=9):
+- Human single neuron data with a verbal working memory task, also including iEEG data (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.d76994/) -
 [Paper](https://www.nature.com/articles/s41597-020-0364-3)
-- Human single units from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
+- Human single neuron data from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) -
 [Paper](https://doi.org/10.1038/s41597-020-00790-x)
-- Single unit data from neuropixel probes in human cortex (n=3):
+- Human single neuron data from neuropixel probes in human cortex (n=3):
 [Data](https://doi.org/10.5061/dryad.d2547d840) -
 [Paper](https://doi.org/10.1101/2021.06.20.449152)
+- Human single unit data with a face perception task (n=12):
+[Data](https://doi.org/10.17605/OSF.IO/824S7) -
+[Paper](https://doi.org/10.1038/s41597-022-01482-4)
+- Human single unit data with a Sternberg working memory task (n=21):
+[Data](https://doi.org/10.48324/dandi.000469/0.231213.2047) -
+[Paper](https://doi.org/10.1038/s41597-024-02943-8)
+- Human single unit data with an object recognition task (n=6):
+[Data](https://doi.org/10.17605/OSF.IO/VH5KQ) -
+[Paper](https://doi.org/10.1038/s41597-024-04265-1)
 
 ## Animal Data
 
