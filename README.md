@@ -413,6 +413,9 @@ The following are datasets collected with research EEG systems:
 - An EEG dataset while participants read Chinese (n=10):
 [Data](https://openneuro.org/datasets/ds004952) -
 [Paper](https://doi.org/10.1101/2024.02.08.579481)
+- A High-Resolution EEG Dataset for Emotion Research (n=40):
+[Data](https://www.interdigital.com/data_sets/hr-eeg4emo-dataset) -
+[Paper](https://doi.org/10.1109/TAFFC.2017.2768030)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
