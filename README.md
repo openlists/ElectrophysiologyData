@@ -218,11 +218,11 @@ NSRR is a resource offering large collections of physiological signals, includin
 
 ### DREAM - A Dream EEG and Mentation Database
 
-An M/EEG dataset of sleep data with dream reports (n=561).
+An M/EEG dataset of sleep data with dream reports (n=505).
 
-[Home Page](https://bridges.monash.edu/projects/The_Dream_EEG_and_Mentation_DREAM_database/158987) -
+[Home Page](https://monash.edu/dream-database) -
 [Data Portal](https://bridges.monash.edu/articles/dataset/The_DREAM_database/22133105) -
-[Paper](https://doi.org/10.31234/osf.io/69e43)
+[Paper](https://doi.org/10.1038/s41467-025-61945-1)
 
 ### The Cuban Human Brain Mapping Project
 
