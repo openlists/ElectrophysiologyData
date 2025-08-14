@@ -600,6 +600,9 @@ The following are openly available datasets that contain seizures and/or are ann
 - Intra-operative pre- and post-resection ECoG from epilepsy patients (n=22):
 [Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) -
 [Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
+- Annotated interictal discharges during sleep in iEEG recordings (n=25):
+[Data](https://figshare.com/articles/dataset/_b_Annotated_b_b_interictal_epileptiform_discharges_in_b_b_intracranial_EEG_iEEG_sleep_data_b_/26131978?file=51412736) -
+[Paper](https://www.nature.com/articles/s41597-024-04187-y)
 
 ### Human Single Neuron Data
 
