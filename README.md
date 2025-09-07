@@ -37,6 +37,7 @@ There are several repositories, journals, and search engines that can be checked
 #### Neuroscience Specific Data Repositories
 
 - [OpenNeuro](https://openneuro.org/) is a platform for analyzing and sharing neuroimaging data. Originally focused on MRI datasets, it now includes other modalities, including some electrophysiological data. Data on OpenNeuro is generally organized in BIDS formats.
+- [NEMAR](https://nemar.org/), the NeuroElectroMagnetic data Archive and tools Resources, is an integrated data repository and compute resources for M/EEG & iEEG data that is shared through the OpenNeuro archive, hosting datasets in BIDS formats.
 - The [DANDI](https://gui.dandiarchive.org/#/) archive ('distributed archives for neurophysiological data integration') is a platform for sharing and processing neurophysiological data. It includes a list of [public datasets](https://gui.dandiarchive.org/#/dandiset). Data on DANDI is generally organized in NWB format.
 - The [DABI](https://dabi.loni.usc.edu/home) repository ('data archive BRAIN initiative') is a platform for storing and processing invasive neurophysiological data, in particular for the BRAIN initiative.
 - The [EBrains](https://ebrains.eu/) platform for the European Union's 'Human Brain Project' includes a data portal with available data, including some extra- and intra-cranial human recordings
@@ -419,6 +420,9 @@ The following are datasets collected with research EEG systems:
 - Infant EEG data during rapid serial visual presentation paradigm (n=42):
 [Data](https://openneuro.org/datasets/ds005106/versions/1.5.0) -
 [Paper](https://www.nature.com/articles/s41597-025-04744-z)
+- Multimodal dataset of MRI and EEG data (n=20):
+[Data](https://doi.org/10.17632/crhybxpdy6.2) -
+[Paper](https://doi.org/10.1016/j.dib.2023.109661)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
@@ -427,6 +431,9 @@ The following are available EEG datasets collected with consumer EEG systems:
 [Data](http://mindbigdata.com/opendb/index.html)
 - ImageNet of the Brain from MindBigData (n=1 with 70,000 trials):
 [Data](http://mindbigdata.com/opendb/imagenet.html)
+- Simons Sleep Project: sleep data recorded with EEG headband of adolescents with and without autism (n=200; >3600 nights):
+[Data](https://base.sfari.org/dataset/DS0000089) -
+[Paper](https://doi.org/10.1101/2025.02.22.639641)
 
 ### Individual EEG Datasets - Clinical Recordings
 
@@ -590,6 +597,9 @@ The following are openly available datasets with human intracranial data:
 - 'Podcast' dataset of ECoG recordings during natural language comprehension (n=9):
 [Data](https://openneuro.org/datasets/ds005574) -
 [Paper](https://www.nature.com/articles/s41597-025-05462-2)
+- Intracranial Dataset from consciousness study with visual Go/NoGo task (n=38):
+[Data](https://www.arc-cogitate.com/data-release) -
+[Paper](https://doi.org/10.1038/s41597-025-04833-z)
 
 ### Individual iEEG Datasets - Clinical Recordings
 
