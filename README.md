@@ -25,10 +25,10 @@ Whenever possible, using standardized data formats can help make datasets more i
 Standardized data formats for neurophysiological data include:
 - [Neurodata Without Borders](https://www.nwb.org), or NWB, is a general data standard for neurophysiology, with the goal of promoting a common standard for storing, sharing, and archiving data. The NWB project also maintains a list of publicly available [NWB datasets](https://www.nwb.org/example-datasets/).
 - [Brain Imaging Data Structure](https://bids.neuroimaging.io/), or BIDS, is a set of data standards for imaging data, including
-[MRI](https://www.nature.com/articles/sdata201644),
-[EEG](https://www.nature.com/articles/s41597-019-0104-8),
-[MEG](https://www.nature.com/articles/sdata2018110), and
-[iEEG](https://www.nature.com/articles/s41597-019-0105-7).
+[MRI](https://doi.org/10.1038/sdata.2016.44),
+[EEG](https://doi.org/10.1038/s41597-019-0104-8),
+[MEG](https://doi.org/10.1038/sdata.2018.110), and
+[iEEG](https://doi.org/10.1038/s41597-019-0105-7).
 
 ## Repositories
 
@@ -342,7 +342,7 @@ The following are datasets collected with research EEG systems:
 [Paper](https://doi.org/10.1038/s41597-021-00821-1)
 - EEG from participants playing an 8-bit style video game (n=17):
 [Data](https://openneuro.org/datasets/ds003517/versions/1.1.0) -
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1053811916001932?via%3Dihub)
+[Paper](https://doi.org/10.1016/j.neuroimage.2016.02.075)
 - An EEG/BCI dataset across multiple paradigms and recording sessions (n=54):
 [Data](http://dx.doi.org/10.5524/100542) -
 [Paper](https://doi.org/10.1093/gigascience/giz002)
@@ -353,10 +353,10 @@ The following are datasets collected with research EEG systems:
 [Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
 - An EEG/BCI dataset for inner speech recognition (n=10):
 [Data](https://openneuro.org/datasets/ds003626/versions/1.0.1) -
-[Paper](https://www.biorxiv.org/content/10.1101/2021.04.19.440473v1)
+[Paper](https://doi.org/10.1038/s41597-022-01147-2)
 - An EEG/BCI sensorimotor dataset, with longitudinal data (n=62):
 [Data](https://doi.org/10.6084/m9.figshare.13123148) -
-[Paper](https://www.nature.com/articles/s41597-021-00883-1)
+[Paper](https://doi.org/10.1038/s41597-021-00883-1)
 - An EEG dataset of with rapid serial visual presentation (n=50):
 [Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) -
 [Paper](https://doi.org/10.1038/s41597-021-01102-7)
@@ -419,7 +419,7 @@ The following are datasets collected with research EEG systems:
 [Paper](https://doi.org/10.1109/TAFFC.2017.2768030)
 - Infant EEG data during rapid serial visual presentation paradigm (n=42):
 [Data](https://openneuro.org/datasets/ds005106/versions/1.5.0) -
-[Paper](https://www.nature.com/articles/s41597-025-04744-z)
+[Paper](https://doi.org/10.1038/s41597-025-04744-z)
 - Multimodal dataset of MRI and EEG data (n=20):
 [Data](https://doi.org/10.17632/crhybxpdy6.2) -
 [Paper](https://doi.org/10.1016/j.dib.2023.109661)
@@ -500,7 +500,7 @@ WAND is a multi-modal (MRI, MEG, TMS) dataset from healthy adults (n=170).
 The following are openly available datasets with MEG data:
 - 'Mother of unification studies' (MOUS) dataset, resting state and language task (n=204):
 [Data](https://data.donders.ru.nl/collections/di/dccn/DSC_3011020.09_236?0) -
-[Paper](https://www.nature.com/articles/s41597-019-0020-y)
+[Paper](https://doi.org/10.1038/s41597-019-0020-y)
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52):
 [Data](https://osf.io/m25n4/) -
 [Paper](https://doi.org/10.1371/journal.pcbi.1005938)
@@ -587,7 +587,7 @@ The following are openly available datasets with human intracranial data:
 [Paper](https://doi.org/10.1038/s41597-022-01125-8)
 - Intracranial data during memory tasks with pupillometry (n=10):
 [Data](https://doi.org/10.25493/GKNT-T3X) -
-[Paper](https://www.nature.com/articles/s41597-021-01099-z)
+[Paper](https://doi.org/10.1038/s41597-021-01099-z)
 - Intracranial data investigating responses to single-pulse stimulation (n=52):
 [Data](https://dabi.loni.usc.edu/dsi/W4SNQ7HR49RL) -
 [Paper](https://doi.org/10.1016/j.brs.2022.02.017)
@@ -596,7 +596,7 @@ The following are openly available datasets with human intracranial data:
 [Paper](https://doi.org/10.1088/1741-2560/6/6/066001)
 - 'Podcast' dataset of ECoG recordings during natural language comprehension (n=9):
 [Data](https://openneuro.org/datasets/ds005574) -
-[Paper](https://www.nature.com/articles/s41597-025-05462-2)
+[Paper](https://doi.org/10.1038/s41597-025-05462-2)
 - Intracranial Dataset from consciousness study with visual Go/NoGo task (n=38):
 [Data](https://www.arc-cogitate.com/data-release) -
 [Paper](https://doi.org/10.1038/s41597-025-04833-z)
@@ -618,7 +618,7 @@ The following are openly available datasets that contain seizures and/or are ann
 [Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
 - Annotated interictal discharges during sleep in iEEG recordings (n=25):
 [Data](https://figshare.com/articles/dataset/_b_Annotated_b_b_interictal_epileptiform_discharges_in_b_b_intracranial_EEG_iEEG_sleep_data_b_/26131978?file=51412736) -
-[Paper](https://www.nature.com/articles/s41597-024-04187-y)
+[Paper](https://doi.org/10.1038/s41597-024-04187-y)
 
 ### Human Single Neuron Data
 
@@ -629,7 +629,7 @@ Available datasets with single neuron data from humans:
 [Associated Code](https://github.com/rutishauserlab/recogmem-release-NWB)
 - Human single neuron data with a verbal working memory task, also including iEEG data (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.d76994/) -
-[Paper](https://www.nature.com/articles/s41597-020-0364-3)
+[Paper](https://doi.org/10.1038/s41597-020-0364-3)
 - Human single neuron data from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) -
 [Paper](https://doi.org/10.1038/s41597-020-00790-x)
