@@ -435,7 +435,7 @@ The following are datasets collected with research EEG systems:
 [Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703882v1)
 - Neonatal sleep EEG data (n=118):
 [Data](https://doi.org/10.17605/OSF.IO/ANXFS) -
-[Paper1](https://doi.org/10.1093/sleep/zsy096)
+[Paper1](https://doi.org/10.1093/sleep/zsy096) -
 [Paper2](https://doi.org/10.1016/j.earlhumdev.2019.07.007)
 - Neonatal somatosensory event-related potentials to face, hand and foot stimulation (n=7):
 [Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207145#sec020) -
