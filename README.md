@@ -430,6 +430,9 @@ The following are datasets collected with research EEG systems:
 - FOODEEG: dataset of EEG responses to food images (n=117):
 [Data](https://doi.org/10.18112/openneuro.ds006832.v1.0.0) -
 [Paper](https://doi.org/10.1101/2025.11.07.687287)
+- A simultaneous EEG/fMRI with cognitive tasks & experience sampling (n=24):
+[Data](https://openneuro.org/datasets/ds007216) -
+[Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703882v1)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
@@ -626,6 +629,10 @@ The following are openly available datasets that contain seizures and/or are ann
 - Annotated interictal discharges during sleep in iEEG recordings (n=25):
 [Data](https://figshare.com/articles/dataset/_b_Annotated_b_b_interictal_epileptiform_discharges_in_b_b_intracranial_EEG_iEEG_sleep_data_b_/26131978?file=51412736) -
 [Paper](https://doi.org/10.1038/s41597-024-04187-y)
+- Simultaneous subthalamic DBS-LFP & cortical MEG on & off dopaminergic medication (n=8):
+[Data](https://figshare.com/articles/dataset/Sumultaneous_subthalamic_local_field_potentials_and_MEG-derived_cortical_activity_in_Parkinson_s_patients_ON_and_OFF_dopaminergic_medication/31254136) -
+[Paper1](dx.doi.org/10.1093/brain/awq332) -
+[Paper2](dx.doi.org/10.1523/JNEUROSCI.0767-12.2012)
 
 ### Human Single Neuron Data
 
