@@ -91,7 +91,7 @@ A large project including rest and task EEG data across a large adult cohort (n=
 
 [Home Page](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html) -
 [Data Portal](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) -
-[Paper](https://dx.doi.org/10.1038/sdata.2017.181)
+[Paper](https://doi.org/10.1038/sdata.2017.181)
 
 #### MIPDB - Multimodal Resource for Studying Information Processing in the Developing Brain
 
@@ -319,7 +319,7 @@ The following are datasets collected with research EEG systems:
 - EEG recordings with concurrent EMG while doing everyday tasks (n=27):
 [Data](http://researchdata.gla.ac.uk/676/)
 - Multi-modal (EEG, EMG, EOG) recordings during movement tasks (n=25):
-[Data](http://dx.doi.org/10.5524/100788) -
+[Data](http://doi.org/10.5524/100788) -
 [Paper](https://doi.org/10.1093/gigascience/giaa098)
 - EEG BCI recordings during mental imagery, across sessions & interaction paradigms (n=13):
 [Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1) -
@@ -344,7 +344,7 @@ The following are datasets collected with research EEG systems:
 [Data](https://openneuro.org/datasets/ds003517/versions/1.1.0) -
 [Paper](https://doi.org/10.1016/j.neuroimage.2016.02.075)
 - An EEG/BCI dataset across multiple paradigms and recording sessions (n=54):
-[Data](http://dx.doi.org/10.5524/100542) -
+[Data](http://doi.org/10.5524/100542) -
 [Paper](https://doi.org/10.1093/gigascience/giz002)
 - A large EEG dataset with a simple gambling task (n=500):
 [Data](https://osf.io/65x4v/) -
@@ -644,8 +644,8 @@ The following are openly available datasets that contain seizures and/or are ann
 [Paper](https://doi.org/10.1038/s41597-024-04187-y)
 - Simultaneous subthalamic DBS-LFP & cortical MEG on & off dopaminergic medication (n=8):
 [Data](https://figshare.com/articles/dataset/Sumultaneous_subthalamic_local_field_potentials_and_MEG-derived_cortical_activity_in_Parkinson_s_patients_ON_and_OFF_dopaminergic_medication/31254136) -
-[Paper1](dx.doi.org/10.1093/brain/awq332) -
-[Paper2](dx.doi.org/10.1523/JNEUROSCI.0767-12.2012)
+[Paper1](https://doi.org/10.1093/brain/awq332) -
+[Paper2](https://doi.org/10.1523/JNEUROSCI.0767-12.2012)
 
 ### Human Single Neuron Data
 
