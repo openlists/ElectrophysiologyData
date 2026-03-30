@@ -433,6 +433,16 @@ The following are datasets collected with research EEG systems:
 - A simultaneous EEG/fMRI with cognitive tasks & experience sampling (n=24):
 [Data](https://openneuro.org/datasets/ds007216) -
 [Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703882v1)
+- Neonatal sleep EEG data (n=118):
+[Data](https://doi.org/10.17605/OSF.IO/ANXFS) -
+[Paper1](https://doi.org/10.1093/sleep/zsy096)
+[Paper2](https://doi.org/10.1016/j.earlhumdev.2019.07.007)
+- Neonatal somatosensory event-related potentials to face, hand and foot stimulation (n=7):
+[Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207145#sec020) -
+[Paper](https://doi.org/10.1371/journal.pone.0207145)
+- EEG, behavioural and physiological recordings following a painful procedure in human neonates (n=112):
+[Data](https://doi.org/10.5255/UKDA-SN-853204) -
+[Paper](https://doi.org/10.1038/sdata.2018.248)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
@@ -468,6 +478,9 @@ The following are available EEG datasets collected in the context of clinical re
 - A dataset of resting state EEG of cognitive decline and Alzheimer's (n=79) and controls (n=129):
 [Data](https://data.mendeley.com/datasets/wttpypkctg/2) -
 [Paper](https://doi.org/10.1371/journal.pone.0244180)
+- Neonate EEG & ECG recordings with and without eye shields (n=18):
+[Data](https://doi.org/10.17605/OSF.IO/TVPJF) -
+[Paper](https://doi.org/10.1016/j.earlhumdev.2026.106523)
 
 ### Other lists of EEG Data
 
