@@ -345,6 +345,9 @@ The following are openly available EEG datasets from individual projects / tasks
 - An EEG dataset of with rapid serial visual presentation (n=50):
 [Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) -
 [Paper](https://doi.org/10.1038/s41597-021-01102-7)
+- EEG data during speech production, in Japanese (n=3; 1020 hours):
+[Data](https://openneuro.org/datasets/ds007808) -
+[Paper](https://doi.org/10.48550/arXiv.2606.01264)
 
 #### Sleep Recordings
 
@@ -370,6 +373,9 @@ The following are openly available EEG datasets from individual projects / tasks
 [Data](https://doi.org/10.17605/OSF.IO/ANXFS) -
 [Paper1](https://doi.org/10.1093/sleep/zsy096) -
 [Paper2](https://doi.org/10.1016/j.earlhumdev.2019.07.007)
+- EEG & ECG recordings around onset of NREM from infancy to adolescence (n=1032):
+[Data](https://doi.org/10.5281/zenodo.17138539) -
+[Paper](https://doi.org/10.1038/s41597-026-07356-3)
 
 #### Multimodal Recordings (including stimulation)
 
@@ -402,6 +408,12 @@ The following are openly available EEG datasets from individual projects / tasks
 [Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703882v1)
 - A dataset comparing different EEG systems, including 3 sessions per participant (n=14):
 [Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
+- EEG data with carbon wire loops in & out of MR scanners (n=39):
+[Data](https://doi.org/10.34860/atr-EfP-2025) -
+[Paper](https://doi.org/10.1038/s41597-026-06734-1)
+- EEG, eye-tracking, and physiological signals during smartphone interactions (n=23):
+[Data](https://openneuro.org/datasets/ds007537/) -
+[Paper](https://doi.org/10.64898/2026.04.21.719334)
 
 #### BCI Related
 
@@ -663,6 +675,9 @@ The following are openly available datasets that contain seizures and/or are ann
 [Data](https://figshare.com/articles/dataset/Sumultaneous_subthalamic_local_field_potentials_and_MEG-derived_cortical_activity_in_Parkinson_s_patients_ON_and_OFF_dopaminergic_medication/31254136) -
 [Paper1](https://doi.org/10.1093/brain/awq332) -
 [Paper2](https://doi.org/10.1523/JNEUROSCI.0767-12.2012)
+- Chronic iEEG in epilespy patients from RNS system (n=8):
+[Data](https://openneuro.org/datasets/ds007095) -
+[Paper](https://doi.org/10.3389/fnins.2026.1815732)
 
 ### Human Single Neuron Data
 
@@ -750,6 +765,9 @@ The following are available individual LFP and related datasets:
 - Single-neuron recordings from motor cortex during reaching (n=2):
 [Data](https://doi.org/10.5061/dryad.xsj3tx9cm) -
 [Paper](https://doi.org/10.5061/dryad.xsj3tx9cm)
+- Cortical & sub-cortical single-neuron activity during value-based tasks in macaques(n=2):
+[Data](https://doi.org/10.5281/zenodo.17524410) -
+[Paper](https://doi.org/10.1038/s41597-026-07129-y)
 
 ## Behavioral Data
 
