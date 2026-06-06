@@ -113,38 +113,6 @@ Available datasets include:
 - EEG Motor Movement / Imagery (n=109):
 [Data](https://www.physionet.org/pn4/eegmmidb/)
 
-### PREDICT - Patient Repository for EEG Data + Computational Tools
-
-PREDICT is a repository for EEG data, focused on patient data (collected in research settings).
-
-[Home Page](http://predict.cs.unm.edu) -
-[Data Portal](http://predict.cs.unm.edu/downloads.php) -
-[Paper](https://doi.org/10.3389/fninf.2017.00067)
-
-### TUH - Temple University Hospital Corpus
-
-A large collection of EEG recorded in clinical settings (hospital data).
-
-[Home Page](https://www.isip.piconepress.com/projects/tuh_eeg/) -
-[Data Portal](https://www.isip.piconepress.com/projects/tuh_eeg/html/request_access.php) -
-[Paper](https://doi.org/10.3389/fnins.2016.00196)
-
-The TUH includes multiple (described [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)), including:
-- The TUH EEG Corpus (TUEG), with over 30,000 hospital EEG recordings
-- The TUH Abnormal EEG Corpus (TUAB), with annotations for if recordings are normal or abnormal
-- The TUH EEG Artifact Corpus (TUAR), with annotations of different artifacts
-- The TUH Epilepsy Corpus (TUEP), with a subset of subjects with and without epilepsy
-- The TUH EEG Events Corpus (TUEV), with annotations of specific events (sharp waves, epileptiform discharges, etc)
-- The TUH EEG Seizure Corpus (TUSZ), with annotations for seizures
-- The TUH EEG Slowing Corpus (TUSL), with annotations for slowing events
-
-### National Sleep Research Resource
-
-The NSRR is a repository for sharing sleep data, including polysomnography which includes EEG electrodes.
-
-[Home Page](https://www.sleepdata.org/) -
-[Data](https://www.sleepdata.org/datasets)
-
 ### EEGbase
 
 EEGbase is a database for electrophysiological data.
@@ -195,11 +163,12 @@ ERP-CORE (Compendium of Open Resources and Experiments) is a resource with exper
 [Data](https://osf.io/thsqg/) -
 [Paper](https://doi.org/10.31234/osf.io/4azqm)
 
-### BNCI Horizon 2020
+### National Sleep Research Resource
 
-A collection of BCI related EEG datasets.
+The NSRR is a repository for sharing sleep data, including polysomnography which includes EEG electrodes.
 
-[Home Page](http://bnci-horizon-2020.eu/database/data-sets)
+[Home Page](https://www.sleepdata.org/) -
+[Data](https://www.sleepdata.org/datasets)
 
 ### MASS - Montreal Archive of Sleep Studies
 
@@ -225,13 +194,6 @@ An M/EEG dataset of sleep data with dream reports (n=505).
 [Data Portal](https://bridges.monash.edu/articles/dataset/The_DREAM_database/22133105) -
 [Paper](https://doi.org/10.1038/s41467-025-61945-1)
 
-### The Cuban Human Brain Mapping Project
-
-The CHBMP is an open dataset from 282 young and middle age healthy participants, including resting state EEG, and during hyperventilation.
-
-[Data](https://www.synapse.org/#!Synapse:syn22324937) -
-[Paper](https://doi.org/10.1038/s41597-021-00829-7)
-
 ### LEMON - Leipzig Study for Mind-Body-Emotion Interactions
 
 A large multimodal dataset (n=228), with cross-sectional sampling of young and old participants, and including MRI, EEG, physiological, clinical and cognitive measures.
@@ -248,13 +210,51 @@ A large dataset of EEG data (n>300), covering 5 experiments in which subjects pe
 [Data](https://memory.psych.upenn.edu/Data_Archive) -
 [Paper](https://psyarxiv.com/bu5x8/)
 
+### TUH - Temple University Hospital Corpus
+
+A large collection of EEG recorded in clinical settings (hospital data).
+
+[Home Page](https://www.isip.piconepress.com/projects/tuh_eeg/) -
+[Data Portal](https://www.isip.piconepress.com/projects/tuh_eeg/html/request_access.php) -
+[Paper](https://doi.org/10.3389/fnins.2016.00196)
+
+The TUH includes multiple (described [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)), including:
+- The TUH EEG Corpus (TUEG), with over 30,000 hospital EEG recordings
+- The TUH Abnormal EEG Corpus (TUAB), with annotations for if recordings are normal or abnormal
+- The TUH EEG Artifact Corpus (TUAR), with annotations of different artifacts
+- The TUH Epilepsy Corpus (TUEP), with a subset of subjects with and without epilepsy
+- The TUH EEG Events Corpus (TUEV), with annotations of specific events (sharp waves, epileptiform discharges, etc)
+- The TUH EEG Seizure Corpus (TUSZ), with annotations for seizures
+- The TUH EEG Slowing Corpus (TUSL), with annotations for slowing events
+
+### PREDICT - Patient Repository for EEG Data + Computational Tools
+
+PREDICT is a repository for EEG data, focused on patient data (collected in research settings).
+
+[Home Page](http://predict.cs.unm.edu) -
+[Data Portal](http://predict.cs.unm.edu/downloads.php) -
+[Paper](https://doi.org/10.3389/fninf.2017.00067)
+
+### The Cuban Human Brain Mapping Project
+
+The CHBMP is an open dataset from 282 young and middle age healthy participants, including resting state EEG, and during hyperventilation.
+
+[Data](https://www.synapse.org/#!Synapse:syn22324937) -
+[Paper](https://doi.org/10.1038/s41597-021-00829-7)
+
 ### BrainLat: The Latin American Brain Health Institute Dataset
 
-A multimodal dataset (MRI, fMRI, EEG), including healthy participants and clinical patients including with Alzheimer's, dementia, MS, and Parkinson's (n=780).
+A multimodal dataset (EEG, MRI, fMRI), including healthy participants and clinical patients including with Alzheimer's, dementia, MS, and Parkinson's (n=780).
 
 [Home Page](https://www.synapse.org/Synapse:syn51549340/wiki/624187) -
 [Data](https://doi.org/10.7303/syn51549340) -
 [Paper](https://doi.org/10.1038/s41597-023-02806-8)
+
+### BNCI Horizon 2020
+
+A collection of BCI related EEG datasets.
+
+[Home Page](http://bnci-horizon-2020.eu/database/data-sets)
 
 ### MOABB: Mother of all BCI Benchmarks
 
@@ -530,7 +530,7 @@ CAMCAN includes task & rest MEG data from a large cohort, balanced in age from a
 
 ### WAND - Welsh Advanced Neuroimaging Database
 
-WAND is a multi-modal (MRI, MEG, TMS) dataset from healthy adults (n=170).
+WAND is a multi-modal (MEG, MRI, TMS) dataset from healthy adults (n=170).
 
 [Home Page](https://git.cardiff.ac.uk/cubric/wand) -
 [Paper](https://doi.org/10.1038/s41597-024-04154-7)
