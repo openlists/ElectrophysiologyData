@@ -268,7 +268,7 @@ MOABB is a project for benchmarking BCI algorithms, which includes tools for acc
 
 The following labs are collections of datasets from particular labs:
 - Narayanan lab: predominantly EEG datasets collected from humans, including Parkinson's patients:
-[Datasets](https://narayanan.lab.uiowa.edu/article/datasets) -
+[Datasets](https://narayanan.lab.uiowa.edu/datasets) -
 [Lab website](https://narayanan.lab.uiowa.edu/)
 
 ### Individual EEG Datasets
@@ -290,8 +290,8 @@ The following are openly available EEG datasets from individual projects / tasks
 [Data](https://osf.io/m64ue) -
 [Paper](https://doi.org/10.1177/0956797617699167)
 - OpenMIIR: EEG data during music perception and imagination (n=10):
-[Home Page](http://www.owenlab.uwo.ca/research/the_openmiir_dataset.html) -
-[Data](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR-RawEEG_v1/)
+[Home Page](https://openmiir.github.io/) -
+[Data](https://github.com/sstober/openmiir)
 - DEAP: Database for Emotion Analysis, EEG data + video recording, while watching videos (n=32):
 [Data](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/) -
 [Paper](https://doi.org/10.1109/T-AFFC.2011.15)
@@ -331,7 +331,7 @@ The following are openly available EEG datasets from individual projects / tasks
 [Paper](https://doi.org/10.1038/s41597-022-01538-5)
 - An EEG dataset while participants read Chinese (n=10):
 [Data](https://openneuro.org/datasets/ds004952) -
-[Paper](https://doi.org/10.1101/2024.02.08.579481)
+[Paper](https://doi.org/10.1038/s41597-024-03398-7)
 - A High-Resolution EEG Dataset for Emotion Research (n=40):
 [Data](https://www.interdigital.com/data_sets/hr-eeg4emo-dataset) -
 [Paper](https://doi.org/10.1109/TAFFC.2017.2768030)
@@ -341,13 +341,13 @@ The following are openly available EEG datasets from individual projects / tasks
 [Paper](https://doi.org/10.1038/s41597-025-06189-w)
 - FOODEEG: dataset of EEG responses to food images (n=117):
 [Data](https://doi.org/10.18112/openneuro.ds006832.v1.0.0) -
-[Paper](https://doi.org/10.1101/2025.11.07.687287)
+[Preprint](https://doi.org/10.1101/2025.11.07.687287)
 - An EEG dataset of with rapid serial visual presentation (n=50):
 [Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) -
 [Paper](https://doi.org/10.1038/s41597-021-01102-7)
 - EEG data during speech production, in Japanese (n=3; 1020 hours):
 [Data](https://openneuro.org/datasets/ds007808) -
-[Paper](https://doi.org/10.48550/arXiv.2606.01264)
+[Preprint](https://doi.org/10.48550/arXiv.2606.01264)
 
 #### Sleep Recordings
 
@@ -405,7 +405,7 @@ The following are openly available EEG datasets from individual projects / tasks
 [Paper](https://doi.org/10.1016/j.dib.2023.109661)
 - A simultaneous EEG/fMRI with cognitive tasks & experience sampling (n=24):
 [Data](https://openneuro.org/datasets/ds007216) -
-[Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703882v1)
+[Preprint](https://doi.org/10.64898/2026.02.04.703882)
 - A dataset comparing different EEG systems, including 3 sessions per participant (n=14):
 [Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
 - EEG data with carbon wire loops in & out of MR scanners (n=39):
@@ -413,13 +413,13 @@ The following are openly available EEG datasets from individual projects / tasks
 [Paper](https://doi.org/10.1038/s41597-026-06734-1)
 - EEG, eye-tracking, and physiological signals during smartphone interactions (n=23):
 [Data](https://openneuro.org/datasets/ds007537/) -
-[Paper](https://doi.org/10.64898/2026.04.21.719334)
+[Preprint](https://doi.org/10.64898/2026.04.21.719334)
 
 #### BCI Related
 
 - Motor Imagery BCI Data (n=52):
-[Data](http://gigadb.org/dataset/100295) -
-[Paper](https://doi.org/10.5524/100295)
+[Data](https://doi.org/10.5524/100295) -
+[Paper](https://doi.org/10.1093/gigascience/gix034)
 - EEG BCI recordings during mental imagery, across sessions & interaction paradigms (n=13):
 [Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1) -
 [Paper](https://doi.org/10.1038/sdata.2018.211)
@@ -476,7 +476,7 @@ The following are openly available EEG datasets from individual projects / tasks
 [Data](http://mindbigdata.com/opendb/imagenet.html)
 - Simons Sleep Project: sleep data recorded with EEG headband of adolescents with and without autism (n=200; >3600 nights):
 [Data](https://base.sfari.org/dataset/DS0000089) -
-[Paper](https://doi.org/10.1101/2025.02.22.639641)
+[Preprint](https://doi.org/10.1101/2025.02.22.639641)
 
 #### Clinical Recordings
 
@@ -694,7 +694,7 @@ Available datasets with single neuron data from humans:
 [Paper](https://doi.org/10.1038/s41597-020-00790-x)
 - Human single neuron data from neuropixel probes in human cortex (n=3):
 [Data](https://doi.org/10.5061/dryad.d2547d840) -
-[Paper](https://doi.org/10.1101/2021.06.20.449152)
+[Paper](https://doi.org/10.1038/s41593-021-00997-0)
 - Human single unit data with a face perception task (n=12):
 [Data](https://doi.org/10.17605/OSF.IO/824S7) -
 [Paper](https://doi.org/10.1038/s41597-022-01482-4)
