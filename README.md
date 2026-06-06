@@ -271,27 +271,12 @@ The following labs are collections of datasets from particular labs:
 [Datasets](https://narayanan.lab.uiowa.edu/article/datasets) -
 [Lab website](https://narayanan.lab.uiowa.edu/)
 
-### Individual EEG Datasets - Research Tasks (Research Systems)
+### Individual EEG Datasets
 
-The following are datasets collected with research EEG systems:
-- Motor Imagery BCI Data (n=52):
-[Data](http://gigadb.org/dataset/100295) -
-[Paper](https://doi.org/10.5524/100295)
-- Simultaneous EEG & NIRS during cognitive tasks (n=26):
-[Data](https://depositonce.tu-berlin.de//handle/11303/6271.2) -
-[Paper](https://doi.org/10.1038/sdata.2018.3)
-- EEG during grasp and lift (n=12):
-[Data](https://doi.org/10.6084/m9.figshare.988376) -
-[Paper](https://doi.org/10.1038/sdata.2014.47)
-- EEG, MEG & fMRI data with perceptual task (n=19):
-[Data](https://openneuro.org/datasets/ds000117/versions/00004) -
-[Paper](https://doi.org/10.1038/sdata.2015.1)
-- EEG data with TMS with visual perception task (n=16):
-[Data](https://datadryad.org/resource/doi:10.5061/dryad.1nr07) -
-[Paper](https://doi.org/10.1038/sdata.2016.65)
-- EEG with Motion Capture during treadmill walking (n=8):
-[Data](https://doi.org/10.6084/m9.figshare.c.3894013.v1) -
-[Paper](https://doi.org/10.1038/sdata.2018.74)
+The following are openly available EEG datasets from individual projects / tasks, organized into approximate topics / types.
+
+#### Cognitive Tasks
+
 - EEG data with a visual spatial attention task (n=45):
 [Data](https://osf.io/bwzfj) -
 [Paper](https://doi.org/10.1152/jn.00860.2015)
@@ -307,32 +292,12 @@ The following are datasets collected with research EEG systems:
 - OpenMIIR: EEG data during music perception and imagination (n=10):
 [Home Page](http://www.owenlab.uwo.ca/research/the_openmiir_dataset.html) -
 [Data](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR-RawEEG_v1/)
-- EEG data from subjects napping after a working memory task (n=22):
-[Data](https://osf.io/chav7/) -
-[Paper](https://doi.org/10.1016/j.compbiomed.2017.08.030)
 - DEAP: Database for Emotion Analysis, EEG data + video recording, while watching videos (n=32):
 [Data](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/) -
 [Paper](https://doi.org/10.1109/T-AFFC.2011.15)
 - A collection of EEG tasks with speech studies (n=84, split across 5 tasks):
 [Data](https://doi.org/10.5061/dryad.070jc) -
 [Paper](https://doi.org/10.1016/j.cub.2018.01.080)
-- EEG recordings with concurrent EMG while doing everyday tasks (n=27):
-[Data](http://researchdata.gla.ac.uk/676/)
-- Multi-modal (EEG, EMG, EOG) recordings during movement tasks (n=25):
-[Data](http://doi.org/10.5524/100788) -
-[Paper](https://doi.org/10.1093/gigascience/giaa098)
-- EEG BCI recordings during mental imagery, across sessions & interaction paradigms (n=13):
-[Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1) -
-[Paper](https://doi.org/10.1038/sdata.2018.211)
-- EEG resting state data, with MRI anatomical scans (n=12):
-[Data](https://doi.org/10.5061/dryad.v9f16) -
-[Paper]( https://doi.org/10.1371/journal.pone.0146845)
-- Multi-day, multi band SSVEP dataset for BCI applications (n=30):
-[Data](https://doi.org/10.5524/100660) -
-[Paper](https://doi.org/10.1093/gigascience/giz133)
-- Multi-day, dataset from sleep (naps) recorded after visual working memory task (n=22):
-[Data](https://osf.io/chav7/) -
-[Paper](https://doi.org/10.1016/j.dib.2018.04.073)
 - EEG dataset from subjects viewing images (n=24):
 [Data](https://doi.org/10.12751/g-node.bcccab) -
 [Paper](https://doi.org/10.1016/j.dib.2019.103857)
@@ -349,65 +314,18 @@ The following are datasets collected with research EEG systems:
 - A large EEG dataset with a simple gambling task (n=500):
 [Data](https://osf.io/65x4v/) -
 [Paper](https://doi.org/10.1111/psyp.13722)
-- A dataset comparing different EEG systems, including 3 sessions per participant (n=14):
-[Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
-- An EEG/BCI dataset for inner speech recognition (n=10):
-[Data](https://openneuro.org/datasets/ds003626/versions/1.0.1) -
-[Paper](https://doi.org/10.1038/s41597-022-01147-2)
-- An EEG/BCI sensorimotor dataset, with longitudinal data (n=62):
-[Data](https://doi.org/10.6084/m9.figshare.13123148) -
-[Paper](https://doi.org/10.1038/s41597-021-00883-1)
-- An EEG dataset of with rapid serial visual presentation (n=50):
-[Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) -
-[Paper](https://doi.org/10.1038/s41597-021-01102-7)
-- A dataset of hdEEG during transcranial electrical stimulation (n=20):
-[Data](https://zenodo.org/record/4456079) -
-[Paper](https://doi.org/10.1038/s41597-021-01046-y)
-- Mobile BCI dataset of scalp and ear EEG with ERP and SSVEP paradigms while standing and moving (n=24):
-[Data](https://doi.org/10.17605/OSF.IO/R7S9Bhttps) -
-[Paper](https://doi.org/10.1038/s41597-021-01094-4)
-- Polysomnography dataset, including 3 EEG channels, for sleep apnea studies (n=212):
-[Data](https://doi.org/10.11922/sciencedb.00345) -
-[Paper](https://doi.org/10.1038/s41597-021-00977-w)
-- EEG and EMG data during perturbed walking and standing (n=30):
-[Data](https://doi.org/10.1016/j.dib.2021.107635) -
-[Paper](https://doi.org/10.1016/j.dib.2021.107635)
-- EEG data in subjects with claustrophobia, and controls, resting state in different sized rooms (n=22):
-[Data](https://doi.org/10.1016/j.dib.2021.107733) -
-[Paper](https://doi.org/10.1016/j.dib.2021.107733)
-- A dataset of arm motion in healthy and post-stroke subjects, with some EEG data (n=45 with EEG):
-[Data](https://doi.org/10.7910/DVN/FU3QZ9) -
-[Paper](https://doi.org/10.1093/gigascience/giab043)
 - A dataset of EEG and behavioral data with a visual working memory task in virtual reality (n=47):
 [Data](https://osf.io/s9xmu/) -
 [Paper](https://doi.org/10.1016/j.dib.2022.107827)
 - The Nencki-Symfonia EEG/ERP dataset, high-density EEG with rest data and three tasks, including a Multi-Source Interference Task, an oddball task and a simple reaction task (n=42):
 [Data](http://doi.org/10.5524/100990) -
 [Paper](https://doi.org/10.1093/gigascience/giac015)
-- EEG from infants age 1-7 months, with longitudinal recordings (n=19):
-[Data](https://figshare.com/articles/dataset/infant_EEG_data/5598814/1) -
-[Paper](https://doi.org/10.1371/journal.pone.0190276)
 - A dataset of EEG data during visual object recognition, with a large number of trials per participant (n=10):
 [Data](https://osf.io/3jk45/) -
 [Paper](https://doi.org/10.1016/j.neuroimage.2022.119754)
 - A dataset of resting-state EEG from before and after cognitive activity across the adult lifespan (n=608):
 [Data](https://openneuro.org/datasets/ds005385/) -
 [Paper](https://doi.org/10.1038/s41597-024-03797-w)
-- A dataset of longitudinal sleep EEG recordings in babies (n=103):
-[Data](https://openneuro.org/datasets/ds004577/) -
-[Paper](https://doi.org/10.1038/s41597-024-03606-4)
-- The ANPHY-Sleep dataset of sleep EEG from healthy adults (n=29):
-[Data](https://osf.io/r26fh/) -
-[Paper](https://doi.org/10.1038/s41597-024-03722-1)
-- A dataset of EEG with simultaneous fMRI during naturalistic viewing (n=22):
-[Data](https://doi.org/10.15387/fcp_indi.retro.Nat_View) -
-[Paper](https://doi.org/10.1038/s41597-023-02458-8)
-- A dataset of EEG with simultaneous fMRI during sleep (n=33):
-[Data](https://openneuro.org/datasets/ds003768/versions/1.0.3) -
-[Paper](https://doi.org/10.1016/j.neuroimage.2022.119720)
-- A dataset of EEG recordings with TMS and TBS stimulation (n=24):
-[Data](https://doi.org/10.25452/figshare.plus.c.5910329) -
-[Paper](https://doi.org/10.1038/s41597-022-01820-6)
 - An EEG dataset with resting state and semantic judgment tasks (n=31):
 [Data](https://openneuro.org/datasets/ds003766) -
 [Paper](https://doi.org/10.1038/s41597-022-01538-5)
@@ -417,12 +335,6 @@ The following are datasets collected with research EEG systems:
 - A High-Resolution EEG Dataset for Emotion Research (n=40):
 [Data](https://www.interdigital.com/data_sets/hr-eeg4emo-dataset) -
 [Paper](https://doi.org/10.1109/TAFFC.2017.2768030)
-- Infant EEG data during rapid serial visual presentation paradigm (n=42):
-[Data](https://openneuro.org/datasets/ds005106/versions/1.5.0) -
-[Paper](https://doi.org/10.1038/s41597-025-04744-z)
-- Multimodal dataset of MRI and EEG data (n=20):
-[Data](https://doi.org/10.17632/crhybxpdy6.2) -
-[Paper](https://doi.org/10.1016/j.dib.2023.109661)
 - EEG data on aesthetic & creative judgments of poetry (n=51):
 [Data1](https://doi.org/10.18112/openneuro.ds006648.v1.0.0) -
 [Data2](https://doi.org/10.18112/openneuro.ds006647.v1.0.1) -
@@ -430,13 +342,96 @@ The following are datasets collected with research EEG systems:
 - FOODEEG: dataset of EEG responses to food images (n=117):
 [Data](https://doi.org/10.18112/openneuro.ds006832.v1.0.0) -
 [Paper](https://doi.org/10.1101/2025.11.07.687287)
-- A simultaneous EEG/fMRI with cognitive tasks & experience sampling (n=24):
-[Data](https://openneuro.org/datasets/ds007216) -
-[Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703882v1)
+- An EEG dataset of with rapid serial visual presentation (n=50):
+[Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) -
+[Paper](https://doi.org/10.1038/s41597-021-01102-7)
+
+#### Sleep Recordings
+
+- EEG data from subjects napping after a working memory task (n=22):
+[Data](https://osf.io/chav7/) -
+[Paper](https://doi.org/10.1016/j.compbiomed.2017.08.030)
+- Multi-day, dataset from sleep (naps) recorded after visual working memory task (n=22):
+[Data](https://osf.io/chav7/) -
+[Paper](https://doi.org/10.1016/j.dib.2018.04.073)
+- Polysomnography dataset, including 3 EEG channels, for sleep apnea studies (n=212):
+[Data](https://doi.org/10.11922/sciencedb.00345) -
+[Paper](https://doi.org/10.1038/s41597-021-00977-w)
+- A dataset of longitudinal sleep EEG recordings in babies (n=103):
+[Data](https://openneuro.org/datasets/ds004577/) -
+[Paper](https://doi.org/10.1038/s41597-024-03606-4)
+- The ANPHY-Sleep dataset of sleep EEG from healthy adults (n=29):
+[Data](https://osf.io/r26fh/) -
+[Paper](https://doi.org/10.1038/s41597-024-03722-1)
+- A dataset of EEG with simultaneous fMRI during sleep (n=33):
+[Data](https://openneuro.org/datasets/ds003768/versions/1.0.3) -
+[Paper](https://doi.org/10.1016/j.neuroimage.2022.119720)
 - Neonatal sleep EEG data (n=118):
 [Data](https://doi.org/10.17605/OSF.IO/ANXFS) -
 [Paper1](https://doi.org/10.1093/sleep/zsy096) -
 [Paper2](https://doi.org/10.1016/j.earlhumdev.2019.07.007)
+
+#### Multimodal Recordings (including stimulation)
+
+- Simultaneous EEG & NIRS during cognitive tasks (n=26):
+[Data](https://depositonce.tu-berlin.de//handle/11303/6271.2) -
+[Paper](https://doi.org/10.1038/sdata.2018.3)
+- EEG data with TMS with visual perception task (n=16):
+[Data](https://datadryad.org/resource/doi:10.5061/dryad.1nr07) -
+[Paper](https://doi.org/10.1038/sdata.2016.65)
+- EEG, MEG & fMRI data with perceptual task (n=19):
+[Data](https://openneuro.org/datasets/ds000117/versions/00004) -
+[Paper](https://doi.org/10.1038/sdata.2015.1)
+- EEG resting state data, with MRI anatomical scans (n=12):
+[Data](https://doi.org/10.5061/dryad.v9f16) -
+[Paper]( https://doi.org/10.1371/journal.pone.0146845)
+- A dataset of hdEEG during transcranial electrical stimulation (n=20):
+[Data](https://zenodo.org/record/4456079) -
+[Paper](https://doi.org/10.1038/s41597-021-01046-y)
+- A dataset of EEG with simultaneous fMRI during naturalistic viewing (n=22):
+[Data](https://doi.org/10.15387/fcp_indi.retro.Nat_View) -
+[Paper](https://doi.org/10.1038/s41597-023-02458-8)
+- A dataset of EEG recordings with TMS and TBS stimulation (n=24):
+[Data](https://doi.org/10.25452/figshare.plus.c.5910329) -
+[Paper](https://doi.org/10.1038/s41597-022-01820-6)
+- Multimodal dataset of MRI and EEG data (n=20):
+[Data](https://doi.org/10.17632/crhybxpdy6.2) -
+[Paper](https://doi.org/10.1016/j.dib.2023.109661)
+- A simultaneous EEG/fMRI with cognitive tasks & experience sampling (n=24):
+[Data](https://openneuro.org/datasets/ds007216) -
+[Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703882v1)
+- A dataset comparing different EEG systems, including 3 sessions per participant (n=14):
+[Data](https://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU)
+
+#### BCI Related
+
+- Motor Imagery BCI Data (n=52):
+[Data](http://gigadb.org/dataset/100295) -
+[Paper](https://doi.org/10.5524/100295)
+- EEG BCI recordings during mental imagery, across sessions & interaction paradigms (n=13):
+[Data](https://doi.org/10.6084/m9.figshare.c.3917698.v1) -
+[Paper](https://doi.org/10.1038/sdata.2018.211)
+- Multi-day, multi band SSVEP dataset for BCI applications (n=30):
+[Data](https://doi.org/10.5524/100660) -
+[Paper](https://doi.org/10.1093/gigascience/giz133)
+- An EEG/BCI dataset for inner speech recognition (n=10):
+[Data](https://openneuro.org/datasets/ds003626/versions/1.0.1) -
+[Paper](https://doi.org/10.1038/s41597-022-01147-2)
+- An EEG/BCI sensorimotor dataset, with longitudinal data (n=62):
+[Data](https://doi.org/10.6084/m9.figshare.13123148) -
+[Paper](https://doi.org/10.1038/s41597-021-00883-1)
+- Mobile BCI dataset of scalp and ear EEG with ERP and SSVEP paradigms while standing and moving (n=24):
+[Data](https://doi.org/10.17605/OSF.IO/R7S9Bhttps) -
+[Paper](https://doi.org/10.1038/s41597-021-01094-4)
+
+#### Developmental Data
+
+- EEG from infants age 1-7 months, with longitudinal recordings (n=19):
+[Data](https://figshare.com/articles/dataset/infant_EEG_data/5598814/1) -
+[Paper](https://doi.org/10.1371/journal.pone.0190276)
+- Infant EEG data during rapid serial visual presentation paradigm (n=42):
+[Data](https://openneuro.org/datasets/ds005106/versions/1.5.0) -
+[Paper](https://doi.org/10.1038/s41597-025-04744-z)
 - Neonatal somatosensory event-related potentials to face, hand and foot stimulation (n=7):
 [Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207145#sec020) -
 [Paper](https://doi.org/10.1371/journal.pone.0207145)
@@ -444,9 +439,25 @@ The following are datasets collected with research EEG systems:
 [Data](https://doi.org/10.5255/UKDA-SN-853204) -
 [Paper](https://doi.org/10.1038/sdata.2018.248)
 
-### Individual EEG Datasets - Research Tasks (Consumer Systems)
+#### Motor / Movement Related
 
-The following are available EEG datasets collected with consumer EEG systems:
+- EEG during grasp and lift (n=12):
+[Data](https://doi.org/10.6084/m9.figshare.988376) -
+[Paper](https://doi.org/10.1038/sdata.2014.47)
+- EEG with Motion Capture during treadmill walking (n=8):
+[Data](https://doi.org/10.6084/m9.figshare.c.3894013.v1) -
+[Paper](https://doi.org/10.1038/sdata.2018.74)
+- EEG and EMG data during perturbed walking and standing (n=30):
+[Data](https://doi.org/10.1016/j.dib.2021.107635) -
+[Paper](https://doi.org/10.1016/j.dib.2021.107635)
+- EEG (as well as EMG & EOG) recordings during movement tasks (n=25):
+[Data](http://doi.org/10.5524/100788) -
+[Paper](https://doi.org/10.1093/gigascience/giaa098)
+- EEG recordings with concurrent EMG while doing everyday tasks (n=27):
+[Data](http://researchdata.gla.ac.uk/676/)
+
+#### Recordings with Consumer Systems
+
 - MNIST of Brain Data from MindBigData (n=1 with 1.2 million trials):
 [Data](http://mindbigdata.com/opendb/index.html)
 - ImageNet of the Brain from MindBigData (n=1 with 70,000 trials):
@@ -455,7 +466,7 @@ The following are available EEG datasets collected with consumer EEG systems:
 [Data](https://base.sfari.org/dataset/DS0000089) -
 [Paper](https://doi.org/10.1101/2025.02.22.639641)
 
-### Individual EEG Datasets - Clinical Recordings
+#### Clinical Recordings
 
 The following are available EEG datasets collected in the context of clinical recordings / disease states:
 - Resting state data from Parkinson's patients, with healthy controls (n=28):
@@ -481,6 +492,12 @@ The following are available EEG datasets collected in the context of clinical re
 - Neonate EEG & ECG recordings with and without eye shields (n=18):
 [Data](https://doi.org/10.17605/OSF.IO/TVPJF) -
 [Paper](https://doi.org/10.1016/j.earlhumdev.2026.106523)
+- A dataset of arm motion in healthy and post-stroke subjects, with some EEG data (n=45 with EEG):
+[Data](https://doi.org/10.7910/DVN/FU3QZ9) -
+[Paper](https://doi.org/10.1093/gigascience/giab043)
+- EEG data in subjects with claustrophobia, and controls, resting state in different sized rooms (n=22):
+[Data](https://doi.org/10.1016/j.dib.2021.107733) -
+[Paper](https://doi.org/10.1016/j.dib.2021.107733)
 
 ### Other lists of EEG Data
 
