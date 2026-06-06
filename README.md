@@ -208,7 +208,7 @@ A large dataset of EEG data (n>300), covering 5 experiments in which subjects pe
 
 [Home Page](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) -
 [Data](https://memory.psych.upenn.edu/Data_Archive) -
-[Paper](https://psyarxiv.com/bu5x8/)
+[Paper](https://doi.org/10.1037/xlm0001319)
 
 ### TUH - Temple University Hospital Corpus
 
@@ -566,7 +566,7 @@ The following are openly available datasets with MEG data:
 [Paper](https://doi.org/10.1038/s41597-021-00899-7)
 - MEG-MASC, a dataset of English speakers listening to naturalistic stories (n=27):
 [Data](https://osf.io/ag3kj/) -
-[Paper](https://arxiv.org/abs/2208.11488)
+[Paper](https://doi.org/10.1038/s41597-023-02752-5)
 - MEG data during pharmacological manipulation including taigabine, ketamine, and LSD (n=68):
 [Data](https://doi.org/10.7910/DVN/9Q1SKM) -
 [Paper](https://doi.org/10.1016/j.neuroimage.2018.06.068)
@@ -630,7 +630,7 @@ The following are openly available datasets with human intracranial data:
 [Paper](https://doi.org/10.1038/s41597-022-01173-0)
 - A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12):
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
-[Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
+[Paper](https://doi.org/10.1038/s41597-022-01280-y)
 - Data from subjects with simultaneous EEG recordings and intracranial electrical stimulation (n=7):
 [Data](https://doi.org/10.25493/NXN2-05W) -
 [Paper](https://doi.org/10.1038/s41597-020-0467-x)
